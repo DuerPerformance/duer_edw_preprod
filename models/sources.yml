@@ -1,0 +1,188 @@
+version: 2
+sources:
+  - name: FIVETRAN_DB
+    schema: SAP
+    database: FIVETRAN_DB
+    tables:
+      - name: CA_OSLP
+        identifier: DISHDUER_CA_OSLP
+      - name: US_OSLP
+        identifier: DISHDUER_USA_OSLP
+      - name: PMX_SLIT
+        identifier: DISHDUER_CA_PMX_SLIT
+      - name: V33_SO_TYPE
+        identifier: DISHDUER_CA_V33_SO_TYPE
+      - name: V33_CR
+        identifier: DISHDUER_CA_V33_CR
+      - name: CA_UFD1
+        identifier: DISHDUER_CA_UFD1
+      - name: US_UFD1
+        identifier: DISHDUER_USA_UFD1
+      - name: CA_OCRG
+        identifier: DISHDUER_CA_OCRG
+      - name: US_OCRG
+        identifier: DISHDUER_USA_OCRG
+      - name: CA_JDT1
+        identifier: DISHDUER_CA_JDT1
+      - name: US_JDT1
+        identifier: DISHDUER_USA_JDT1
+      - name: CA_CRD1
+        identifier: DISHDUER_CA_CRD1
+      - name: US_CRD1
+        identifier: DISHDUER_USA_CRD1
+      - name: ARGNS_COLOR
+        identifier: DISHDUER_CA_ARGNS_COLOR
+      - name: CA_OITM
+        identifier: DISHDUER_CA_OITM
+      - name: US_OITM
+        identifier: DISHDUER_USA_OITM
+      - name: CA_ODLN
+        identifier: DISHDUER_CA_ODLN
+      - name: US_ODLN
+        identifier: DISHDUER_USA_ODLN
+      - name: CA_RDR1
+        identifier: DISHDUER_CA_RDR1
+      - name: US_RDR1
+        identifier: DISHDUER_USA_RDR1
+      - name: CA_ORDR
+        identifier: DISHDUER_CA_ORDR
+      - name: US_ORDR
+        identifier: DISHDUER_USA_ORDR
+      - name: ARGNS_COLLECTION
+        identifier: DISHDUER_CA_ARGNS_COLLECTION
+      - name: ARGNS_MODEL
+        identifier: DISHDUER_CA_ARGNS_MODEL
+      - name: ARGNS_MODELGRP
+        identifier: DISHDUER_CA_ARGNS_MODELGRP
+      - name: CA_OPRC
+        identifier: DISHDUER_CA_OPRC
+      - name: US_OPRC
+        identifier: DISHDUER_USA_OPRC
+      - name: CA_OCRD
+        identifier: DISHDUER_CA_OCRD
+      - name: US_OCRD
+        identifier: DISHDUER_USA_OCRD
+      - name: DD_PLANCHANNEL
+        identifier: DISHDUER_CA_DD_PLANCHANNEL
+      - name: CA_OWHS
+        identifier: DISHDUER_CA_OWHS
+      - name: US_OWHS
+        identifier: DISHDUER_USA_OWHS
+      - name: CA_RDR12
+        identifier: DISHDUER_CA_RDR12
+      - name: US_RDR12
+        identifier: DISHDUER_USA_RDR12
+      - name: CA_OACT
+        identifier: DISHDUER_CA_OACT
+      - name: US_OACT
+        identifier: DISHDUER_USA_OACT
+      - name: OITB
+        identifier: DISHDUER_CA_OITB
+      - name: ARGNS_SCALE
+        identifier: DISHDUER_CA_ARGNS_SCALE
+      - name: CA_OINV
+        identifier: DISHDUER_CA_OINV
+      - name: US_OINV
+        identifier: DISHDUER_USA_OINV
+      - name: CA_OJDT
+        identifier: DISHDUER_CA_OJDT
+      - name: US_OJDT
+        identifier: DISHDUER_USA_OJDT
+      - name: ARGNS_PRODLINE
+        identifier: DISHDUER_CA_ARGNS_PRODLINE
+      - name: ARGNS_DIV
+        identifier: DISHDUER_CA_ARGNS_DIV
+      - name: CA_DLN1
+        identifier: DISHDUER_CA_DLN1
+      - name: US_DLN1
+        identifier: DISHDUER_USA_DLN1
+      - name: ARGNS_BRAND
+        identifier: DISHDUER_CA_ARGNS_BRAND
+      - name: ORTT
+        identifier: DISHDUER_CA_ORTT
+      - name: ORTT_USA
+        identifier: DISHDUER_USA_ORTT
+
+  - name: SHOPIFY_CA_SRC
+    schema: SHOPIFY_CA
+    database: FIVETRAN_DB
+    tables:
+      - name: CA_ORDER
+        identifier: '"ORDER"'
+      - name: CA_ORDER_LINE
+        identifier: ORDER_LINE
+      - name: CA_ORDER_LINE_REFUND
+        identifier: ORDER_LINE_REFUND
+      - name: CA_CUSTOMER
+        identifier: CUSTOMER
+      - name: CA_CUSTOMER_ADDRESS
+        identifier: CUSTOMER_ADDRESS
+
+  - name: SHOPIFY_US_SRC
+    schema: SHOPIFY_US
+    database: FIVETRAN_DB
+    tables:
+      - name: US_ORDER
+        identifier: '"ORDER"'
+      - name: US_ORDER_LINE
+        identifier: ORDER_LINE
+      - name: US_ORDER_LINE_REFUND
+        identifier: ORDER_LINE_REFUND
+      - name: US_CUSTOMER
+        identifier: CUSTOMER
+      - name: US_CUSTOMER_ADDRESS
+        identifier: CUSTOMER_ADDRESS
+
+  - name: BUDGET
+    schema: BUDGETS
+    database: FIVETRAN_DB
+    tables:
+      - name: BUDGET_CGY
+        identifier: BUDGET_2025_RETAIL_CGY
+      - name: BUDGET_VAN
+        identifier: BUDGET_2025_RETAIL_VAN
+      - name: BUDGET_SQ_1
+        identifier: BUDGET_2025_RETAIL_SQ_1
+      - name: BUDGET_OTT
+        identifier: BUDGET_2025_RETAIL_OTT
+      - name: BUDGET_TO
+        identifier: BUDGET_2025_RETAIL_TO
+      - name: BUDGET_ED
+        identifier: BUDGET_2025_RETAIL_ED
+      - name: BUDGET_LA
+        identifier: BUDGET_2025_RETAIL_LA
+      - name: BUDGET_DEN
+        identifier: BUDGET_2025_RETAIL_DEN
+      - name: BUDGET_ECOMM_CA
+        identifier: BUDGET_2025_ECOMM_CA
+      - name: BUDGET_ECOMM_US
+        identifier: BUDGET_2025_ECOMM_US
+      - name: BUDGET_ECOMM_US_2024
+        identifier: BUDGET_2024_ECOMM_US
+      - name: BUDGET_ECOMM_CA_2024
+        identifier: BUDGET_2024_ECOMM_CA
+      - name: BUDGET_CGY_2024
+        identifier: BUDGET_2024_RETAIL_CGY
+      - name: BUDGET_VAN_2024
+        identifier: BUDGET_2024_RETAIL_VAN
+      - name: BUDGET_SQ_1_2024
+        identifier: BUDGET_2024_RETAIL_SQ_1
+      - name: BUDGET_TO_2024
+        identifier: BUDGET_2024_RETAIL_TO
+      - name: BUDGET_LA_2024
+        identifier: BUDGET_2024_RETAIL_LA
+      - name: BUDGET_DEN_2024
+        identifier: BUDGET_2024_RETAIL_DEN
+
+      - name: BUDGET_ECOMM_US_2023
+        identifier: BUDGET_2023_ECOMM_US
+      - name: BUDGET_ECOMM_CA_2023
+        identifier: BUDGET_2023_ECOMM_CA
+      - name: BUDGET_CGY_2023
+        identifier: BUDGET_2023_RETAIL_CGY
+      - name: BUDGET_VAN_2023
+        identifier: BUDGET_2023_RETAIL_VAN
+      - name: BUDGET_LA_2023
+        identifier: BUDGET_2023_RETAIL_LA
+      - name: BUDGET_DEN_2023
+        identifier: BUDGET_2023_RETAIL_DEN

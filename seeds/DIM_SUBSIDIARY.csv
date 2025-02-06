@@ -1,0 +1,4 @@
+Subsidiary_key,Subsidiary_ID,Name,Currency,Parent_ID,SubsidiaryL0,SubsidiaryL1,SubsidiaryL2,SubsidiaryL3,Comment
+1,PPACA,Pimlico Performance Apparel Canada,CAD,PPACONSOL,Pimlico Performance Apparel Consolidated,Pimlico Performance Apparel Canada,Pimlico Performance Apparel Canada,Pimlico Performance Apparel Canada
+2,PPAUS,Pimlico Performance Apparel USA ,USD,PPACONSOL,Pimlico Performance Apparel Consolidated,Pimlico Performance Apparel USA,Pimlico Performance Apparel USA,Pimlico Performance Apparel USA
+3,PPACONSOL,Pimlico Performance Apparel Consolidated,CAD

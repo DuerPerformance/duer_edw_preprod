@@ -1,0 +1,19 @@
+seeds:
+  - name: DIM_CITIES
+    config:
+      schema: EDW
+  - name: DIM_COUNTRIES
+    config:
+      schema: EDW
+  - name: DIM_STATES
+    config:
+      schema: EDW
+  - name: DIM_SUBSIDIARY
+    config:
+      schema: EDW
+  - name: Shape
+    config:
+      schema: EDW
+  - name: Budget_FY24_FDM
+    config:
+      schema: EDW

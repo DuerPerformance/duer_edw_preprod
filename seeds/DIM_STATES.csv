@@ -1,0 +1,5024 @@
+id,name,country_id,country_code,country_name,state_code
+3901,Badakhshan,1,AF,Afghanistan,BDS
+3871,Badghis,1,AF,Afghanistan,BDG
+3875,Baghlan,1,AF,Afghanistan,BGL
+3884,Balkh,1,AF,Afghanistan,BAL
+3872,Bamyan,1,AF,Afghanistan,BAM
+3892,Daykundi,1,AF,Afghanistan,DAY
+3899,Farah,1,AF,Afghanistan,FRA
+3889,Faryab,1,AF,Afghanistan,FYB
+3870,Ghazni,1,AF,Afghanistan,GHA
+3888,Ghōr,1,AF,Afghanistan,GHO
+3873,Helmand,1,AF,Afghanistan,HEL
+3887,Herat,1,AF,Afghanistan,HER
+3886,Jowzjan,1,AF,Afghanistan,JOW
+3902,Kabul,1,AF,Afghanistan,KAB
+3890,Kandahar,1,AF,Afghanistan,KAN
+3879,Kapisa,1,AF,Afghanistan,KAP
+3878,Khost,1,AF,Afghanistan,KHO
+3876,Kunar,1,AF,Afghanistan,KNR
+3900,Kunduz Province,1,AF,Afghanistan,KDZ
+3891,Laghman,1,AF,Afghanistan,LAG
+3897,Logar,1,AF,Afghanistan,LOG
+3882,Nangarhar,1,AF,Afghanistan,NAN
+3896,Nimruz,1,AF,Afghanistan,NIM
+3880,Nuristan,1,AF,Afghanistan,NUR
+3894,Paktia,1,AF,Afghanistan,PIA
+3877,Paktika,1,AF,Afghanistan,PKA
+3881,Panjshir,1,AF,Afghanistan,PAN
+3895,Parwan,1,AF,Afghanistan,PAR
+3883,Samangan,1,AF,Afghanistan,SAM
+3885,Sar-e Pol,1,AF,Afghanistan,SAR
+3893,Takhar,1,AF,Afghanistan,TAK
+3898,Urozgan,1,AF,Afghanistan,URU
+3874,Zabul,1,AF,Afghanistan,ZAB
+603,Berat County,3,AL,Albania,1
+629,Berat District,3,AL,Albania,BR
+607,Bulqizë District,3,AL,Albania,BU
+618,Delvinë District,3,AL,Albania,DL
+608,Devoll District,3,AL,Albania,DV
+610,Dibër County,3,AL,Albania,9
+605,Dibër District,3,AL,Albania,DI
+632,Durrës County,3,AL,Albania,2
+639,Durrës District,3,AL,Albania,DR
+598,Elbasan County,3,AL,Albania,3
+631,Fier County,3,AL,Albania,4
+627,Fier District,3,AL,Albania,FR
+604,Gjirokastër County,3,AL,Albania,5
+621,Gjirokastër District,3,AL,Albania,GJ
+617,Gramsh District,3,AL,Albania,GR
+600,Has District,3,AL,Albania,HA
+594,Kavajë District,3,AL,Albania,KA
+628,Kolonjë District,3,AL,Albania,ER
+630,Korçë County,3,AL,Albania,6
+597,Korçë District,3,AL,Albania,KO
+614,Krujë District,3,AL,Albania,KR
+612,Kuçovë District,3,AL,Albania,KC
+601,Kukës County,3,AL,Albania,7
+623,Kukës District,3,AL,Albania,KU
+622,Kurbin District,3,AL,Albania,KB
+609,Lezhë County,3,AL,Albania,8
+595,Lezhë District,3,AL,Albania,LE
+596,Librazhd District,3,AL,Albania,LB
+599,Lushnjë District,3,AL,Albania,LU
+602,Malësi e Madhe District,3,AL,Albania,MM
+637,Mallakastër District,3,AL,Albania,MK
+635,Mat District,3,AL,Albania,MT
+638,Mirditë District,3,AL,Albania,MR
+619,Peqin District,3,AL,Albania,PQ
+625,Përmet District,3,AL,Albania,PR
+606,Pogradec District,3,AL,Albania,PG
+620,Pukë District,3,AL,Albania,PU
+624,Sarandë District,3,AL,Albania,SR
+611,Shkodër County,3,AL,Albania,10
+626,Shkodër District,3,AL,Albania,SH
+593,Skrapar District,3,AL,Albania,SK
+616,Tepelenë District,3,AL,Albania,TE
+615,Tirana County,3,AL,Albania,11
+633,Tirana District,3,AL,Albania,TR
+636,Tropojë District,3,AL,Albania,TP
+634,Vlorë County,3,AL,Albania,12
+613,Vlorë District,3,AL,Albania,VL
+1118,Adrar,4,DZ,Algeria,1
+1119,Aïn Defla,4,DZ,Algeria,44
+1122,Aïn Témouchent,4,DZ,Algeria,46
+1144,Algiers,4,DZ,Algeria,16
+1103,Annaba,4,DZ,Algeria,23
+1142,Batna,4,DZ,Algeria,5
+1108,Béchar,4,DZ,Algeria,8
+1128,Béjaïa,4,DZ,Algeria,6
+4909,Béni Abbès,4,DZ,Algeria,53
+1114,Biskra,4,DZ,Algeria,7
+1111,Blida,4,DZ,Algeria,9
+4908,Bordj Baji Mokhtar,4,DZ,Algeria,52
+1116,Bordj Bou Arréridj,4,DZ,Algeria,34
+1104,Bouïra,4,DZ,Algeria,10
+1125,Boumerdès,4,DZ,Algeria,35
+1105,Chlef,4,DZ,Algeria,2
+1121,Constantine,4,DZ,Algeria,25
+4912,Djanet,4,DZ,Algeria,56
+1098,Djelfa,4,DZ,Algeria,17
+1129,El Bayadh,4,DZ,Algeria,32
+4905,El M'ghair,4,DZ,Algeria,49
+4906,El Menia,4,DZ,Algeria,50
+1099,El Oued,4,DZ,Algeria,39
+1100,El Tarf,4,DZ,Algeria,36
+1127,Ghardaïa,4,DZ,Algeria,47
+1137,Guelma,4,DZ,Algeria,24
+1112,Illizi,4,DZ,Algeria,33
+4914,In Guezzam,4,DZ,Algeria,58
+4913,In Salah,4,DZ,Algeria,57
+1113,Jijel,4,DZ,Algeria,18
+1126,Khenchela,4,DZ,Algeria,40
+1138,Laghouat,4,DZ,Algeria,3
+1134,M'Sila,4,DZ,Algeria,28
+1124,Mascara,4,DZ,Algeria,29
+1109,Médéa,4,DZ,Algeria,26
+1132,Mila,4,DZ,Algeria,43
+1140,Mostaganem,4,DZ,Algeria,27
+1102,Naama,4,DZ,Algeria,45
+1101,Oran,4,DZ,Algeria,31
+1139,Ouargla,4,DZ,Algeria,30
+4907,Ouled Djellal,4,DZ,Algeria,51
+1136,Oum El Bouaghi,4,DZ,Algeria,4
+1130,Relizane,4,DZ,Algeria,48
+1123,Saïda,4,DZ,Algeria,20
+1141,Sétif,4,DZ,Algeria,19
+4902,Sidi Bel Abbès,4,DZ,Algeria,22
+1110,Skikda,4,DZ,Algeria,21
+1143,Souk Ahras,4,DZ,Algeria,41
+1135,Tamanghasset,4,DZ,Algeria,11
+1117,Tébessa,4,DZ,Algeria,12
+1106,Tiaret,4,DZ,Algeria,14
+4910,Timimoun,4,DZ,Algeria,54
+1120,Tindouf,4,DZ,Algeria,37
+1115,Tipasa,4,DZ,Algeria,42
+1133,Tissemsilt,4,DZ,Algeria,38
+1131,Tizi Ouzou,4,DZ,Algeria,15
+1107,Tlemcen,4,DZ,Algeria,13
+4911,Touggourt,4,DZ,Algeria,55
+488,Andorra la Vella,6,AD,Andorra,7
+489,Canillo,6,AD,Andorra,2
+487,Encamp,6,AD,Andorra,3
+492,Escaldes-Engordany,6,AD,Andorra,8
+493,La Massana,6,AD,Andorra,4
+491,Ordino,6,AD,Andorra,5
+490,Sant Julià de Lòria,6,AD,Andorra,6
+221,Bengo Province,7,AO,Angola,BGO
+218,Benguela Province,7,AO,Angola,BGU
+212,Bié Province,7,AO,Angola,BIE
+228,Cabinda Province,7,AO,Angola,CAB
+226,Cuando Cubango Province,7,AO,Angola,CCU
+217,Cuanza Norte Province,7,AO,Angola,CNO
+216,Cuanza Sul,7,AO,Angola,CUS
+215,Cunene Province,7,AO,Angola,CNN
+213,Huambo Province,7,AO,Angola,HUA
+225,Huíla Province,7,AO,Angola,HUI
+222,Luanda Province,7,AO,Angola,LUA
+223,Lunda Norte Province,7,AO,Angola,LNO
+220,Lunda Sul Province,7,AO,Angola,LSU
+227,Malanje Province,7,AO,Angola,MAL
+219,Moxico Province,7,AO,Angola,MOX
+224,Uíge Province,7,AO,Angola,UIG
+214,Zaire Province,7,AO,Angola,ZAI
+3708,Barbuda,10,AG,Antigua and Barbuda,10
+3703,Redonda,10,AG,Antigua and Barbuda,11
+3709,Saint George Parish,10,AG,Antigua and Barbuda,3
+3706,Saint John Parish,10,AG,Antigua and Barbuda,4
+3707,Saint Mary Parish,10,AG,Antigua and Barbuda,5
+3705,Saint Paul Parish,10,AG,Antigua and Barbuda,6
+3704,Saint Peter Parish,10,AG,Antigua and Barbuda,7
+3710,Saint Philip Parish,10,AG,Antigua and Barbuda,8
+3656,Buenos Aires,11,AR,Argentina,B
+3647,Catamarca,11,AR,Argentina,K
+3640,Chaco,11,AR,Argentina,H
+3651,Chubut,11,AR,Argentina,U
+4880,Ciudad Autónoma de Buenos Aires,11,AR,Argentina,C
+3642,Córdoba,11,AR,Argentina,X
+3638,Corrientes,11,AR,Argentina,W
+3654,Entre Ríos,11,AR,Argentina,E
+3652,Formosa,11,AR,Argentina,P
+3645,Jujuy,11,AR,Argentina,Y
+3655,La Pampa,11,AR,Argentina,L
+3653,La Rioja,11,AR,Argentina,F
+3646,Mendoza,11,AR,Argentina,M
+3644,Misiones,11,AR,Argentina,N
+3648,Neuquén,11,AR,Argentina,Q
+3639,Río Negro,11,AR,Argentina,R
+3643,Salta,11,AR,Argentina,A
+3634,San Juan,11,AR,Argentina,J
+3636,San Luis,11,AR,Argentina,D
+3649,Santa Cruz,11,AR,Argentina,Z
+3641,Santa Fe,11,AR,Argentina,S
+3635,Santiago del Estero,11,AR,Argentina,G
+3650,Tierra del Fuego,11,AR,Argentina,V
+3637,Tucumán,11,AR,Argentina,T
+2023,Aragatsotn Region,12,AM,Armenia,AG
+2024,Ararat Province,12,AM,Armenia,AR
+2026,Armavir Region,12,AM,Armenia,AV
+2028,Gegharkunik Province,12,AM,Armenia,GR
+2033,Kotayk Region,12,AM,Armenia,KT
+2029,Lori Region,12,AM,Armenia,LO
+2031,Shirak Region,12,AM,Armenia,SH
+2027,Syunik Province,12,AM,Armenia,SU
+2032,Tavush Region,12,AM,Armenia,TV
+2025,Vayots Dzor Region,12,AM,Armenia,VD
+2030,Yerevan,12,AM,Armenia,ER
+3907,Australian Capital Territory,14,AU,Australia,ACT
+3909,New South Wales,14,AU,Australia,NSW
+3910,Northern Territory,14,AU,Australia,NT
+3905,Queensland,14,AU,Australia,QLD
+3904,South Australia,14,AU,Australia,SA
+3908,Tasmania,14,AU,Australia,TAS
+3903,Victoria,14,AU,Australia,VIC
+3906,Western Australia,14,AU,Australia,WA
+2062,Burgenland,15,AT,Austria,1
+2057,Carinthia,15,AT,Austria,2
+2065,Lower Austria,15,AT,Austria,3
+2061,Salzburg,15,AT,Austria,5
+2059,Styria,15,AT,Austria,6
+2064,Tyrol,15,AT,Austria,7
+2058,Upper Austria,15,AT,Austria,4
+2060,Vienna,15,AT,Austria,9
+2063,Vorarlberg,15,AT,Austria,8
+540,Absheron District,16,AZ,Azerbaijan,ABS
+559,Agdam District,16,AZ,Azerbaijan,AGM
+553,Agdash District,16,AZ,Azerbaijan,AGS
+577,Aghjabadi District,16,AZ,Azerbaijan,AGC
+543,Agstafa District,16,AZ,Azerbaijan,AGA
+547,Agsu District,16,AZ,Azerbaijan,AGU
+528,Astara District,16,AZ,Azerbaijan,AST
+575,Babek District,16,AZ,Azerbaijan,BAB
+552,Baku,16,AZ,Azerbaijan,BA
+560,Balakan District,16,AZ,Azerbaijan,BAL
+569,Barda District,16,AZ,Azerbaijan,BAR
+554,Beylagan District,16,AZ,Azerbaijan,BEY
+532,Bilasuvar District,16,AZ,Azerbaijan,BIL
+561,Dashkasan District,16,AZ,Azerbaijan,DAS
+527,Fizuli District,16,AZ,Azerbaijan,FUZ
+585,Ganja,16,AZ,Azerbaijan,GA
+589,Gədəbəy,16,AZ,Azerbaijan,GAD
+573,Gobustan District,16,AZ,Azerbaijan,QOB
+551,Goranboy District,16,AZ,Azerbaijan,GOR
+531,Goychay,16,AZ,Azerbaijan,GOY
+574,Goygol District,16,AZ,Azerbaijan,GYG
+571,Hajigabul District,16,AZ,Azerbaijan,HAC
+544,Imishli District,16,AZ,Azerbaijan,IMI
+564,Ismailli District,16,AZ,Azerbaijan,ISM
+570,Jabrayil District,16,AZ,Azerbaijan,CAB
+578,Jalilabad District,16,AZ,Azerbaijan,CAL
+572,Julfa District,16,AZ,Azerbaijan,CUL
+525,Kalbajar District,16,AZ,Azerbaijan,KAL
+567,Kangarli District,16,AZ,Azerbaijan,KAN
+590,Khachmaz District,16,AZ,Azerbaijan,XAC
+537,Khizi District,16,AZ,Azerbaijan,XIZ
+524,Khojali District,16,AZ,Azerbaijan,XCI
+549,Kurdamir District,16,AZ,Azerbaijan,KUR
+541,Lachin District,16,AZ,Azerbaijan,LAC
+587,Lankaran,16,AZ,Azerbaijan,LAN
+558,Lankaran District,16,AZ,Azerbaijan,LA
+546,Lerik District,16,AZ,Azerbaijan,LER
+568,Martuni,16,AZ,Azerbaijan,XVD
+555,Masally District,16,AZ,Azerbaijan,MAS
+580,Mingachevir,16,AZ,Azerbaijan,MI
+562,Nakhchivan Autonomous Republic,16,AZ,Azerbaijan,NX
+530,Neftchala District,16,AZ,Azerbaijan,NEF
+556,Oghuz District,16,AZ,Azerbaijan,OGU
+534,Ordubad District,16,AZ,Azerbaijan,ORD
+542,Qabala District,16,AZ,Azerbaijan,QAB
+526,Qakh District,16,AZ,Azerbaijan,QAX
+521,Qazakh District,16,AZ,Azerbaijan,QAZ
+563,Quba District,16,AZ,Azerbaijan,QBA
+548,Qubadli District,16,AZ,Azerbaijan,QBI
+588,Qusar District,16,AZ,Azerbaijan,QUS
+557,Saatly District,16,AZ,Azerbaijan,SAT
+565,Sabirabad District,16,AZ,Azerbaijan,SAB
+522,Sadarak District,16,AZ,Azerbaijan,SAD
+545,Salyan District,16,AZ,Azerbaijan,SAL
+536,Samukh District,16,AZ,Azerbaijan,SMX
+591,Shabran District,16,AZ,Azerbaijan,SBN
+579,Shahbuz District,16,AZ,Azerbaijan,SAH
+518,Shaki,16,AZ,Azerbaijan,SA
+586,Shaki District,16,AZ,Azerbaijan,SAK
+529,Shamakhi District,16,AZ,Azerbaijan,SMI
+583,Shamkir District,16,AZ,Azerbaijan,SKR
+535,Sharur District,16,AZ,Azerbaijan,SAR
+520,Shirvan,16,AZ,Azerbaijan,SR
+592,Shusha District,16,AZ,Azerbaijan,SUS
+584,Siazan District,16,AZ,Azerbaijan,SIY
+582,Sumqayit,16,AZ,Azerbaijan,SM
+519,Tartar District,16,AZ,Azerbaijan,TAR
+533,Tovuz District,16,AZ,Azerbaijan,TOV
+539,Ujar District,16,AZ,Azerbaijan,UCA
+550,Yardymli District,16,AZ,Azerbaijan,YAR
+538,Yevlakh,16,AZ,Azerbaijan,YE
+523,Yevlakh District,16,AZ,Azerbaijan,YEV
+581,Zangilan District,16,AZ,Azerbaijan,ZAN
+566,Zaqatala District,16,AZ,Azerbaijan,ZAQ
+576,Zardab District,16,AZ,Azerbaijan,ZAR
+1992,Capital,18,BH,Bahrain,13
+1996,Central,18,BH,Bahrain,16
+1995,Muharraq,18,BH,Bahrain,15
+1994,Northern,18,BH,Bahrain,17
+1993,Southern,18,BH,Bahrain,14
+807,Barisal ,19,BD,Bangladesh,A
+803,Chittagong ,19,BD,Bangladesh,B
+760,Dhaka ,19,BD,Bangladesh,C
+775,Khulna ,19,BD,Bangladesh,D
+758,Mymensingh ,19,BD,Bangladesh,H
+753,Rajshahi ,19,BD,Bangladesh,E
+750,Rangpur ,19,BD,Bangladesh,F
+765,Sylhet ,19,BD,Bangladesh,G
+1228,Christ Church,20,BB,Barbados,1
+1229,Saint Andrew,20,BB,Barbados,2
+1226,Saint George,20,BB,Barbados,3
+1224,Saint James,20,BB,Barbados,4
+1227,Saint John,20,BB,Barbados,5
+1223,Saint Joseph,20,BB,Barbados,6
+1221,Saint Lucy,20,BB,Barbados,7
+1230,Saint Michael,20,BB,Barbados,8
+1222,Saint Peter,20,BB,Barbados,9
+1220,Saint Philip,20,BB,Barbados,10
+1225,Saint Thomas,20,BB,Barbados,11
+2959,Brest Region,21,BY,Belarus,BR
+2955,Gomel Region,21,BY,Belarus,HO
+2956,Grodno Region,21,BY,Belarus,HR
+2958,Minsk,21,BY,Belarus,HM
+2957,Minsk Region,21,BY,Belarus,MI
+2954,Mogilev Region,21,BY,Belarus,MA
+2960,Vitebsk Region,21,BY,Belarus,VI
+1381,Antwerp,22,BE,Belgium,VAN
+1376,Brussels-Capital Region,22,BE,Belgium,BRU
+1377,East Flanders,22,BE,Belgium,VOV
+1373,Flanders,22,BE,Belgium,VLG
+1374,Flemish Brabant,22,BE,Belgium,VBR
+1375,Hainaut,22,BE,Belgium,WHT
+1384,Liège,22,BE,Belgium,WLG
+1372,Limburg,22,BE,Belgium,VLI
+1379,Luxembourg,22,BE,Belgium,WLX
+1378,Namur,22,BE,Belgium,WNA
+1380,Wallonia,22,BE,Belgium,WAL
+1382,Walloon Brabant,22,BE,Belgium,WBR
+1383,West Flanders,22,BE,Belgium,VWV
+264,Belize District,23,BZ,Belize,BZ
+269,Cayo District,23,BZ,Belize,CY
+266,Corozal District,23,BZ,Belize,CZL
+268,Orange Walk District,23,BZ,Belize,OW
+265,Stann Creek District,23,BZ,Belize,SC
+267,Toledo District,23,BZ,Belize,TOL
+3077,Alibori Department,24,BJ,Benin,AL
+3076,Atakora Department,24,BJ,Benin,AK
+3079,Atlantique Department,24,BJ,Benin,AQ
+3078,Borgou Department,24,BJ,Benin,BO
+3070,Collines Department,24,BJ,Benin,CO
+3072,Donga Department,24,BJ,Benin,DO
+3071,Kouffo Department,24,BJ,Benin,KO
+3081,Littoral Department,24,BJ,Benin,LI
+3075,Mono Department,24,BJ,Benin,MO
+3080,Ouémé Department,24,BJ,Benin,OU
+3074,Plateau Department,24,BJ,Benin,PL
+3073,Zou Department,24,BJ,Benin,ZO
+4860,Devonshire,25,BM,Bermuda,DEV
+4861,Hamilton,25,BM,Bermuda,HA
+4863,Paget,25,BM,Bermuda,PAG
+4864,Pembroke,25,BM,Bermuda,PEM
+4866,Saint George's,25,BM,Bermuda,SGE
+4867,Sandys,25,BM,Bermuda,SAN
+4868,Smith's,25,BM,Bermuda,SMI
+4869,Southampton,25,BM,Bermuda,SOU
+4870,Warwick,25,BM,Bermuda,WAR
+240,Bumthang ,26,BT,Bhutan,33
+239,Chukha ,26,BT,Bhutan,12
+238,Dagana ,26,BT,Bhutan,22
+229,Gasa ,26,BT,Bhutan,GA
+232,Haa ,26,BT,Bhutan,13
+234,Lhuntse ,26,BT,Bhutan,44
+242,Mongar ,26,BT,Bhutan,42
+237,Paro ,26,BT,Bhutan,11
+244,Pemagatshel ,26,BT,Bhutan,43
+235,Punakha ,26,BT,Bhutan,23
+243,Samdrup Jongkhar ,26,BT,Bhutan,45
+246,Samtse ,26,BT,Bhutan,14
+247,Sarpang ,26,BT,Bhutan,31
+241,Thimphu ,26,BT,Bhutan,15
+5242,"Trashi Yangtse	",26,BT,Bhutan,TY
+236,Trashigang ,26,BT,Bhutan,41
+245,Trongsa ,26,BT,Bhutan,32
+230,Tsirang ,26,BT,Bhutan,21
+231,Wangdue Phodrang ,26,BT,Bhutan,24
+233,Zhemgang ,26,BT,Bhutan,34
+3375,Beni Department,27,BO,Bolivia,B
+3382,Chuquisaca Department,27,BO,Bolivia,H
+3381,Cochabamba Department,27,BO,Bolivia,C
+3380,La Paz Department,27,BO,Bolivia,L
+3376,Oruro Department,27,BO,Bolivia,O
+3379,Pando Department,27,BO,Bolivia,N
+3383,Potosí Department,27,BO,Bolivia,P
+3377,Santa Cruz Department,27,BO,Bolivia,S
+3378,Tarija Department,27,BO,Bolivia,T
+5086,Bonaire,155,BQ,"Bonaire, Sint Eustatius and Saba",BQ1
+5087,Saba,155,BQ,"Bonaire, Sint Eustatius and Saba",BQ2
+5088,Sint Eustatius,155,BQ,"Bonaire, Sint Eustatius and Saba",BQ3
+472,Bosnian Podrinje Canton,28,BA,Bosnia and Herzegovina,5
+460,Brčko District,28,BA,Bosnia and Herzegovina,BRC
+471,Canton 10,28,BA,Bosnia and Herzegovina,10
+462,Central Bosnia Canton,28,BA,Bosnia and Herzegovina,6
+467,Federation of Bosnia and Herzegovina,28,BA,Bosnia and Herzegovina,BIH
+463,Herzegovina-Neretva Canton,28,BA,Bosnia and Herzegovina,7
+464,Posavina Canton,28,BA,Bosnia and Herzegovina,2
+470,Republika Srpska,28,BA,Bosnia and Herzegovina,SRP
+466,Sarajevo Canton,28,BA,Bosnia and Herzegovina,9
+461,Tuzla Canton,28,BA,Bosnia and Herzegovina,3
+465,Una-Sana Canton,28,BA,Bosnia and Herzegovina,1
+469,West Herzegovina Canton,28,BA,Bosnia and Herzegovina,8
+468,Zenica-Doboj Canton,28,BA,Bosnia and Herzegovina,4
+3067,Central District,29,BW,Botswana,CE
+3061,Ghanzi District,29,BW,Botswana,GH
+3066,Kgalagadi District,29,BW,Botswana,KG
+3062,Kgatleng District,29,BW,Botswana,KL
+3069,Kweneng District,29,BW,Botswana,KW
+3060,Ngamiland,29,BW,Botswana,NG
+3068,North-East District,29,BW,Botswana,NE
+3065,North-West District,29,BW,Botswana,NW
+3064,South-East District,29,BW,Botswana,SE
+3063,Southern District,29,BW,Botswana,SO
+2012,Acre,31,BR,Brazil,AC
+2007,Alagoas,31,BR,Brazil,AL
+1999,Amapá,31,BR,Brazil,AP
+2004,Amazonas,31,BR,Brazil,AM
+2002,Bahia,31,BR,Brazil,BA
+2016,Ceará,31,BR,Brazil,CE
+2017,Distrito Federal,31,BR,Brazil,DF
+2018,Espírito Santo,31,BR,Brazil,ES
+2000,Goiás,31,BR,Brazil,GO
+2015,Maranhão,31,BR,Brazil,MA
+2011,Mato Grosso,31,BR,Brazil,MT
+2010,Mato Grosso do Sul,31,BR,Brazil,MS
+1998,Minas Gerais,31,BR,Brazil,MG
+2009,Pará,31,BR,Brazil,PA
+2005,Paraíba,31,BR,Brazil,PB
+2022,Paraná,31,BR,Brazil,PR
+2006,Pernambuco,31,BR,Brazil,PE
+2008,Piauí,31,BR,Brazil,PI
+1997,Rio de Janeiro,31,BR,Brazil,RJ
+2019,Rio Grande do Norte,31,BR,Brazil,RN
+2001,Rio Grande do Sul,31,BR,Brazil,RS
+2013,Rondônia,31,BR,Brazil,RO
+4858,Roraima,31,BR,Brazil,RR
+2014,Santa Catarina,31,BR,Brazil,SC
+2021,São Paulo,31,BR,Brazil,SP
+2003,Sergipe,31,BR,Brazil,SE
+2020,Tocantins,31,BR,Brazil,TO
+1217,Belait District,33,BN,Brunei,BE
+1216,Brunei-Muara District,33,BN,Brunei,BM
+1218,Temburong District,33,BN,Brunei,TE
+1219,Tutong District,33,BN,Brunei,TU
+4699,Blagoevgrad Province,34,BG,Bulgaria,1
+4715,Burgas Province,34,BG,Bulgaria,2
+4718,Dobrich Province,34,BG,Bulgaria,8
+4693,Gabrovo Province,34,BG,Bulgaria,7
+4704,Haskovo Province,34,BG,Bulgaria,26
+4702,Kardzhali Province,34,BG,Bulgaria,9
+4703,Kyustendil Province,34,BG,Bulgaria,10
+4710,Lovech Province,34,BG,Bulgaria,11
+4696,Montana Province,34,BG,Bulgaria,12
+4712,Pazardzhik Province,34,BG,Bulgaria,13
+4695,Pernik Province,34,BG,Bulgaria,14
+4706,Pleven Province,34,BG,Bulgaria,15
+4701,Plovdiv Province,34,BG,Bulgaria,16
+4698,Razgrad Province,34,BG,Bulgaria,17
+4713,Ruse Province,34,BG,Bulgaria,18
+4882,Shumen,34,BG,Bulgaria,27
+4708,Silistra Province,34,BG,Bulgaria,19
+4700,Sliven Province,34,BG,Bulgaria,20
+4694,Smolyan Province,34,BG,Bulgaria,21
+4705,Sofia City Province,34,BG,Bulgaria,22
+4719,Sofia Province,34,BG,Bulgaria,23
+4707,Stara Zagora Province,34,BG,Bulgaria,24
+4714,Targovishte Province,34,BG,Bulgaria,25
+4717,Varna Province,34,BG,Bulgaria,3
+4709,Veliko Tarnovo Province,34,BG,Bulgaria,4
+4697,Vidin Province,34,BG,Bulgaria,5
+4711,Vratsa Province,34,BG,Bulgaria,6
+4716,Yambol Province,34,BG,Bulgaria,28
+3160,Balé Province,35,BF,Burkina Faso,BAL
+3155,Bam Province,35,BF,Burkina Faso,BAM
+3120,Banwa Province,35,BF,Burkina Faso,BAN
+3152,Bazèga Province,35,BF,Burkina Faso,BAZ
+3138,Boucle du Mouhoun Region,35,BF,Burkina Faso,1
+3121,Bougouriba Province,35,BF,Burkina Faso,BGR
+3131,Boulgou,35,BF,Burkina Faso,BLG
+3153,Cascades Region,35,BF,Burkina Faso,2
+3136,Centre,35,BF,Burkina Faso,3
+3162,Centre-Est Region,35,BF,Burkina Faso,4
+3127,Centre-Nord Region,35,BF,Burkina Faso,5
+3115,Centre-Ouest Region,35,BF,Burkina Faso,6
+3149,Centre-Sud Region,35,BF,Burkina Faso,7
+3167,Comoé Province,35,BF,Burkina Faso,COM
+3158,Est Region,35,BF,Burkina Faso,8
+3148,Ganzourgou Province,35,BF,Burkina Faso,GAN
+3122,Gnagna Province,35,BF,Burkina Faso,GNA
+3143,Gourma Province,35,BF,Burkina Faso,GOU
+3165,Hauts-Bassins Region,35,BF,Burkina Faso,9
+3129,Houet Province,35,BF,Burkina Faso,HOU
+3135,Ioba Province,35,BF,Burkina Faso,IOB
+3168,Kadiogo Province,35,BF,Burkina Faso,KAD
+3112,Kénédougou Province,35,BF,Burkina Faso,KEN
+3132,Komondjari Province,35,BF,Burkina Faso,KMD
+3157,Kompienga Province,35,BF,Burkina Faso,KMP
+3146,Kossi Province,35,BF,Burkina Faso,KOS
+3133,Koulpélogo Province,35,BF,Burkina Faso,KOP
+3161,Kouritenga Province,35,BF,Burkina Faso,KOT
+3147,Kourwéogo Province,35,BF,Burkina Faso,KOW
+3159,Léraba Province,35,BF,Burkina Faso,LER
+3151,Loroum Province,35,BF,Burkina Faso,LOR
+3123,Mouhoun,35,BF,Burkina Faso,MOU
+3116,Nahouri Province,35,BF,Burkina Faso,NAO
+3113,Namentenga Province,35,BF,Burkina Faso,NAM
+3142,Nayala Province,35,BF,Burkina Faso,NAY
+3164,"Nord Region, Burkina Faso",35,BF,Burkina Faso,10
+3156,Noumbiel Province,35,BF,Burkina Faso,NOU
+3141,Oubritenga Province,35,BF,Burkina Faso,OUB
+3144,Oudalan Province,35,BF,Burkina Faso,OUD
+3117,Passoré Province,35,BF,Burkina Faso,PAS
+3125,Plateau-Central Region,35,BF,Burkina Faso,11
+3163,Poni Province,35,BF,Burkina Faso,PON
+3114,Sahel Region,35,BF,Burkina Faso,12
+3154,Sanguié Province,35,BF,Burkina Faso,SNG
+3126,Sanmatenga Province,35,BF,Burkina Faso,SMT
+3139,Séno Province,35,BF,Burkina Faso,SEN
+3119,Sissili Province,35,BF,Burkina Faso,SIS
+3166,Soum Province,35,BF,Burkina Faso,SOM
+3137,Sourou Province,35,BF,Burkina Faso,SOR
+3140,Sud-Ouest Region,35,BF,Burkina Faso,13
+3128,Tapoa Province,35,BF,Burkina Faso,TAP
+3134,Tuy Province,35,BF,Burkina Faso,TUI
+3124,Yagha Province,35,BF,Burkina Faso,YAG
+3150,Yatenga Province,35,BF,Burkina Faso,YAT
+3145,Ziro Province,35,BF,Burkina Faso,ZIR
+3130,Zondoma Province,35,BF,Burkina Faso,ZON
+3118,Zoundwéogo Province,35,BF,Burkina Faso,ZOU
+3196,Bubanza Province,36,BI,Burundi,BB
+3198,Bujumbura Mairie Province,36,BI,Burundi,BM
+3200,Bujumbura Rural Province,36,BI,Burundi,BL
+3202,Bururi Province,36,BI,Burundi,BR
+3201,Cankuzo Province,36,BI,Burundi,CA
+3190,Cibitoke Province,36,BI,Burundi,CI
+3197,Gitega Province,36,BI,Burundi,GI
+3194,Karuzi Province,36,BI,Burundi,KR
+3192,Kayanza Province,36,BI,Burundi,KY
+3195,Kirundo Province,36,BI,Burundi,KI
+3188,Makamba Province,36,BI,Burundi,MA
+3193,Muramvya Province,36,BI,Burundi,MU
+3186,Muyinga Province,36,BI,Burundi,MY
+3187,Mwaro Province,36,BI,Burundi,MW
+3199,Ngozi Province,36,BI,Burundi,NG
+3185,Rumonge Province,36,BI,Burundi,RM
+3189,Rutana Province,36,BI,Burundi,RT
+3191,Ruyigi Province,36,BI,Burundi,RY
+3984,Banteay Meanchey,37,KH,Cambodia,1
+3976,Battambang,37,KH,Cambodia,2
+3991,Kampong Cham,37,KH,Cambodia,3
+3979,Kampong Chhnang,37,KH,Cambodia,4
+3988,Kampong Speu,37,KH,Cambodia,5
+5070,Kampong Thom,37,KH,Cambodia,6
+3981,Kampot,37,KH,Cambodia,7
+3983,Kandal,37,KH,Cambodia,8
+3978,Kep,37,KH,Cambodia,23
+3982,Koh Kong,37,KH,Cambodia,9
+3986,Kratie,37,KH,Cambodia,10
+3985,Mondulkiri,37,KH,Cambodia,11
+3987,Oddar Meanchey,37,KH,Cambodia,22
+3980,Pailin,37,KH,Cambodia,24
+3994,Phnom Penh,37,KH,Cambodia,12
+3973,Preah Vihear,37,KH,Cambodia,13
+3974,Prey Veng,37,KH,Cambodia,14
+3977,Pursat,37,KH,Cambodia,15
+3990,Ratanakiri,37,KH,Cambodia,16
+3992,Siem Reap,37,KH,Cambodia,17
+3989,Sihanoukville,37,KH,Cambodia,18
+3993,Stung Treng,37,KH,Cambodia,19
+3972,Svay Rieng,37,KH,Cambodia,20
+3975,Takeo,37,KH,Cambodia,21
+2663,Adamawa,38,CM,Cameroon,AD
+2660,Centre,38,CM,Cameroon,CE
+2661,East,38,CM,Cameroon,ES
+2656,Far North,38,CM,Cameroon,EN
+2662,Littoral,38,CM,Cameroon,LT
+2665,North,38,CM,Cameroon,NO
+2657,Northwest,38,CM,Cameroon,NW
+2659,South,38,CM,Cameroon,SU
+2658,Southwest,38,CM,Cameroon,SW
+2664,West,38,CM,Cameroon,OU
+872,Alberta,39,CA,Canada,AB
+875,British Columbia,39,CA,Canada,BC
+867,Manitoba,39,CA,Canada,MB
+868,New Brunswick,39,CA,Canada,NB
+877,Newfoundland and Labrador,39,CA,Canada,NL
+878,Northwest Territories,39,CA,Canada,NT
+874,Nova Scotia,39,CA,Canada,NS
+876,Nunavut,39,CA,Canada,NU
+866,Ontario,39,CA,Canada,ON
+871,Prince Edward Island,39,CA,Canada,PE
+873,Quebec,39,CA,Canada,QC
+870,Saskatchewan,39,CA,Canada,SK
+869,Yukon,39,CA,Canada,YT
+2994,Barlavento Islands,40,CV,Cape Verde,B
+2999,Boa Vista,40,CV,Cape Verde,BV
+2996,Brava,40,CV,Cape Verde,BR
+2991,Maio Municipality,40,CV,Cape Verde,MA
+2987,Mosteiros,40,CV,Cape Verde,MO
+2997,Paul,40,CV,Cape Verde,PA
+2989,Porto Novo,40,CV,Cape Verde,PN
+2988,Praia,40,CV,Cape Verde,PR
+2982,Ribeira Brava Municipality,40,CV,Cape Verde,RB
+3002,Ribeira Grande,40,CV,Cape Verde,RG
+2984,Ribeira Grande de Santiago,40,CV,Cape Verde,RS
+2998,Sal,40,CV,Cape Verde,SL
+2985,Santa Catarina,40,CV,Cape Verde,CA
+2995,Santa Catarina do Fogo,40,CV,Cape Verde,CF
+3004,Santa Cruz,40,CV,Cape Verde,CR
+2986,São Domingos,40,CV,Cape Verde,SD
+3000,São Filipe,40,CV,Cape Verde,SF
+2993,São Lourenço dos Órgãos,40,CV,Cape Verde,SO
+2990,São Miguel,40,CV,Cape Verde,SM
+3001,São Vicente,40,CV,Cape Verde,SV
+2992,Sotavento Islands,40,CV,Cape Verde,S
+2983,Tarrafal,40,CV,Cape Verde,TA
+3003,Tarrafal de São Nicolau,40,CV,Cape Verde,TS
+1259,Bamingui-Bangoran Prefecture,42,CF,Central African Republic,BB
+1262,Bangui,42,CF,Central African Republic,BGF
+1264,Basse-Kotto Prefecture,42,CF,Central African Republic,BK
+1258,Haut-Mbomou Prefecture,42,CF,Central African Republic,HM
+1268,Haute-Kotto Prefecture,42,CF,Central African Republic,HK
+1263,Kémo Prefecture,42,CF,Central African Republic,KG
+1256,Lobaye Prefecture,42,CF,Central African Republic,LB
+1257,Mambéré-Kadéï,42,CF,Central African Republic,HS
+1266,Mbomou Prefecture,42,CF,Central African Republic,MB
+1253,Nana-Grébizi Economic Prefecture,42,CF,Central African Republic,KB
+1260,Nana-Mambéré Prefecture,42,CF,Central African Republic,NM
+1255,Ombella-M'Poko Prefecture,42,CF,Central African Republic,MP
+1265,Ouaka Prefecture,42,CF,Central African Republic,UK
+1254,Ouham Prefecture,42,CF,Central African Republic,AC
+1267,Ouham-Pendé Prefecture,42,CF,Central African Republic,OP
+1252,Sangha-Mbaéré,42,CF,Central African Republic,SE
+1261,Vakaga Prefecture,42,CF,Central African Republic,VK
+3583,Bahr el Gazel,43,TD,Chad,BG
+3590,Batha,43,TD,Chad,BA
+3574,Borkou,43,TD,Chad,BO
+5114,Chari-Baguirmi,43,TD,Chad,CB
+3575,Ennedi-Est,43,TD,Chad,EE
+3584,Ennedi-Ouest,43,TD,Chad,EO
+3576,Guéra,43,TD,Chad,GR
+3573,Hadjer-Lamis,43,TD,Chad,HL
+3588,Kanem,43,TD,Chad,KA
+3577,Lac,43,TD,Chad,LC
+3585,Logone Occidental,43,TD,Chad,LO
+3591,Logone Oriental,43,TD,Chad,LR
+3589,Mandoul,43,TD,Chad,MA
+3580,Mayo-Kebbi Est,43,TD,Chad,ME
+3571,Mayo-Kebbi Ouest,43,TD,Chad,MO
+3570,Moyen-Chari,43,TD,Chad,MC
+3586,N'Djamena,43,TD,Chad,ND
+3582,Ouaddaï,43,TD,Chad,OD
+3592,Salamat,43,TD,Chad,SA
+3572,Sila,43,TD,Chad,SI
+3579,Tandjilé,43,TD,Chad,TA
+3587,Tibesti,43,TD,Chad,TI
+3581,Wadi Fira,43,TD,Chad,WF
+2828,Aisén del General Carlos Ibañez del Campo,44,CL,Chile,AI
+2832,Antofagasta,44,CL,Chile,AN
+2829,Arica y Parinacota,44,CL,Chile,AP
+2823,Atacama,44,CL,Chile,AT
+2827,Biobío,44,CL,Chile,BI
+2825,Coquimbo,44,CL,Chile,CO
+2826,La Araucanía,44,CL,Chile,AR
+2838,Libertador General Bernardo O'Higgins,44,CL,Chile,LI
+2835,Los Lagos,44,CL,Chile,LL
+2834,Los Ríos,44,CL,Chile,LR
+2836,Magallanes y de la Antártica Chilena,44,CL,Chile,MA
+2833,Maule,44,CL,Chile,ML
+2831,Ñuble,44,CL,Chile,NB
+2824,Región Metropolitana de Santiago,44,CL,Chile,RM
+2837,Tarapacá,44,CL,Chile,TA
+2830,Valparaíso,44,CL,Chile,VS
+2251,Anhui,45,CN,China,AH
+2257,Beijing,45,CN,China,BJ
+2271,Chongqing,45,CN,China,CQ
+2248,Fujian,45,CN,China,FJ
+2275,Gansu,45,CN,China,GS
+2279,Guangdong,45,CN,China,GD
+2278,Guangxi Zhuang,45,CN,China,GX
+2261,Guizhou,45,CN,China,GZ
+2273,Hainan,45,CN,China,HI
+2280,Hebei,45,CN,China,HE
+2265,Heilongjiang,45,CN,China,HL
+2259,Henan,45,CN,China,HA
+2267,Hong Kong SAR,45,CN,China,HK
+2274,Hubei,45,CN,China,HB
+2258,Hunan,45,CN,China,HN
+2269,Inner Mongolia,45,CN,China,NM
+2250,Jiangsu,45,CN,China,JS
+2256,Jiangxi,45,CN,China,JX
+2253,Jilin,45,CN,China,JL
+2268,Liaoning,45,CN,China,LN
+2266,Macau SAR,45,CN,China,MO
+2262,Ningxia Huizu,45,CN,China,NX
+2270,Qinghai,45,CN,China,QH
+2272,Shaanxi,45,CN,China,SN
+2252,Shandong,45,CN,China,SD
+2249,Shanghai,45,CN,China,SH
+2254,Shanxi,45,CN,China,SX
+2277,Sichuan,45,CN,China,SC
+2255,Taiwan,45,CN,China,TW
+2276,Tianjin,45,CN,China,TJ
+2263,Xinjiang,45,CN,China,XJ
+2264,Xizang,45,CN,China,XZ
+2260,Yunnan,45,CN,China,YN
+2247,Zhejiang,45,CN,China,ZJ
+2895,Amazonas,48,CO,Colombia,AMA
+2890,Antioquia,48,CO,Colombia,ANT
+2881,Arauca,48,CO,Colombia,ARA
+2900,"Archipiélago de San Andrés, Providencia y Santa Catalina",48,CO,Colombia,SAP
+2880,Atlántico,48,CO,Colombia,ATL
+4921,Bogotá D.C.,48,CO,Colombia,DC
+2893,Bolívar,48,CO,Colombia,BOL
+2903,Boyacá,48,CO,Colombia,BOY
+2887,Caldas,48,CO,Colombia,CAL
+2891,Caquetá,48,CO,Colombia,CAQ
+2892,Casanare,48,CO,Colombia,CAS
+2884,Cauca,48,CO,Colombia,CAU
+2899,Cesar,48,CO,Colombia,CES
+2876,Chocó,48,CO,Colombia,CHO
+2898,Córdoba,48,CO,Colombia,COR
+2875,Cundinamarca,48,CO,Colombia,CUN
+2882,Guainía,48,CO,Colombia,GUA
+2888,Guaviare,48,CO,Colombia,GUV
+4871,Huila,48,CO,Colombia,HUI
+2889,La Guajira,48,CO,Colombia,LAG
+2886,Magdalena,48,CO,Colombia,MAG
+2878,Meta,48,CO,Colombia,MET
+2897,Nariño,48,CO,Colombia,NAR
+2877,Norte de Santander,48,CO,Colombia,NSA
+2896,Putumayo,48,CO,Colombia,PUT
+2874,Quindío,48,CO,Colombia,QUI
+2879,Risaralda,48,CO,Colombia,RIS
+2901,Santander,48,CO,Colombia,SAN
+2902,Sucre,48,CO,Colombia,SUC
+2883,Tolima,48,CO,Colombia,TOL
+2904,Valle del Cauca,48,CO,Colombia,VAC
+2885,Vaupés,48,CO,Colombia,VAU
+2894,Vichada,48,CO,Colombia,VID
+2821,Anjouan,49,KM,Comoros,A
+2822,Grande Comore,49,KM,Comoros,G
+2820,Mohéli,49,KM,Comoros,M
+2866,Bouenza Department,50,CG,Congo,11
+2870,Brazzaville,50,CG,Congo,BZV
+2864,Cuvette Department,50,CG,Congo,8
+2869,Cuvette-Ouest Department,50,CG,Congo,15
+2867,Kouilou Department,50,CG,Congo,5
+2868,Lékoumou Department,50,CG,Congo,2
+2865,Likouala Department,50,CG,Congo,7
+2872,Niari Department,50,CG,Congo,9
+2862,Plateaux Department,50,CG,Congo,14
+2863,Pointe-Noire,50,CG,Congo,16
+2873,Pool Department,50,CG,Congo,12
+2871,Sangha Department,50,CG,Congo,13
+1215,Alajuela Province,53,CR,Costa Rica,A
+1209,Guanacaste Province,53,CR,Costa Rica,G
+1212,Heredia Province,53,CR,Costa Rica,H
+1213,Limón Province,53,CR,Costa Rica,L
+1211,Provincia de Cartago,53,CR,Costa Rica,C
+1210,Puntarenas Province,53,CR,Costa Rica,P
+1214,San José Province,53,CR,Costa Rica,SJ
+2634,Abidjan,54,CI,Cote D'Ivoire (Ivory Coast),AB
+2626,Agnéby,54,CI,Cote D'Ivoire (Ivory Coast),16
+2636,Bafing Region,54,CI,Cote D'Ivoire (Ivory Coast),17
+2643,Bas-Sassandra District,54,CI,Cote D'Ivoire (Ivory Coast),BS
+2635,Bas-Sassandra Region,54,CI,Cote D'Ivoire (Ivory Coast),9
+2654,Comoé District,54,CI,Cote D'Ivoire (Ivory Coast),CM
+2644,Denguélé District,54,CI,Cote D'Ivoire (Ivory Coast),DN
+2642,Denguélé Region,54,CI,Cote D'Ivoire (Ivory Coast),10
+2645,Dix-Huit Montagnes,54,CI,Cote D'Ivoire (Ivory Coast),6
+2633,Fromager,54,CI,Cote D'Ivoire (Ivory Coast),18
+2651,Gôh-Djiboua District,54,CI,Cote D'Ivoire (Ivory Coast),GD
+2638,Haut-Sassandra,54,CI,Cote D'Ivoire (Ivory Coast),2
+2632,Lacs District,54,CI,Cote D'Ivoire (Ivory Coast),LC
+2640,Lacs Region,54,CI,Cote D'Ivoire (Ivory Coast),7
+2627,Lagunes District,54,CI,Cote D'Ivoire (Ivory Coast),LG
+2639,Lagunes region,54,CI,Cote D'Ivoire (Ivory Coast),1
+2631,Marahoué Region,54,CI,Cote D'Ivoire (Ivory Coast),12
+2629,Montagnes District,54,CI,Cote D'Ivoire (Ivory Coast),MG
+2646,Moyen-Cavally,54,CI,Cote D'Ivoire (Ivory Coast),19
+2630,Moyen-Comoé,54,CI,Cote D'Ivoire (Ivory Coast),5
+2655,N'zi-Comoé,54,CI,Cote D'Ivoire (Ivory Coast),11
+2648,Sassandra-Marahoué District,54,CI,Cote D'Ivoire (Ivory Coast),SM
+2625,Savanes Region,54,CI,Cote D'Ivoire (Ivory Coast),3
+2628,Sud-Bandama,54,CI,Cote D'Ivoire (Ivory Coast),15
+2652,Sud-Comoé,54,CI,Cote D'Ivoire (Ivory Coast),13
+2637,Vallée du Bandama District,54,CI,Cote D'Ivoire (Ivory Coast),VB
+2647,Vallée du Bandama Region,54,CI,Cote D'Ivoire (Ivory Coast),4
+2650,Woroba District,54,CI,Cote D'Ivoire (Ivory Coast),WR
+2649,Worodougou,54,CI,Cote D'Ivoire (Ivory Coast),14
+2653,Yamoussoukro,54,CI,Cote D'Ivoire (Ivory Coast),YM
+2641,Zanzan Region,54,CI,Cote D'Ivoire (Ivory Coast),ZZ
+734,Bjelovar-Bilogora,55,HR,Croatia,7
+737,Brod-Posavina,55,HR,Croatia,12
+728,Dubrovnik-Neretva,55,HR,Croatia,19
+743,Istria,55,HR,Croatia,18
+5069,Karlovac,55,HR,Croatia,4
+742,Koprivnica-Križevci,55,HR,Croatia,6
+729,Krapina-Zagorje,55,HR,Croatia,2
+731,Lika-Senj,55,HR,Croatia,9
+726,Međimurje,55,HR,Croatia,20
+740,Osijek-Baranja,55,HR,Croatia,14
+724,Požega-Slavonia,55,HR,Croatia,11
+735,Primorje-Gorski Kotar,55,HR,Croatia,8
+730,Šibenik-Knin,55,HR,Croatia,15
+733,Sisak-Moslavina,55,HR,Croatia,3
+725,Split-Dalmatia,55,HR,Croatia,17
+739,Varaždin,55,HR,Croatia,5
+732,Virovitica-Podravina,55,HR,Croatia,10
+741,Vukovar-Syrmia,55,HR,Croatia,16
+727,Zadar,55,HR,Croatia,13
+736,Zagreb,55,HR,Croatia,1
+738,Zagreb,55,HR,Croatia,21
+283,Artemisa Province,56,CU,Cuba,15
+286,Camagüey Province,56,CU,Cuba,9
+282,Ciego de Ávila Province,56,CU,Cuba,8
+287,Cienfuegos Province,56,CU,Cuba,6
+275,Granma Province,56,CU,Cuba,12
+285,Guantánamo Province,56,CU,Cuba,14
+272,Havana Province,56,CU,Cuba,3
+279,Holguín Province,56,CU,Cuba,11
+278,Isla de la Juventud,56,CU,Cuba,99
+281,Las Tunas Province,56,CU,Cuba,10
+284,Matanzas Province,56,CU,Cuba,4
+276,Mayabeque Province,56,CU,Cuba,16
+277,Pinar del Río Province,56,CU,Cuba,1
+274,Sancti Spíritus Province,56,CU,Cuba,7
+273,Santiago de Cuba Province,56,CU,Cuba,13
+280,Villa Clara Province,56,CU,Cuba,5
+749,Famagusta District (Mağusa),57,CY,Cyprus,4
+744,Kyrenia District (Keryneia),57,CY,Cyprus,6
+747,Larnaca District (Larnaka),57,CY,Cyprus,3
+748,Limassol District (Leymasun),57,CY,Cyprus,2
+745,Nicosia District (Lefkoşa),57,CY,Cyprus,1
+746,Paphos District (Pafos),57,CY,Cyprus,5
+4627,Benešov,58,CZ,Czech Republic,201
+4620,Beroun,58,CZ,Czech Republic,202
+4615,Blansko,58,CZ,Czech Republic,641
+4542,Břeclav,58,CZ,Czech Republic,644
+4568,Brno-město,58,CZ,Czech Republic,642
+4545,Brno-venkov,58,CZ,Czech Republic,643
+4644,Bruntál,58,CZ,Czech Republic,801
+4633,Česká Lípa,58,CZ,Czech Republic,511
+4556,České Budějovice,58,CZ,Czech Republic,311
+4543,Český Krumlov,58,CZ,Czech Republic,312
+4573,Cheb,58,CZ,Czech Republic,411
+4553,Chomutov,58,CZ,Czech Republic,422
+4634,Chrudim,58,CZ,Czech Republic,531
+4609,Děčín,58,CZ,Czech Republic,421
+4641,Domažlice,58,CZ,Czech Republic,321
+4559,Frýdek-Místek,58,CZ,Czech Republic,802
+4611,Havlíčkův Brod,58,CZ,Czech Republic,631
+4561,Hodonín,58,CZ,Czech Republic,645
+4580,Hradec Králové,58,CZ,Czech Republic,521
+4612,Jablonec nad Nisou,58,CZ,Czech Republic,512
+4625,Jeseník,58,CZ,Czech Republic,711
+4640,Jičín,58,CZ,Czech Republic,522
+4613,Jihlava,58,CZ,Czech Republic,632
+4639,Jihočeský kraj,58,CZ,Czech Republic,31
+4602,Jihomoravský kraj,58,CZ,Czech Republic,64
+4624,Jindřichův Hradec,58,CZ,Czech Republic,313
+4581,Karlovarský kraj,58,CZ,Czech Republic,41
+4604,Karlovy Vary,58,CZ,Czech Republic,412
+4586,Karviná,58,CZ,Czech Republic,803
+4631,Kladno,58,CZ,Czech Republic,203
+4591,Klatovy,58,CZ,Czech Republic,322
+4618,Kolín,58,CZ,Czech Republic,204
+4575,Kraj Vysočina,58,CZ,Czech Republic,63
+4614,Královéhradecký kraj,58,CZ,Czech Republic,52
+4593,Kroměříž,58,CZ,Czech Republic,721
+4923,Kutná Hora,58,CZ,Czech Republic,205
+4590,Liberec,58,CZ,Czech Republic,513
+4601,Liberecký kraj,58,CZ,Czech Republic,51
+4605,Litoměřice,58,CZ,Czech Republic,423
+4617,Louny,58,CZ,Czech Republic,424
+4638,Mělník,58,CZ,Czech Republic,206
+4643,Mladá Boleslav,58,CZ,Czech Republic,207
+4600,Moravskoslezský kraj,58,CZ,Czech Republic,80
+4629,Most,58,CZ,Czech Republic,425
+4550,Náchod,58,CZ,Czech Republic,523
+4548,Nový Jičín,58,CZ,Czech Republic,804
+4582,Nymburk,58,CZ,Czech Republic,208
+4574,Olomouc,58,CZ,Czech Republic,712
+4589,Olomoucký kraj,58,CZ,Czech Republic,71
+4623,Opava,58,CZ,Czech Republic,805
+4584,Ostrava-město,58,CZ,Czech Republic,806
+4547,Pardubice,58,CZ,Czech Republic,532
+4588,Pardubický kraj,58,CZ,Czech Republic,53
+4645,Pelhřimov,58,CZ,Czech Republic,633
+4560,Písek,58,CZ,Czech Republic,314
+4608,Plzeň-jih,58,CZ,Czech Republic,324
+4544,Plzeň-město,58,CZ,Czech Republic,323
+4564,Plzeň-sever,58,CZ,Czech Republic,325
+4607,Plzeňský kraj,58,CZ,Czech Republic,32
+4578,Prachatice,58,CZ,Czech Republic,315
+4606,Praha-východ,58,CZ,Czech Republic,209
+4619,Praha-západ,58,CZ,Czech Republic,20A
+4598,"Praha, Hlavní město",58,CZ,Czech Republic,10
+4626,Přerov,58,CZ,Czech Republic,714
+4546,Příbram,58,CZ,Czech Republic,20B
+4551,Prostějov,58,CZ,Czech Republic,713
+4558,Rakovník,58,CZ,Czech Republic,20C
+4583,Rokycany,58,CZ,Czech Republic,326
+4636,Rychnov nad Kněžnou,58,CZ,Czech Republic,524
+4596,Semily,58,CZ,Czech Republic,514
+4595,Sokolov,58,CZ,Czech Republic,413
+4628,Strakonice,58,CZ,Czech Republic,316
+4554,Středočeský kraj,58,CZ,Czech Republic,20
+4642,Šumperk,58,CZ,Czech Republic,715
+4571,Svitavy,58,CZ,Czech Republic,533
+4565,Tábor,58,CZ,Czech Republic,317
+4646,Tachov,58,CZ,Czech Republic,327
+4621,Teplice,58,CZ,Czech Republic,426
+4597,Třebíč,58,CZ,Czech Republic,634
+4579,Trutnov,58,CZ,Czech Republic,525
+4592,Uherské Hradiště,58,CZ,Czech Republic,722
+4576,Ústecký kraj,58,CZ,Czech Republic,42
+4599,Ústí nad Labem,58,CZ,Czech Republic,427
+4647,Ústí nad Orlicí,58,CZ,Czech Republic,534
+4572,Vsetín,58,CZ,Czech Republic,723
+4622,Vyškov,58,CZ,Czech Republic,646
+4648,Žďár nad Sázavou,58,CZ,Czech Republic,635
+4563,Zlín,58,CZ,Czech Republic,724
+4552,Zlínský kraj,58,CZ,Czech Republic,72
+4630,Znojmo,58,CZ,Czech Republic,647
+2753,Bas-Uélé,51,CD,Democratic Republic of the Congo,BU
+2744,Équateur,51,CD,Democratic Republic of the Congo,EQ
+2750,Haut-Katanga,51,CD,Democratic Republic of the Congo,HK
+2758,Haut-Lomami,51,CD,Democratic Republic of the Congo,HL
+2734,Haut-Uélé,51,CD,Democratic Republic of the Congo,HU
+2751,Ituri,51,CD,Democratic Republic of the Congo,IT
+2757,Kasaï,51,CD,Democratic Republic of the Congo,KS
+2742,Kasaï Central,51,CD,Democratic Republic of the Congo,KC
+2735,Kasaï Oriental,51,CD,Democratic Republic of the Congo,KE
+2741,Kinshasa,51,CD,Democratic Republic of the Congo,KN
+2746,Kongo Central,51,CD,Democratic Republic of the Congo,BC
+2740,Kwango,51,CD,Democratic Republic of the Congo,KG
+2759,Kwilu,51,CD,Democratic Republic of the Congo,KL
+2747,Lomami,51,CD,Democratic Republic of the Congo,LO
+4953,Lualaba,51,CD,Democratic Republic of the Congo,LU
+2755,Mai-Ndombe,51,CD,Democratic Republic of the Congo,MN
+2745,Maniema,51,CD,Democratic Republic of the Congo,MA
+2752,Mongala,51,CD,Democratic Republic of the Congo,MO
+2749,Nord-Kivu,51,CD,Democratic Republic of the Congo,NK
+2739,Nord-Ubangi,51,CD,Democratic Republic of the Congo,NU
+2743,Sankuru,51,CD,Democratic Republic of the Congo,SA
+2738,Sud-Kivu,51,CD,Democratic Republic of the Congo,SK
+2748,Sud-Ubangi,51,CD,Democratic Republic of the Congo,SU
+2733,Tanganyika,51,CD,Democratic Republic of the Congo,TA
+2756,Tshopo,51,CD,Democratic Republic of the Congo,TO
+2732,Tshuapa,51,CD,Democratic Republic of the Congo,TU
+1530,Capital Region of Denmark,59,DK,Denmark,84
+1531,Central Denmark Region,59,DK,Denmark,82
+1532,North Denmark Region,59,DK,Denmark,81
+1529,Region of Southern Denmark,59,DK,Denmark,83
+1528,Region Zealand,59,DK,Denmark,85
+2933,Ali Sabieh Region,60,DJ,Djibouti,AS
+2932,Arta Region,60,DJ,Djibouti,AR
+2930,Dikhil Region,60,DJ,Djibouti,DI
+2929,Djibouti,60,DJ,Djibouti,DJ
+2928,Obock Region,60,DJ,Djibouti,OB
+2931,Tadjourah Region,60,DJ,Djibouti,TA
+4082,Saint Andrew Parish,61,DM,Dominica,2
+4078,Saint David Parish,61,DM,Dominica,3
+4079,Saint George Parish,61,DM,Dominica,4
+4076,Saint John Parish,61,DM,Dominica,5
+4085,Saint Joseph Parish,61,DM,Dominica,6
+4083,Saint Luke Parish,61,DM,Dominica,7
+4077,Saint Mark Parish,61,DM,Dominica,8
+4080,Saint Patrick Parish,61,DM,Dominica,9
+4084,Saint Paul Parish,61,DM,Dominica,10
+4081,Saint Peter Parish,61,DM,Dominica,11
+4114,Azua Province,62,DO,Dominican Republic,2
+4105,Baoruco Province,62,DO,Dominican Republic,3
+4090,Barahona Province,62,DO,Dominican Republic,4
+4107,Dajabón Province,62,DO,Dominican Republic,5
+4095,Distrito Nacional,62,DO,Dominican Republic,1
+4113,Duarte Province,62,DO,Dominican Republic,6
+4086,El Seibo Province,62,DO,Dominican Republic,8
+4102,Espaillat Province,62,DO,Dominican Republic,9
+4106,Hato Mayor Province,62,DO,Dominican Republic,30
+4089,Hermanas Mirabal Province,62,DO,Dominican Republic,19
+4097,Independencia,62,DO,Dominican Republic,10
+4109,La Altagracia Province,62,DO,Dominican Republic,11
+4087,La Romana Province,62,DO,Dominican Republic,12
+4116,La Vega Province,62,DO,Dominican Republic,13
+4094,María Trinidad Sánchez Province,62,DO,Dominican Republic,14
+4099,Monseñor Nouel Province,62,DO,Dominican Republic,28
+4115,Monte Cristi Province,62,DO,Dominican Republic,15
+4111,Monte Plata Province,62,DO,Dominican Republic,29
+4101,Pedernales Province,62,DO,Dominican Republic,16
+4096,Peravia Province,62,DO,Dominican Republic,17
+4092,Puerto Plata Province,62,DO,Dominican Republic,18
+4103,Samaná Province,62,DO,Dominican Republic,20
+4091,San Cristóbal Province,62,DO,Dominican Republic,21
+4112,San José de Ocoa Province,62,DO,Dominican Republic,31
+4098,San Juan Province,62,DO,Dominican Republic,22
+4110,San Pedro de Macorís,62,DO,Dominican Republic,23
+4088,Sánchez Ramírez Province,62,DO,Dominican Republic,24
+4108,Santiago Province,62,DO,Dominican Republic,25
+4100,Santiago Rodríguez Province,62,DO,Dominican Republic,26
+4093,Santo Domingo Province,62,DO,Dominican Republic,32
+4104,Valverde Province,62,DO,Dominican Republic,27
+2923,Azuay,64,EC,Ecuador,A
+2920,Bolívar,64,EC,Ecuador,B
+2917,Cañar,64,EC,Ecuador,F
+2915,Carchi,64,EC,Ecuador,C
+2925,Chimborazo,64,EC,Ecuador,H
+2921,Cotopaxi,64,EC,Ecuador,X
+2924,El Oro,64,EC,Ecuador,O
+2922,Esmeraldas,64,EC,Ecuador,E
+2905,Galápagos,64,EC,Ecuador,W
+2914,Guayas,64,EC,Ecuador,G
+2911,Imbabura,64,EC,Ecuador,I
+5068,Loja,64,EC,Ecuador,L
+2910,Los Ríos,64,EC,Ecuador,R
+2913,Manabí,64,EC,Ecuador,M
+2918,Morona-Santiago,64,EC,Ecuador,S
+2916,Napo,64,EC,Ecuador,N
+2926,Orellana,64,EC,Ecuador,D
+2907,Pastaza,64,EC,Ecuador,Y
+2927,Pichincha,64,EC,Ecuador,P
+2912,Santa Elena,64,EC,Ecuador,SE
+2919,Santo Domingo de los Tsáchilas,64,EC,Ecuador,SD
+2906,Sucumbíos,64,EC,Ecuador,U
+2908,Tungurahua,64,EC,Ecuador,T
+2909,Zamora Chinchipe,64,EC,Ecuador,Z
+3235,Alexandria,65,EG,Egypt,ALX
+3225,Aswan,65,EG,Egypt,ASN
+3236,Asyut,65,EG,Egypt,AST
+3241,Beheira,65,EG,Egypt,BH
+3230,Beni Suef,65,EG,Egypt,BNS
+3223,Cairo,65,EG,Egypt,C
+3245,Dakahlia,65,EG,Egypt,DK
+3224,Damietta,65,EG,Egypt,DT
+3238,Faiyum,65,EG,Egypt,FYM
+3234,Gharbia,65,EG,Egypt,GH
+3239,Giza,65,EG,Egypt,GZ
+3244,Ismailia,65,EG,Egypt,IS
+3222,Kafr el-Sheikh,65,EG,Egypt,KFS
+3242,Luxor,65,EG,Egypt,LX
+3231,Matrouh,65,EG,Egypt,MT
+3243,Minya,65,EG,Egypt,MN
+3228,Monufia,65,EG,Egypt,MNF
+3246,New Valley,65,EG,Egypt,WAD
+3227,North Sinai,65,EG,Egypt,SIN
+3229,Port Said,65,EG,Egypt,PTS
+3232,Qalyubia,65,EG,Egypt,KB
+3247,Qena,65,EG,Egypt,KN
+3240,Red Sea,65,EG,Egypt,BA
+5067,Sharqia,65,EG,Egypt,SHR
+3226,Sohag,65,EG,Egypt,SHG
+3237,South Sinai,65,EG,Egypt,JS
+3233,Suez,65,EG,Egypt,SUZ
+4139,Ahuachapán Department,66,SV,El Salvador,AH
+4132,Cabañas Department,66,SV,El Salvador,CA
+4131,Chalatenango Department,66,SV,El Salvador,CH
+4137,Cuscatlán Department,66,SV,El Salvador,CU
+4134,La Libertad Department,66,SV,El Salvador,LI
+4136,La Paz Department,66,SV,El Salvador,PA
+4138,La Unión Department,66,SV,El Salvador,UN
+4130,Morazán Department,66,SV,El Salvador,MO
+4135,San Miguel Department,66,SV,El Salvador,SM
+4133,San Salvador Department,66,SV,El Salvador,SS
+4127,San Vicente Department,66,SV,El Salvador,SV
+4128,Santa Ana Department,66,SV,El Salvador,SA
+4140,Sonsonate Department,66,SV,El Salvador,SO
+4129,Usulután Department,66,SV,El Salvador,US
+3444,Annobón Province,67,GQ,Equatorial Guinea,AN
+3446,Bioko Norte Province,67,GQ,Equatorial Guinea,BN
+3443,Bioko Sur Province,67,GQ,Equatorial Guinea,BS
+3445,Centro Sur Province,67,GQ,Equatorial Guinea,CS
+3442,Insular Region,67,GQ,Equatorial Guinea,I
+3439,Kié-Ntem Province,67,GQ,Equatorial Guinea,KN
+3441,Litoral Province,67,GQ,Equatorial Guinea,LI
+3438,Río Muni,67,GQ,Equatorial Guinea,C
+3440,Wele-Nzas Province,67,GQ,Equatorial Guinea,WN
+3425,Anseba Region,68,ER,Eritrea,AN
+3427,Debub Region,68,ER,Eritrea,DU
+3428,Gash-Barka Region,68,ER,Eritrea,GB
+3426,Maekel Region,68,ER,Eritrea,MA
+3424,Northern Red Sea Region,68,ER,Eritrea,SK
+3429,Southern Red Sea Region,68,ER,Eritrea,DK
+3567,Harju County,69,EE,Estonia,37
+3555,Hiiu County,69,EE,Estonia,39
+3569,Ida-Viru County,69,EE,Estonia,44
+3566,Järva County,69,EE,Estonia,51
+3565,Jõgeva County,69,EE,Estonia,49
+3568,Lääne County,69,EE,Estonia,57
+3564,Lääne-Viru County,69,EE,Estonia,59
+3562,Pärnu County,69,EE,Estonia,67
+3563,Põlva County,69,EE,Estonia,65
+3559,Rapla County,69,EE,Estonia,70
+3561,Saare County,69,EE,Estonia,74
+3557,Tartu County,69,EE,Estonia,78
+3558,Valga County,69,EE,Estonia,82
+3556,Viljandi County,69,EE,Estonia,84
+3560,Võru County,69,EE,Estonia,86
+969,Hhohho District,212,SZ,Eswatini,HH
+970,Lubombo District,212,SZ,Eswatini,LU
+968,Manzini District,212,SZ,Eswatini,MA
+971,Shiselweni District,212,SZ,Eswatini,SH
+11,Addis Ababa,70,ET,Ethiopia,AA
+6,Afar Region,70,ET,Ethiopia,AF
+3,Amhara Region,70,ET,Ethiopia,AM
+9,Benishangul-Gumuz Region,70,ET,Ethiopia,BE
+8,Dire Dawa,70,ET,Ethiopia,DD
+10,Gambela Region,70,ET,Ethiopia,GA
+7,Harari Region,70,ET,Ethiopia,HA
+5,Oromia Region,70,ET,Ethiopia,OR
+2,Somali Region,70,ET,Ethiopia,SO
+1,"Southern Nations, Nationalities, and Peoples' Region",70,ET,Ethiopia,SN
+4,Tigray Region,70,ET,Ethiopia,TI
+5229,Eysturoy,72,FO,Faroe Islands,EY
+5230,Northern Isles,72,FO,Faroe Islands,NO
+5231,Sandoy,72,FO,Faroe Islands,SA
+5232,Streymoy,72,FO,Faroe Islands,ST
+5233,Suðuroy,72,FO,Faroe Islands,SU
+5234,Vágar,72,FO,Faroe Islands,VA
+1917,Ba,73,FJ,Fiji Islands,1
+1930,Bua,73,FJ,Fiji Islands,2
+1924,Cakaudrove,73,FJ,Fiji Islands,3
+1929,Central Division,73,FJ,Fiji Islands,C
+1932,Eastern Division,73,FJ,Fiji Islands,E
+1934,Kadavu,73,FJ,Fiji Islands,4
+1933,Lau,73,FJ,Fiji Islands,5
+1916,Lomaiviti,73,FJ,Fiji Islands,6
+1922,Macuata,73,FJ,Fiji Islands,7
+1919,Nadroga-Navosa,73,FJ,Fiji Islands,8
+1927,Naitasiri,73,FJ,Fiji Islands,9
+1928,Namosi,73,FJ,Fiji Islands,10
+1921,Northern Division,73,FJ,Fiji Islands,N
+1926,Ra,73,FJ,Fiji Islands,11
+1920,Rewa,73,FJ,Fiji Islands,12
+1931,Rotuma,73,FJ,Fiji Islands,R
+1925,Serua,73,FJ,Fiji Islands,13
+1918,Tailevu,73,FJ,Fiji Islands,14
+1923,Western Division,73,FJ,Fiji Islands,W
+1509,Åland Islands,74,FI,Finland,1
+1511,Central Finland,74,FI,Finland,8
+1494,Central Ostrobothnia,74,FI,Finland,7
+1507,Finland Proper,74,FI,Finland,19
+1496,Kainuu,74,FI,Finland,5
+1512,Kymenlaakso,74,FI,Finland,9
+1500,Lapland,74,FI,Finland,10
+1504,North Karelia,74,FI,Finland,13
+1505,Northern Ostrobothnia,74,FI,Finland,14
+1503,Northern Savonia,74,FI,Finland,15
+1508,Ostrobothnia,74,FI,Finland,12
+1502,Päijänne Tavastia,74,FI,Finland,16
+1506,Pirkanmaa,74,FI,Finland,11
+1501,Satakunta,74,FI,Finland,17
+1497,South Karelia,74,FI,Finland,2
+1498,Southern Ostrobothnia,74,FI,Finland,3
+1495,Southern Savonia,74,FI,Finland,4
+1493,Tavastia Proper,74,FI,Finland,6
+1510,Uusimaa,74,FI,Finland,18
+4967,Ain,75,FR,France,1
+4968,Aisne,75,FR,France,2
+4969,Allier,75,FR,France,3
+4970,Alpes-de-Haute-Provence,75,FR,France,4
+4972,Alpes-Maritimes,75,FR,France,6
+4811,Alsace,75,FR,France,6AE
+4973,Ardèche,75,FR,France,7
+4974,Ardennes,75,FR,France,8
+4975,Ariège,75,FR,France,9
+4976,Aube,75,FR,France,10
+4977,Aude,75,FR,France,11
+4798,Auvergne-Rhône-Alpes,75,FR,France,ARA
+4978,Aveyron,75,FR,France,12
+5035,Bas-Rhin,75,FR,France,67
+4979,Bouches-du-Rhône,75,FR,France,13
+4825,Bourgogne-Franche-Comté,75,FR,France,BFC
+4807,Bretagne,75,FR,France,BRE
+4981,Calvados,75,FR,France,14
+4982,Cantal,75,FR,France,15
+4818,Centre-Val de Loire,75,FR,France,CVL
+4983,Charente,75,FR,France,16
+4984,Charente-Maritime,75,FR,France,17
+4985,Cher,75,FR,France,18
+5064,Clipperton,75,FR,France,CP
+4986,Corrèze,75,FR,France,19
+4806,Corse,75,FR,France,20R
+4996,Corse-du-Sud,75,FR,France,2A
+4987,Côte-d'Or,75,FR,France,21
+4988,Côtes-d'Armor,75,FR,France,22
+4989,Creuse,75,FR,France,23
+5047,Deux-Sèvres,75,FR,France,79
+4990,Dordogne,75,FR,France,24
+4991,Doubs,75,FR,France,25
+4992,Drôme,75,FR,France,26
+5059,Essonne,75,FR,France,91
+4993,Eure,75,FR,France,27
+4994,Eure-et-Loir,75,FR,France,28
+4995,Finistère,75,FR,France,29
+4822,French Guiana,75,FR,France,973
+4824,French Polynesia,75,FR,France,PF
+5065,French Southern and Antarctic Lands,75,FR,France,TF
+4998,Gard,75,FR,France,30
+5000,Gers,75,FR,France,32
+5001,Gironde,75,FR,France,33
+4820,Grand-Est,75,FR,France,GES
+4829,Guadeloupe,75,FR,France,971
+5036,Haut-Rhin,75,FR,France,68
+4997,Haute-Corse,75,FR,France,2B
+4999,Haute-Garonne,75,FR,France,31
+5011,Haute-Loire,75,FR,France,43
+5020,Haute-Marne,75,FR,France,52
+5039,Haute-Saône,75,FR,France,70
+5043,Haute-Savoie,75,FR,France,74
+5055,Haute-Vienne,75,FR,France,87
+4971,Hautes-Alpes,75,FR,France,5
+5033,Hautes-Pyrénées,75,FR,France,65
+4828,Hauts-de-France,75,FR,France,HDF
+5060,Hauts-de-Seine,75,FR,France,92
+5002,Hérault,75,FR,France,34
+4796,Île-de-France,75,FR,France,IDF
+5003,Ille-et-Vilaine,75,FR,France,35
+5004,Indre,75,FR,France,36
+5005,Indre-et-Loire,75,FR,France,37
+5006,Isère,75,FR,France,38
+5007,Jura,75,FR,France,39
+4823,La Réunion,75,FR,France,974
+5008,Landes,75,FR,France,40
+5009,Loir-et-Cher,75,FR,France,41
+5010,Loire,75,FR,France,42
+5012,Loire-Atlantique,75,FR,France,44
+5013,Loiret,75,FR,France,45
+5014,Lot,75,FR,France,46
+5015,Lot-et-Garonne,75,FR,France,47
+5016,Lozère,75,FR,France,48
+5017,Maine-et-Loire,75,FR,France,49
+5018,Manche,75,FR,France,50
+5019,Marne,75,FR,France,51
+4827,Martinique,75,FR,France,972
+5021,Mayenne,75,FR,France,53
+4797,Mayotte,75,FR,France,976
+5038,Métropole de Lyon,75,FR,France,69M
+5022,Meurthe-et-Moselle,75,FR,France,54
+5023,Meuse,75,FR,France,55
+5024,Morbihan,75,FR,France,56
+5025,Moselle,75,FR,France,57
+5026,Nièvre,75,FR,France,58
+5027,Nord,75,FR,France,59
+4804,Normandie,75,FR,France,NOR
+4795,Nouvelle-Aquitaine,75,FR,France,NAQ
+4799,Occitanie,75,FR,France,OCC
+5028,Oise,75,FR,France,60
+5029,Orne,75,FR,France,61
+4816,Paris,75,FR,France,75C
+5030,Pas-de-Calais,75,FR,France,62
+4802,Pays-de-la-Loire,75,FR,France,PDL
+4812,Provence-Alpes-Côte-d’Azur,75,FR,France,PAC
+5031,Puy-de-Dôme,75,FR,France,63
+5032,Pyrénées-Atlantiques,75,FR,France,64
+5034,Pyrénées-Orientales,75,FR,France,66
+5037,Rhône,75,FR,France,69
+4821,Saint Pierre and Miquelon,75,FR,France,PM
+4794,Saint-Barthélemy,75,FR,France,BL
+4809,Saint-Martin,75,FR,France,MF
+5040,Saône-et-Loire,75,FR,France,71
+5041,Sarthe,75,FR,France,72
+5042,Savoie,75,FR,France,73
+5045,Seine-et-Marne,75,FR,France,77
+5044,Seine-Maritime,75,FR,France,76
+5061,Seine-Saint-Denis,75,FR,France,93
+5048,Somme,75,FR,France,80
+5049,Tarn,75,FR,France,81
+5050,Tarn-et-Garonne,75,FR,France,82
+5058,Territoire de Belfort,75,FR,France,90
+5063,Val-d'Oise,75,FR,France,95
+5062,Val-de-Marne,75,FR,France,94
+5051,Var,75,FR,France,83
+5052,Vaucluse,75,FR,France,84
+5053,Vendée,75,FR,France,85
+5054,Vienne,75,FR,France,86
+5056,Vosges,75,FR,France,88
+4810,Wallis and Futuna,75,FR,France,WF
+5057,Yonne,75,FR,France,89
+5046,Yvelines,75,FR,France,78
+2727,Estuaire Province,79,GA,Gabon,1
+2726,Haut-Ogooué Province,79,GA,Gabon,2
+2730,Moyen-Ogooué Province,79,GA,Gabon,3
+2731,Ngounié Province,79,GA,Gabon,4
+2725,Nyanga Province,79,GA,Gabon,5
+2724,Ogooué-Ivindo Province,79,GA,Gabon,6
+2729,Ogooué-Lolo Province,79,GA,Gabon,7
+2728,Ogooué-Maritime Province,79,GA,Gabon,8
+2723,Woleu-Ntem Province,79,GA,Gabon,9
+901,Abkhazia,81,GE,Georgia,AB
+900,Adjara,81,GE,Georgia,AJ
+907,Guria,81,GE,Georgia,GU
+905,Imereti,81,GE,Georgia,IM
+910,Kakheti,81,GE,Georgia,KA
+897,Khelvachauri Municipality,81,GE,Georgia,29
+904,Kvemo Kartli,81,GE,Georgia,KK
+902,Mtskheta-Mtianeti,81,GE,Georgia,MM
+909,Racha-Lechkhumi and Kvemo Svaneti,81,GE,Georgia,RL
+908,Samegrelo-Zemo Svaneti,81,GE,Georgia,SZ
+906,Samtskhe-Javakheti,81,GE,Georgia,SJ
+898,Senaki Municipality,81,GE,Georgia,50
+903,Shida Kartli,81,GE,Georgia,SK
+899,Tbilisi,81,GE,Georgia,TB
+3006,Baden-Württemberg,82,DE,Germany,BW
+3009,Bavaria,82,DE,Germany,BY
+3010,Berlin,82,DE,Germany,BE
+3013,Brandenburg,82,DE,Germany,BB
+3014,Bremen,82,DE,Germany,HB
+3016,Hamburg,82,DE,Germany,HH
+3018,Hessen,82,DE,Germany,HE
+3008,Lower Saxony,82,DE,Germany,NI
+3007,Mecklenburg-Vorpommern,82,DE,Germany,MV
+3017,North Rhine-Westphalia,82,DE,Germany,NW
+3019,Rhineland-Palatinate,82,DE,Germany,RP
+3020,Saarland,82,DE,Germany,SL
+3021,Saxony,82,DE,Germany,SN
+3011,Saxony-Anhalt,82,DE,Germany,ST
+3005,Schleswig-Holstein,82,DE,Germany,SH
+3015,Thuringia,82,DE,Germany,TH
+53,Ahafo,83,GH,Ghana,AF
+48,Ashanti,83,GH,Ghana,AH
+4959,Bono,83,GH,Ghana,BO
+4958,Bono East,83,GH,Ghana,BE
+52,Central,83,GH,Ghana,CP
+50,Eastern,83,GH,Ghana,EP
+54,Greater Accra,83,GH,Ghana,AA
+4960,North East,83,GH,Ghana,NE
+51,Northern,83,GH,Ghana,NP
+4961,Oti,83,GH,Ghana,OT
+4962,Savannah,83,GH,Ghana,SV
+55,Upper East,83,GH,Ghana,UE
+57,Upper West,83,GH,Ghana,UW
+56,Volta,83,GH,Ghana,TV
+49,Western,83,GH,Ghana,WP
+4963,Western North,83,GH,Ghana,WN
+2116,Achaea Regional Unit,85,GR,Greece,13
+2123,Aetolia-Acarnania Regional Unit,85,GR,Greece,1
+2098,Arcadia Prefecture,85,GR,Greece,12
+2105,Argolis Regional Unit,85,GR,Greece,11
+2122,Attica Region,85,GR,Greece,I
+2126,Boeotia Regional Unit,85,GR,Greece,3
+2128,Central Greece Region,85,GR,Greece,H
+2125,Central Macedonia,85,GR,Greece,B
+2115,Chania Regional Unit,85,GR,Greece,94
+2124,Corfu Prefecture,85,GR,Greece,22
+2129,Corinthia Regional Unit,85,GR,Greece,15
+2109,Crete Region,85,GR,Greece,M
+2130,Drama Regional Unit,85,GR,Greece,52
+2120,East Attica Regional Unit,85,GR,Greece,A2
+2117,East Macedonia and Thrace,85,GR,Greece,A
+2110,Epirus Region,85,GR,Greece,D
+2101,Euboea,85,GR,Greece,4
+2102,Grevena Prefecture,85,GR,Greece,51
+2099,Imathia Regional Unit,85,GR,Greece,53
+2113,Ioannina Regional Unit,85,GR,Greece,33
+2131,Ionian Islands Region,85,GR,Greece,F
+2095,Karditsa Regional Unit,85,GR,Greece,41
+2100,Kastoria Regional Unit,85,GR,Greece,56
+2127,Kefalonia Prefecture,85,GR,Greece,23
+2111,Kilkis Regional Unit,85,GR,Greece,57
+2112,Kozani Prefecture,85,GR,Greece,58
+2106,Laconia,85,GR,Greece,16
+2132,Larissa Prefecture,85,GR,Greece,42
+2104,Lefkada Regional Unit,85,GR,Greece,24
+2107,Pella Regional Unit,85,GR,Greece,59
+2119,Peloponnese Region,85,GR,Greece,J
+2114,Phthiotis Prefecture,85,GR,Greece,6
+2103,Preveza Prefecture,85,GR,Greece,34
+2121,Serres Prefecture,85,GR,Greece,62
+2118,South Aegean,85,GR,Greece,L
+2097,Thessaloniki Regional Unit,85,GR,Greece,54
+2096,West Greece Region,85,GR,Greece,G
+2108,West Macedonia Region,85,GR,Greece,C
+3867,Carriacou and Petite Martinique,87,GD,Grenada,10
+3865,Saint Andrew Parish,87,GD,Grenada,1
+3869,Saint David Parish,87,GD,Grenada,2
+3864,Saint George Parish,87,GD,Grenada,3
+3868,Saint John Parish,87,GD,Grenada,4
+3866,Saint Mark Parish,87,GD,Grenada,5
+3863,Saint Patrick Parish,87,GD,Grenada,6
+3671,Alta Verapaz ,90,GT,Guatemala,16
+3674,Baja Verapaz ,90,GT,Guatemala,15
+3675,Chimaltenango ,90,GT,Guatemala,4
+3666,Chiquimula ,90,GT,Guatemala,20
+3662,El Progreso ,90,GT,Guatemala,2
+3677,Escuintla ,90,GT,Guatemala,5
+3672,Guatemala ,90,GT,Guatemala,1
+3670,Huehuetenango ,90,GT,Guatemala,13
+3659,Izabal ,90,GT,Guatemala,18
+3658,Jalapa ,90,GT,Guatemala,21
+3673,Jutiapa ,90,GT,Guatemala,22
+3669,Petén ,90,GT,Guatemala,17
+3668,Quetzaltenango ,90,GT,Guatemala,9
+3657,Quiché ,90,GT,Guatemala,14
+3664,Retalhuleu ,90,GT,Guatemala,11
+3676,Sacatepéquez ,90,GT,Guatemala,3
+3667,San Marcos ,90,GT,Guatemala,12
+3665,Santa Rosa ,90,GT,Guatemala,6
+3661,Sololá ,90,GT,Guatemala,7
+3660,Suchitepéquez ,90,GT,Guatemala,10
+3663,Totonicapán ,90,GT,Guatemala,8
+5239,Zacapa,90,GT,Guatemala,19
+2672,Beyla Prefecture,92,GN,Guinea,BE
+2699,Boffa Prefecture,92,GN,Guinea,BF
+2709,Boké Prefecture,92,GN,Guinea,BK
+2676,Boké Region,92,GN,Guinea,B
+2686,Conakry,92,GN,Guinea,C
+2705,Coyah Prefecture,92,GN,Guinea,CO
+2679,Dabola Prefecture,92,GN,Guinea,DB
+2706,Dalaba Prefecture,92,GN,Guinea,DL
+2688,Dinguiraye Prefecture,92,GN,Guinea,DI
+2681,Dubréka Prefecture,92,GN,Guinea,DU
+2682,Faranah Prefecture,92,GN,Guinea,FA
+2683,Forécariah Prefecture,92,GN,Guinea,FO
+2675,Fria Prefecture,92,GN,Guinea,FR
+2685,Gaoual Prefecture,92,GN,Guinea,GA
+2711,Guéckédou Prefecture,92,GN,Guinea,GU
+2704,Kankan Prefecture,92,GN,Guinea,KA
+2697,Kankan Region,92,GN,Guinea,K
+2710,Kérouané Prefecture,92,GN,Guinea,KE
+2693,Kindia Prefecture,92,GN,Guinea,KD
+2701,Kindia Region,92,GN,Guinea,D
+2691,Kissidougou Prefecture,92,GN,Guinea,KS
+2692,Koubia Prefecture,92,GN,Guinea,KB
+2703,Koundara Prefecture,92,GN,Guinea,KN
+2695,Kouroussa Prefecture,92,GN,Guinea,KO
+2680,Labé Prefecture,92,GN,Guinea,LA
+2677,Labé Region,92,GN,Guinea,L
+2690,Lélouma Prefecture,92,GN,Guinea,LE
+2708,Lola Prefecture,92,GN,Guinea,LO
+2702,Macenta Prefecture,92,GN,Guinea,MC
+2700,Mali Prefecture,92,GN,Guinea,ML
+2689,Mamou Prefecture,92,GN,Guinea,MM
+2698,Mamou Region,92,GN,Guinea,M
+2673,Mandiana Prefecture,92,GN,Guinea,MD
+2678,Nzérékoré Prefecture,92,GN,Guinea,NZ
+2684,Nzérékoré Region,92,GN,Guinea,N
+2694,Pita Prefecture,92,GN,Guinea,PI
+2707,Siguiri Prefecture,92,GN,Guinea,SI
+2687,Télimélé Prefecture,92,GN,Guinea,TE
+2696,Tougué Prefecture,92,GN,Guinea,TO
+2674,Yomou Prefecture,92,GN,Guinea,YO
+2720,Bafatá,93,GW,Guinea-Bissau,BA
+2714,Biombo Region,93,GW,Guinea-Bissau,BM
+2722,Bolama Region,93,GW,Guinea-Bissau,BL
+2713,Cacheu Region,93,GW,Guinea-Bissau,CA
+2719,Gabú Region,93,GW,Guinea-Bissau,GA
+2721,Leste Province,93,GW,Guinea-Bissau,L
+2717,Norte Province,93,GW,Guinea-Bissau,N
+2718,Oio Region,93,GW,Guinea-Bissau,OI
+2715,Quinara Region,93,GW,Guinea-Bissau,QU
+2716,Sul Province,93,GW,Guinea-Bissau,S
+2712,Tombali Region,93,GW,Guinea-Bissau,TO
+2764,Barima-Waini,94,GY,Guyana,BA
+2760,Cuyuni-Mazaruni,94,GY,Guyana,CU
+2767,Demerara-Mahaica,94,GY,Guyana,DE
+2766,East Berbice-Corentyne,94,GY,Guyana,EB
+2768,Essequibo Islands-West Demerara,94,GY,Guyana,ES
+2762,Mahaica-Berbice,94,GY,Guyana,MA
+2765,Pomeroon-Supenaam,94,GY,Guyana,PM
+2761,Potaro-Siparuni,94,GY,Guyana,PT
+2763,Upper Demerara-Berbice,94,GY,Guyana,UD
+2769,Upper Takutu-Upper Essequibo,94,GY,Guyana,UT
+4123,Artibonite,95,HT,Haiti,AR
+4125,Centre,95,HT,Haiti,CE
+4119,Grand'Anse,95,HT,Haiti,GA
+4118,Nippes,95,HT,Haiti,NI
+4117,Nord,95,HT,Haiti,ND
+4121,Nord-Est,95,HT,Haiti,NE
+4126,Nord-Ouest,95,HT,Haiti,NO
+4120,Ouest,95,HT,Haiti,OU
+4122,Sud,95,HT,Haiti,SD
+4124,Sud-Est,95,HT,Haiti,SE
+4047,Atlántida Department,97,HN,Honduras,AT
+4045,Bay Islands Department,97,HN,Honduras,IB
+4041,Choluteca Department,97,HN,Honduras,CH
+4051,Colón Department,97,HN,Honduras,CL
+4042,Comayagua Department,97,HN,Honduras,CM
+4049,Copán Department,97,HN,Honduras,CP
+4046,Cortés Department,97,HN,Honduras,CR
+4043,El Paraíso Department,97,HN,Honduras,EP
+4052,Francisco Morazán Department,97,HN,Honduras,FM
+4048,Gracias a Dios Department,97,HN,Honduras,GD
+4044,Intibucá Department,97,HN,Honduras,IN
+4058,La Paz Department,97,HN,Honduras,LP
+4054,Lempira Department,97,HN,Honduras,LE
+4056,Ocotepeque Department,97,HN,Honduras,OC
+4050,Olancho Department,97,HN,Honduras,OL
+4053,Santa Bárbara Department,97,HN,Honduras,SB
+4055,Valle Department,97,HN,Honduras,VA
+4057,Yoro Department,97,HN,Honduras,YO
+4889,Central and Western,98,HK,Hong Kong S.A.R.,HCW
+4891,Eastern,98,HK,Hong Kong S.A.R.,HEA
+4888,Islands,98,HK,Hong Kong S.A.R.,NIS
+4895,Kowloon City,98,HK,Hong Kong S.A.R.,KKC
+4898,Kwai Tsing,98,HK,Hong Kong S.A.R.,NKT
+4897,Kwun Tong,98,HK,Hong Kong S.A.R.,KKT
+4900,North,98,HK,Hong Kong S.A.R.,NNO
+4887,Sai Kung,98,HK,Hong Kong S.A.R.,NSK
+4901,Sha Tin,98,HK,Hong Kong S.A.R.,NST
+4894,Sham Shui Po,98,HK,Hong Kong S.A.R.,KSS
+4892,Southern,98,HK,Hong Kong S.A.R.,HSO
+4885,Tai Po,98,HK,Hong Kong S.A.R.,NTP
+4884,Tsuen Wan,98,HK,Hong Kong S.A.R.,NTW
+4899,Tuen Mun,98,HK,Hong Kong S.A.R.,NTM
+4890,Wan Chai,98,HK,Hong Kong S.A.R.,HWC
+4896,Wong Tai Sin,98,HK,Hong Kong S.A.R.,KWT
+4893,Yau Tsim Mong,98,HK,Hong Kong S.A.R.,KYT
+4883,Yuen Long,98,HK,Hong Kong S.A.R.,NYL
+1048,Bács-Kiskun,99,HU,Hungary,BK
+1055,Baranya,99,HU,Hungary,BA
+1060,Békés,99,HU,Hungary,BE
+1036,Békéscsaba,99,HU,Hungary,BC
+1058,Borsod-Abaúj-Zemplén,99,HU,Hungary,BZ
+1064,Budapest,99,HU,Hungary,BU
+1031,Csongrád County,99,HU,Hungary,CS
+1032,Debrecen,99,HU,Hungary,DE
+1049,Dunaújváros,99,HU,Hungary,DU
+1037,Eger,99,HU,Hungary,EG
+1028,Érd,99,HU,Hungary,ER
+1044,Fejér County,99,HU,Hungary,FE
+1041,Győr,99,HU,Hungary,GY
+1042,Győr-Moson-Sopron County,99,HU,Hungary,GS
+1063,Hajdú-Bihar County,99,HU,Hungary,HB
+1040,Heves County,99,HU,Hungary,HE
+1027,Hódmezővásárhely,99,HU,Hungary,HV
+1043,Jász-Nagykun-Szolnok County,99,HU,Hungary,JN
+1067,Kaposvár,99,HU,Hungary,KV
+1056,Kecskemét,99,HU,Hungary,KM
+5085,Komárom-Esztergom,99,HU,Hungary,KE
+1065,Miskolc,99,HU,Hungary,MI
+1030,Nagykanizsa,99,HU,Hungary,NK
+1051,Nógrád County,99,HU,Hungary,NO
+1034,Nyíregyháza,99,HU,Hungary,NY
+1053,Pécs,99,HU,Hungary,PS
+1059,Pest County,99,HU,Hungary,PE
+1068,Salgótarján,99,HU,Hungary,ST
+1035,Somogy County,99,HU,Hungary,SO
+1057,Sopron,99,HU,Hungary,SN
+1045,Szabolcs-Szatmár-Bereg County,99,HU,Hungary,SZ
+1029,Szeged,99,HU,Hungary,SD
+1033,Székesfehérvár,99,HU,Hungary,SF
+1061,Szekszárd,99,HU,Hungary,SS
+1047,Szolnok,99,HU,Hungary,SK
+1052,Szombathely,99,HU,Hungary,SH
+1066,Tatabánya,99,HU,Hungary,TB
+1038,Tolna County,99,HU,Hungary,TO
+1039,Vas County,99,HU,Hungary,VA
+1062,Veszprém,99,HU,Hungary,VM
+1054,Veszprém County,99,HU,Hungary,VE
+1046,Zala County,99,HU,Hungary,ZA
+1050,Zalaegerszeg,99,HU,Hungary,ZE
+3431,Capital Region,100,IS,Iceland,1
+3433,Eastern Region,100,IS,Iceland,7
+3437,Northeastern Region,100,IS,Iceland,6
+3435,Northwestern Region,100,IS,Iceland,5
+3430,Southern Peninsula Region,100,IS,Iceland,2
+3434,Southern Region,100,IS,Iceland,8
+3436,Western Region,100,IS,Iceland,3
+3432,Westfjords,100,IS,Iceland,4
+4023,Andaman and Nicobar Islands,101,IN,India,AN
+4017,Andhra Pradesh,101,IN,India,AP
+4024,Arunachal Pradesh,101,IN,India,AR
+4027,Assam,101,IN,India,AS
+4037,Bihar,101,IN,India,BR
+4031,Chandigarh,101,IN,India,CH
+4040,Chhattisgarh,101,IN,India,CT
+4033,Dadra and Nagar Haveli and Daman and Diu,101,IN,India,DH
+4021,Delhi,101,IN,India,DL
+4009,Goa,101,IN,India,GA
+4030,Gujarat,101,IN,India,GJ
+4007,Haryana,101,IN,India,HR
+4020,Himachal Pradesh,101,IN,India,HP
+4029,Jammu and Kashmir,101,IN,India,JK
+4025,Jharkhand,101,IN,India,JH
+4026,Karnataka,101,IN,India,KA
+4028,Kerala,101,IN,India,KL
+4852,Ladakh,101,IN,India,LA
+4019,Lakshadweep,101,IN,India,LD
+4039,Madhya Pradesh,101,IN,India,MP
+4008,Maharashtra,101,IN,India,MH
+4010,Manipur,101,IN,India,MN
+4006,Meghalaya,101,IN,India,ML
+4036,Mizoram,101,IN,India,MZ
+4018,Nagaland,101,IN,India,NL
+4013,Odisha,101,IN,India,OR
+4011,Puducherry,101,IN,India,PY
+4015,Punjab,101,IN,India,PB
+4014,Rajasthan,101,IN,India,RJ
+4034,Sikkim,101,IN,India,SK
+4035,Tamil Nadu,101,IN,India,TN
+4012,Telangana,101,IN,India,TG
+4038,Tripura,101,IN,India,TR
+4022,Uttar Pradesh,101,IN,India,UP
+4016,Uttarakhand,101,IN,India,UK
+4853,West Bengal,101,IN,India,WB
+1822,Aceh,102,ID,Indonesia,AC
+1826,Bali,102,ID,Indonesia,BA
+1810,Banten,102,ID,Indonesia,BT
+1793,Bengkulu,102,ID,Indonesia,BE
+1829,DI Yogyakarta,102,ID,Indonesia,YO
+1805,DKI Jakarta,102,ID,Indonesia,JK
+1812,Gorontalo,102,ID,Indonesia,GO
+1815,Jambi,102,ID,Indonesia,JA
+1825,Jawa Barat,102,ID,Indonesia,JB
+1802,Jawa Tengah,102,ID,Indonesia,JT
+1827,Jawa Timur,102,ID,Indonesia,JI
+1806,Kalimantan Barat,102,ID,Indonesia,KB
+1819,Kalimantan Selatan,102,ID,Indonesia,KS
+1794,Kalimantan Tengah,102,ID,Indonesia,KT
+1804,Kalimantan Timur,102,ID,Indonesia,KI
+1824,Kalimantan Utara,102,ID,Indonesia,KU
+1820,Kepulauan Bangka Belitung,102,ID,Indonesia,BB
+1807,Kepulauan Riau,102,ID,Indonesia,KR
+1811,Lampung,102,ID,Indonesia,LA
+1800,Maluku,102,ID,Indonesia,MA
+1801,Maluku Utara,102,ID,Indonesia,MU
+1814,Nusa Tenggara Barat,102,ID,Indonesia,NB
+1818,Nusa Tenggara Timur,102,ID,Indonesia,NT
+1798,Papua,102,ID,Indonesia,PA
+1799,Papua Barat,102,ID,Indonesia,PB
+5238,Papua Barat Daya,102,ID,Indonesia,PD
+5236,Papua Pegunungan,102,ID,Indonesia,PE
+5237,Papua Selatan,102,ID,Indonesia,PS
+5235,Papua Tengah,102,ID,Indonesia,PT
+1809,Riau,102,ID,Indonesia,RI
+1817,Sulawesi Barat,102,ID,Indonesia,SR
+1795,Sulawesi Selatan,102,ID,Indonesia,SN
+1813,Sulawesi Tengah,102,ID,Indonesia,ST
+1796,Sulawesi Tenggara,102,ID,Indonesia,SG
+1808,Sulawesi Utara,102,ID,Indonesia,SA
+1828,Sumatera Barat,102,ID,Indonesia,SB
+1816,Sumatera Selatan,102,ID,Indonesia,SS
+1792,Sumatera Utara,102,ID,Indonesia,SU
+3929,Alborz,103,IR,Iran,30
+3934,Ardabil,103,IR,Iran,24
+3932,Bushehr,103,IR,Iran,18
+3921,Chaharmahal and Bakhtiari,103,IR,Iran,14
+3944,East Azerbaijan,103,IR,Iran,3
+3939,Fars,103,IR,Iran,7
+3920,Gilan,103,IR,Iran,1
+3933,Golestan,103,IR,Iran,27
+4920,Hamadan,103,IR,Iran,13
+3937,Hormozgan,103,IR,Iran,22
+3918,Ilam,103,IR,Iran,16
+3923,Isfahan,103,IR,Iran,10
+3943,Kerman,103,IR,Iran,8
+3919,Kermanshah,103,IR,Iran,5
+3917,Khuzestan,103,IR,Iran,6
+3926,Kohgiluyeh and Boyer-Ahmad,103,IR,Iran,17
+3935,Kurdistan,103,IR,Iran,12
+3928,Lorestan,103,IR,Iran,15
+3916,Markazi,103,IR,Iran,0
+3938,Mazandaran,103,IR,Iran,2
+3942,North Khorasan,103,IR,Iran,28
+3941,Qazvin,103,IR,Iran,26
+3922,Qom,103,IR,Iran,25
+3927,Razavi Khorasan,103,IR,Iran,9
+3940,Semnan,103,IR,Iran,20
+3931,Sistan and Baluchestan,103,IR,Iran,11
+3930,South Khorasan,103,IR,Iran,29
+3945,Tehran,103,IR,Iran,23
+3924,West Azarbaijan,103,IR,Iran,4
+3936,Yazd,103,IR,Iran,21
+3925,Zanjan,103,IR,Iran,19
+3964,Al Anbar,104,IQ,Iraq,AN
+3958,Al Muthanna,104,IQ,Iraq,MU
+3956,Al-Qādisiyyah,104,IQ,Iraq,QA
+3955,Babylon,104,IQ,Iraq,BB
+3959,Baghdad,104,IQ,Iraq,BG
+3960,Basra,104,IQ,Iraq,BA
+3954,Dhi Qar,104,IQ,Iraq,DQ
+3965,Diyala,104,IQ,Iraq,DI
+3967,Dohuk,104,IQ,Iraq,DA
+3968,Erbil,104,IQ,Iraq,AR
+3957,Karbala,104,IQ,Iraq,KA
+3971,Kirkuk,104,IQ,Iraq,KI
+3966,Maysan,104,IQ,Iraq,MA
+3962,Najaf,104,IQ,Iraq,NA
+3963,Nineveh,104,IQ,Iraq,NI
+3961,Saladin,104,IQ,Iraq,SD
+3969,Sulaymaniyah,104,IQ,Iraq,SU
+3970,Wasit,104,IQ,Iraq,WA
+1095,Carlow,105,IE,Ireland,CW
+1088,Cavan,105,IE,Ireland,CN
+1091,Clare,105,IE,Ireland,CE
+1087,Connacht,105,IE,Ireland,C
+1074,Cork,105,IE,Ireland,CO
+1071,Donegal,105,IE,Ireland,DL
+1072,Dublin,105,IE,Ireland,D
+1079,Galway,105,IE,Ireland,G
+1077,Kerry,105,IE,Ireland,KY
+1082,Kildare,105,IE,Ireland,KE
+1090,Kilkenny,105,IE,Ireland,KK
+1096,Laois,105,IE,Ireland,LS
+1073,Leinster,105,IE,Ireland,L
+1094,Limerick,105,IE,Ireland,LK
+1076,Longford,105,IE,Ireland,LD
+1083,Louth,105,IE,Ireland,LH
+1084,Mayo,105,IE,Ireland,MO
+1092,Meath,105,IE,Ireland,MH
+1075,Monaghan,105,IE,Ireland,MN
+1080,Munster,105,IE,Ireland,M
+1078,Offaly,105,IE,Ireland,OY
+1081,Roscommon,105,IE,Ireland,RN
+1070,Sligo,105,IE,Ireland,SO
+1069,Tipperary,105,IE,Ireland,TA
+1086,Ulster,105,IE,Ireland,U
+1089,Waterford,105,IE,Ireland,WD
+1097,Westmeath,105,IE,Ireland,WH
+1093,Wexford,105,IE,Ireland,WX
+1085,Wicklow,105,IE,Ireland,WW
+1367,Central District,106,IL,Israel,M
+1369,Haifa District,106,IL,Israel,HA
+1370,Jerusalem District,106,IL,Israel,JM
+1366,Northern District,106,IL,Israel,Z
+1368,Southern District,106,IL,Israel,D
+1371,Tel Aviv District,106,IL,Israel,TA
+1679,Abruzzo,107,IT,Italy,65
+1727,Agrigento,107,IT,Italy,AG
+1783,Alessandria,107,IT,Italy,AL
+1672,Ancona,107,IT,Italy,AN
+1716,Aosta Valley,107,IT,Italy,23
+1688,Apulia,107,IT,Italy,75
+1681,Ascoli Piceno,107,IT,Italy,AP
+1780,Asti,107,IT,Italy,AT
+1692,Avellino,107,IT,Italy,AV
+1686,Barletta-Andria-Trani,107,IT,Italy,BT
+1706,Basilicata,107,IT,Italy,77
+1689,Belluno,107,IT,Italy,BL
+1701,Benevento,107,IT,Italy,BN
+1704,Bergamo,107,IT,Italy,BG
+1778,Biella,107,IT,Italy,BI
+1717,Brescia,107,IT,Italy,BS
+1714,Brindisi,107,IT,Italy,BR
+1703,Calabria,107,IT,Italy,78
+1718,Caltanissetta,107,IT,Italy,CL
+1669,Campania,107,IT,Italy,72
+1721,Campobasso,107,IT,Italy,CB
+1731,Caserta,107,IT,Italy,CE
+1728,Catanzaro,107,IT,Italy,CZ
+1739,Chieti,107,IT,Italy,CH
+1740,Como,107,IT,Italy,CO
+1742,Cosenza,107,IT,Italy,CS
+1751,Cremona,107,IT,Italy,CR
+1754,Crotone,107,IT,Italy,KR
+1775,Cuneo,107,IT,Italy,CN
+1773,Emilia-Romagna,107,IT,Italy,45
+1723,Enna,107,IT,Italy,EN
+1744,Fermo,107,IT,Italy,FM
+1746,Ferrara,107,IT,Italy,FE
+1771,Foggia,107,IT,Italy,FG
+1779,Forlì-Cesena,107,IT,Italy,FC
+1756,Friuli–Venezia Giulia,107,IT,Italy,36
+1776,Frosinone,107,IT,Italy,FR
+1777,Gorizia,107,IT,Italy,GO
+1787,Grosseto,107,IT,Italy,GR
+1788,Imperia,107,IT,Italy,IM
+1789,Isernia,107,IT,Italy,IS
+1781,L'Aquila,107,IT,Italy,AQ
+1791,La Spezia,107,IT,Italy,SP
+1674,Latina,107,IT,Italy,LT
+1678,Lazio,107,IT,Italy,62
+1675,Lecce,107,IT,Italy,LE
+1677,Lecco,107,IT,Italy,LC
+1768,Liguria,107,IT,Italy,42
+1745,Livorno,107,IT,Italy,LI
+1747,Lodi,107,IT,Italy,LO
+1705,Lombardy,107,IT,Italy,25
+1749,Lucca,107,IT,Italy,LU
+1750,Macerata,107,IT,Italy,MC
+1758,Mantua,107,IT,Italy,MN
+1670,Marche,107,IT,Italy,57
+1759,Massa and Carrara,107,IT,Italy,MS
+1760,Matera,107,IT,Italy,MT
+1761,Medio Campidano,107,IT,Italy,VS
+1757,Modena,107,IT,Italy,MO
+1695,Molise,107,IT,Italy,67
+1769,Monza and Brianza,107,IT,Italy,MB
+1774,Novara,107,IT,Italy,NO
+1790,Nuoro,107,IT,Italy,NU
+1786,Oristano,107,IT,Italy,OR
+1665,Padua,107,IT,Italy,PD
+1668,Palermo,107,IT,Italy,PA
+1666,Parma,107,IT,Italy,PR
+1676,Pavia,107,IT,Italy,PV
+1691,Perugia,107,IT,Italy,PG
+1693,Pesaro and Urbino,107,IT,Italy,PU
+1694,Pescara,107,IT,Italy,PE
+1696,Piacenza,107,IT,Italy,PC
+1702,Piedmont,107,IT,Italy,21
+1685,Pisa,107,IT,Italy,PI
+1687,Pistoia,107,IT,Italy,PT
+1690,Pordenone,107,IT,Italy,PN
+1697,Potenza,107,IT,Italy,PZ
+1700,Prato,107,IT,Italy,PO
+1729,Ragusa,107,IT,Italy,RG
+1707,Ravenna,107,IT,Italy,RA
+1708,Reggio Emilia,107,IT,Italy,RE
+1712,Rieti,107,IT,Italy,RI
+1713,Rimini,107,IT,Italy,RN
+1719,Rovigo,107,IT,Italy,RO
+1720,Salerno,107,IT,Italy,SA
+1715,Sardinia,107,IT,Italy,88
+1722,Sassari,107,IT,Italy,SS
+1732,Savona,107,IT,Italy,SV
+1709,Sicily,107,IT,Italy,82
+1734,Siena,107,IT,Italy,SI
+1667,Siracusa,107,IT,Italy,SR
+1741,Sondrio,107,IT,Italy,SO
+1730,South Sardinia,107,IT,Italy,SU
+1743,Taranto,107,IT,Italy,TA
+1752,Teramo,107,IT,Italy,TE
+1755,Terni,107,IT,Italy,TR
+1733,Trapani,107,IT,Italy,TP
+1725,Trentino-South Tyrol,107,IT,Italy,32
+1762,Treviso,107,IT,Italy,TV
+1763,Trieste,107,IT,Italy,TS
+1664,Tuscany,107,IT,Italy,52
+1764,Udine,107,IT,Italy,UD
+1683,Umbria,107,IT,Italy,55
+1765,Varese,107,IT,Italy,VA
+1753,Veneto,107,IT,Italy,34
+1726,Verbano-Cusio-Ossola,107,IT,Italy,VB
+1785,Vercelli,107,IT,Italy,VC
+1736,Verona,107,IT,Italy,VR
+1737,Vibo Valentia,107,IT,Italy,VV
+1738,Vicenza,107,IT,Italy,VI
+1735,Viterbo,107,IT,Italy,VT
+3753,Clarendon Parish,108,JM,Jamaica,13
+3749,Hanover Parish,108,JM,Jamaica,9
+3748,Kingston Parish,108,JM,Jamaica,1
+3754,Manchester Parish,108,JM,Jamaica,12
+3752,Portland Parish,108,JM,Jamaica,4
+3751,Saint Andrew,108,JM,Jamaica,2
+3744,Saint Ann Parish,108,JM,Jamaica,6
+3746,Saint Catherine Parish,108,JM,Jamaica,14
+3743,Saint Elizabeth Parish,108,JM,Jamaica,11
+3745,Saint James Parish,108,JM,Jamaica,8
+3747,Saint Mary Parish,108,JM,Jamaica,5
+3750,Saint Thomas Parish,108,JM,Jamaica,3
+3755,Trelawny Parish,108,JM,Jamaica,7
+3742,Westmoreland Parish,108,JM,Jamaica,10
+827,Aichi Prefecture,109,JP,Japan,23
+829,Akita Prefecture,109,JP,Japan,5
+839,Aomori Prefecture,109,JP,Japan,2
+821,Chiba Prefecture,109,JP,Japan,12
+865,Ehime Prefecture,109,JP,Japan,38
+848,Fukui Prefecture,109,JP,Japan,18
+861,Fukuoka Prefecture,109,JP,Japan,40
+847,Fukushima Prefecture,109,JP,Japan,7
+858,Gifu Prefecture,109,JP,Japan,21
+862,Gunma Prefecture,109,JP,Japan,10
+828,Hiroshima Prefecture,109,JP,Japan,34
+832,Hokkaidō Prefecture,109,JP,Japan,1
+831,Hyōgo Prefecture,109,JP,Japan,28
+851,Ibaraki Prefecture,109,JP,Japan,8
+830,Ishikawa Prefecture,109,JP,Japan,17
+856,Iwate Prefecture,109,JP,Japan,3
+864,Kagawa Prefecture,109,JP,Japan,37
+840,Kagoshima Prefecture,109,JP,Japan,46
+842,Kanagawa Prefecture,109,JP,Japan,14
+4924,Kōchi Prefecture,109,JP,Japan,39
+846,Kumamoto Prefecture,109,JP,Japan,43
+834,Kyōto Prefecture,109,JP,Japan,26
+833,Mie Prefecture,109,JP,Japan,24
+857,Miyagi Prefecture,109,JP,Japan,4
+855,Miyazaki Prefecture,109,JP,Japan,45
+843,Nagano Prefecture,109,JP,Japan,20
+849,Nagasaki Prefecture,109,JP,Japan,42
+824,Nara Prefecture,109,JP,Japan,29
+841,Niigata Prefecture,109,JP,Japan,15
+822,Ōita Prefecture,109,JP,Japan,44
+820,Okayama Prefecture,109,JP,Japan,33
+853,Okinawa Prefecture,109,JP,Japan,47
+859,Ōsaka Prefecture,109,JP,Japan,27
+863,Saga Prefecture,109,JP,Japan,41
+860,Saitama Prefecture,109,JP,Japan,11
+845,Shiga Prefecture,109,JP,Japan,25
+826,Shimane Prefecture,109,JP,Japan,32
+825,Shizuoka Prefecture,109,JP,Japan,22
+854,Tochigi Prefecture,109,JP,Japan,9
+836,Tokushima Prefecture,109,JP,Japan,36
+823,Tokyo,109,JP,Japan,13
+850,Tottori Prefecture,109,JP,Japan,31
+838,Toyama Prefecture,109,JP,Japan,16
+844,Wakayama Prefecture,109,JP,Japan,30
+837,Yamagata Prefecture,109,JP,Japan,6
+835,Yamaguchi Prefecture,109,JP,Japan,35
+852,Yamanashi Prefecture,109,JP,Japan,19
+963,Ajloun,111,JO,Jordan,AJ
+965,Amman,111,JO,Jordan,AM
+959,Aqaba,111,JO,Jordan,AQ
+961,Balqa,111,JO,Jordan,BA
+960,Irbid,111,JO,Jordan,IR
+966,Jerash,111,JO,Jordan,JA
+956,Karak,111,JO,Jordan,KA
+964,Ma'an,111,JO,Jordan,MN
+958,Madaba,111,JO,Jordan,MD
+962,Mafraq,111,JO,Jordan,MA
+957,Tafilah,111,JO,Jordan,AT
+967,Zarqa,111,JO,Jordan,AZ
+145,Akmola Region,112,KZ,Kazakhstan,AKM
+151,Aktobe Region,112,KZ,Kazakhstan,AKT
+152,Almaty,112,KZ,Kazakhstan,ALA
+143,Almaty Region,112,KZ,Kazakhstan,ALM
+153,Atyrau Region,112,KZ,Kazakhstan,ATY
+155,Baikonur,112,KZ,Kazakhstan,BAY
+154,East Kazakhstan Region,112,KZ,Kazakhstan,VOS
+147,Jambyl Region,112,KZ,Kazakhstan,ZHA
+150,Karaganda Region,112,KZ,Kazakhstan,KAR
+157,Kostanay Region,112,KZ,Kazakhstan,KUS
+142,Kyzylorda Region,112,KZ,Kazakhstan,KZY
+141,Mangystau Region,112,KZ,Kazakhstan,MAN
+144,North Kazakhstan Region,112,KZ,Kazakhstan,SEV
+156,Nur-Sultan,112,KZ,Kazakhstan,AST
+146,Pavlodar Region,112,KZ,Kazakhstan,PAV
+149,Turkestan Region,112,KZ,Kazakhstan,YUZ
+148,West Kazakhstan Province,112,KZ,Kazakhstan,ZAP
+181,Baringo,113,KE,Kenya,1
+210,Bomet,113,KE,Kenya,2
+168,Bungoma,113,KE,Kenya,3
+161,Busia,113,KE,Kenya,4
+201,Elgeyo-Marakwet,113,KE,Kenya,5
+163,Embu,113,KE,Kenya,6
+196,Garissa,113,KE,Kenya,7
+195,Homa Bay,113,KE,Kenya,8
+170,Isiolo,113,KE,Kenya,9
+197,Kajiado,113,KE,Kenya,10
+158,Kakamega,113,KE,Kenya,11
+193,Kericho,113,KE,Kenya,12
+199,Kiambu,113,KE,Kenya,13
+174,Kilifi,113,KE,Kenya,14
+167,Kirinyaga,113,KE,Kenya,15
+159,Kisii,113,KE,Kenya,16
+171,Kisumu,113,KE,Kenya,17
+211,Kitui,113,KE,Kenya,18
+173,Kwale,113,KE,Kenya,19
+164,Laikipia,113,KE,Kenya,20
+166,Lamu,113,KE,Kenya,21
+184,Machakos,113,KE,Kenya,22
+188,Makueni,113,KE,Kenya,23
+187,Mandera,113,KE,Kenya,24
+194,Marsabit,113,KE,Kenya,25
+198,Meru,113,KE,Kenya,26
+190,Migori,113,KE,Kenya,27
+200,Mombasa,113,KE,Kenya,28
+178,Murang'a,113,KE,Kenya,29
+191,Nairobi City,113,KE,Kenya,30
+203,Nakuru,113,KE,Kenya,31
+165,Nandi,113,KE,Kenya,32
+175,Narok,113,KE,Kenya,33
+209,Nyamira,113,KE,Kenya,34
+192,Nyandarua,113,KE,Kenya,35
+180,Nyeri,113,KE,Kenya,36
+207,Samburu,113,KE,Kenya,37
+186,Siaya,113,KE,Kenya,38
+176,Taita–Taveta,113,KE,Kenya,39
+205,Tana River,113,KE,Kenya,40
+185,Tharaka-Nithi,113,KE,Kenya,41
+183,Trans Nzoia,113,KE,Kenya,42
+206,Turkana,113,KE,Kenya,43
+169,Uasin Gishu,113,KE,Kenya,44
+202,Vihiga,113,KE,Kenya,45
+182,Wajir,113,KE,Kenya,46
+208,West Pokot,113,KE,Kenya,47
+1831,Gilbert Islands,114,KI,Kiribati,G
+1832,Line Islands,114,KI,Kiribati,L
+1830,Phoenix Islands,114,KI,Kiribati,P
+4876,Đakovica District (Gjakove),248,XK,Kosovo,XDG
+4877,Gjilan District,248,XK,Kosovo,XGJ
+4878,Kosovska Mitrovica District,248,XK,Kosovo,XKM
+3738,Peć District,248,XK,Kosovo,XPE
+4879,Pristina (Priştine),248,XK,Kosovo,XPI
+3723,Prizren District,248,XK,Kosovo,XPR
+4874,Uroševac District (Ferizaj),248,XK,Kosovo,XUF
+977,Al Ahmadi,117,KW,Kuwait,AH
+975,Al Farwaniyah,117,KW,Kuwait,FA
+972,Al Jahra,117,KW,Kuwait,JA
+976,Capital,117,KW,Kuwait,KU
+973,Hawalli,117,KW,Kuwait,HA
+974,Mubarak Al-Kabeer,117,KW,Kuwait,MU
+998,Batken Region,118,KG,Kyrgyzstan,B
+1001,Bishkek,118,KG,Kyrgyzstan,GB
+1004,Chuy Region,118,KG,Kyrgyzstan,C
+1002,Issyk-Kul Region,118,KG,Kyrgyzstan,Y
+1000,Jalal-Abad Region,118,KG,Kyrgyzstan,J
+999,Naryn Region,118,KG,Kyrgyzstan,N
+1003,Osh,118,KG,Kyrgyzstan,GO
+1005,Osh Region,118,KG,Kyrgyzstan,O
+997,Talas Region,118,KG,Kyrgyzstan,T
+982,Attapeu Province,119,LA,Laos,AT
+991,Bokeo Province,119,LA,Laos,BK
+985,Bolikhamsai Province,119,LA,Laos,BL
+996,Champasak Province,119,LA,Laos,CH
+989,Houaphanh Province,119,LA,Laos,HO
+986,Khammouane Province,119,LA,Laos,KH
+992,Luang Namtha Province,119,LA,Laos,LM
+978,Luang Prabang Province,119,LA,Laos,LP
+988,Oudomxay Province,119,LA,Laos,OU
+987,Phongsaly Province,119,LA,Laos,PH
+993,Sainyabuli Province,119,LA,Laos,XA
+981,Salavan Province,119,LA,Laos,SL
+990,Savannakhet Province,119,LA,Laos,SV
+984,Sekong Province,119,LA,Laos,XE
+979,Vientiane Prefecture,119,LA,Laos,VT
+980,Vientiane Province,119,LA,Laos,VI
+994,Xaisomboun,119,LA,Laos,XN
+983,Xaisomboun Province,119,LA,Laos,XS
+995,Xiangkhouang Province,119,LA,Laos,XI
+4445,Aglona Municipality,120,LV,Latvia,1
+4472,Aizkraukle Municipality,120,LV,Latvia,2
+4496,Aizpute Municipality,120,LV,Latvia,3
+4499,Aknīste Municipality,120,LV,Latvia,4
+4484,Aloja Municipality,120,LV,Latvia,5
+4485,Alsunga Municipality,120,LV,Latvia,6
+4487,Alūksne Municipality,120,LV,Latvia,7
+4497,Amata Municipality,120,LV,Latvia,8
+4457,Ape Municipality,120,LV,Latvia,9
+4481,Auce Municipality,120,LV,Latvia,10
+4427,Babīte Municipality,120,LV,Latvia,12
+4482,Baldone Municipality,120,LV,Latvia,13
+4498,Baltinava Municipality,120,LV,Latvia,14
+4505,Balvi Municipality,120,LV,Latvia,15
+4465,Bauska Municipality,120,LV,Latvia,16
+4471,Beverīna Municipality,120,LV,Latvia,17
+4468,Brocēni Municipality,120,LV,Latvia,18
+4411,Burtnieki Municipality,120,LV,Latvia,19
+4454,Carnikava Municipality,120,LV,Latvia,20
+4469,Cēsis Municipality,120,LV,Latvia,22
+4414,Cesvaine Municipality,120,LV,Latvia,21
+4410,Cibla Municipality,120,LV,Latvia,23
+4504,Dagda Municipality,120,LV,Latvia,24
+4463,Daugavpils,120,LV,Latvia,DGV
+4492,Daugavpils Municipality,120,LV,Latvia,25
+4437,Dobele Municipality,120,LV,Latvia,26
+4428,Dundaga Municipality,120,LV,Latvia,27
+4458,Durbe Municipality,120,LV,Latvia,28
+4448,Engure Municipality,120,LV,Latvia,29
+4444,Ērgļi Municipality,120,LV,Latvia,30
+4510,Garkalne Municipality,120,LV,Latvia,31
+4470,Grobiņa Municipality,120,LV,Latvia,32
+4400,Gulbene Municipality,120,LV,Latvia,33
+4441,Iecava Municipality,120,LV,Latvia,34
+4511,Ikšķile Municipality,120,LV,Latvia,35
+4399,Ilūkste Municipality,120,LV,Latvia,36
+4449,Inčukalns Municipality,120,LV,Latvia,37
+4475,Jaunjelgava Municipality,120,LV,Latvia,38
+4407,Jaunpiebalga Municipality,120,LV,Latvia,39
+4489,Jaunpils Municipality,120,LV,Latvia,40
+4464,Jēkabpils,120,LV,Latvia,JKB
+4438,Jēkabpils Municipality,120,LV,Latvia,42
+4500,Jelgava,120,LV,Latvia,JEL
+4424,Jelgava Municipality,120,LV,Latvia,41
+4446,Jūrmala,120,LV,Latvia,JUR
+4420,Kandava Municipality,120,LV,Latvia,43
+4453,Kārsava Municipality,120,LV,Latvia,44
+4412,Ķegums Municipality,120,LV,Latvia,51
+4435,Ķekava Municipality,120,LV,Latvia,52
+4495,Kocēni Municipality,120,LV,Latvia,45
+4452,Koknese Municipality,120,LV,Latvia,46
+4474,Krāslava Municipality,120,LV,Latvia,47
+4422,Krimulda Municipality,120,LV,Latvia,48
+4413,Krustpils Municipality,120,LV,Latvia,49
+4490,Kuldīga Municipality,120,LV,Latvia,50
+4512,Lielvārde Municipality,120,LV,Latvia,53
+4460,Liepāja,120,LV,Latvia,LPX
+4488,Līgatne Municipality,120,LV,Latvia,55
+4418,Limbaži Municipality,120,LV,Latvia,54
+4401,Līvāni Municipality,120,LV,Latvia,56
+4419,Lubāna Municipality,120,LV,Latvia,57
+4501,Ludza Municipality,120,LV,Latvia,58
+4433,Madona Municipality,120,LV,Latvia,59
+4461,Mālpils Municipality,120,LV,Latvia,61
+4450,Mārupe Municipality,120,LV,Latvia,62
+4513,Mazsalaca Municipality,120,LV,Latvia,60
+4451,Mērsrags Municipality,120,LV,Latvia,63
+4398,Naukšēni Municipality,120,LV,Latvia,64
+4432,Nereta Municipality,120,LV,Latvia,65
+4436,Nīca Municipality,120,LV,Latvia,66
+4416,Ogre Municipality,120,LV,Latvia,67
+4417,Olaine Municipality,120,LV,Latvia,68
+4442,Ozolnieki Municipality,120,LV,Latvia,69
+4507,Pārgauja Municipality,120,LV,Latvia,70
+4467,Pāvilosta Municipality,120,LV,Latvia,71
+4405,Pļaviņas Municipality,120,LV,Latvia,72
+4483,Preiļi Municipality,120,LV,Latvia,73
+4429,Priekule Municipality,120,LV,Latvia,74
+4506,Priekuļi Municipality,120,LV,Latvia,75
+4479,Rauna Municipality,120,LV,Latvia,76
+4509,Rēzekne,120,LV,Latvia,REZ
+4455,Rēzekne Municipality,120,LV,Latvia,77
+4502,Riebiņi Municipality,120,LV,Latvia,78
+4491,Riga,120,LV,Latvia,RIX
+4440,Roja Municipality,120,LV,Latvia,79
+4493,Ropaži Municipality,120,LV,Latvia,80
+4503,Rucava Municipality,120,LV,Latvia,81
+4423,Rugāji Municipality,120,LV,Latvia,82
+4426,Rūjiena Municipality,120,LV,Latvia,84
+4404,Rundāle Municipality,120,LV,Latvia,83
+4434,Sala Municipality,120,LV,Latvia,85
+4396,Salacgrīva Municipality,120,LV,Latvia,86
+4402,Salaspils Municipality,120,LV,Latvia,87
+4439,Saldus Municipality,120,LV,Latvia,88
+4443,Saulkrasti Municipality,120,LV,Latvia,89
+4408,Sēja Municipality,120,LV,Latvia,90
+4476,Sigulda Municipality,120,LV,Latvia,91
+4415,Skrīveri Municipality,120,LV,Latvia,92
+4447,Skrunda Municipality,120,LV,Latvia,93
+4462,Smiltene Municipality,120,LV,Latvia,94
+4478,Stopiņi Municipality,120,LV,Latvia,95
+4494,Strenči Municipality,120,LV,Latvia,96
+4459,Talsi Municipality,120,LV,Latvia,97
+4480,Tērvete Municipality,120,LV,Latvia,98
+4409,Tukums Municipality,120,LV,Latvia,99
+4508,Vaiņode Municipality,120,LV,Latvia,100
+4425,Valka Municipality,120,LV,Latvia,101
+4473,Valmiera,120,LV,Latvia,VMR
+4431,Varakļāni Municipality,120,LV,Latvia,102
+4406,Vārkava Municipality,120,LV,Latvia,103
+4466,Vecpiebalga Municipality,120,LV,Latvia,104
+4397,Vecumnieki Municipality,120,LV,Latvia,105
+4421,Ventspils,120,LV,Latvia,VEN
+4403,Ventspils Municipality,120,LV,Latvia,106
+4456,Viesīte Municipality,120,LV,Latvia,107
+4477,Viļaka Municipality,120,LV,Latvia,108
+4486,Viļāni Municipality,120,LV,Latvia,109
+4430,Zilupe Municipality,120,LV,Latvia,110
+2285,Akkar,121,LB,Lebanon,AK
+2283,Baalbek-Hermel,121,LB,Lebanon,BH
+2286,Beirut,121,LB,Lebanon,BA
+2287,Beqaa,121,LB,Lebanon,BI
+2282,Mount Lebanon,121,LB,Lebanon,JL
+2288,Nabatieh,121,LB,Lebanon,NA
+2284,North,121,LB,Lebanon,AS
+2281,South,121,LB,Lebanon,JA
+3030,Berea District,122,LS,Lesotho,D
+3029,Butha-Buthe District,122,LS,Lesotho,B
+3026,Leribe District,122,LS,Lesotho,C
+3022,Mafeteng District,122,LS,Lesotho,E
+3028,Maseru District,122,LS,Lesotho,A
+3023,Mohale's Hoek District,122,LS,Lesotho,F
+3024,Mokhotlong District,122,LS,Lesotho,J
+3025,Qacha's Nek District,122,LS,Lesotho,H
+3027,Quthing District,122,LS,Lesotho,G
+3031,Thaba-Tseka District,122,LS,Lesotho,K
+3041,Bomi County,123,LR,Liberia,BM
+3034,Bong County,123,LR,Liberia,BG
+3044,Gbarpolu County,123,LR,Liberia,GP
+3040,Grand Bassa County,123,LR,Liberia,GB
+3036,Grand Cape Mount County,123,LR,Liberia,CM
+3039,Grand Gedeh County,123,LR,Liberia,GG
+3045,Grand Kru County,123,LR,Liberia,GK
+3037,Lofa County,123,LR,Liberia,LO
+3043,Margibi County,123,LR,Liberia,MG
+3042,Maryland County,123,LR,Liberia,MY
+3032,Montserrado County,123,LR,Liberia,MO
+3046,Nimba,123,LR,Liberia,NI
+3033,River Cess County,123,LR,Liberia,RI
+3038,River Gee County,123,LR,Liberia,RG
+3035,Sinoe County,123,LR,Liberia,SI
+2964,Al Wahat District,124,LY,Libya,WA
+2981,Benghazi,124,LY,Libya,BA
+2966,Derna District,124,LY,Libya,DR
+2969,Ghat District,124,LY,Libya,GT
+2980,Jabal al Akhdar,124,LY,Libya,JA
+2974,Jabal al Gharbi District,124,LY,Libya,JG
+2979,Jafara,124,LY,Libya,JI
+2970,Jufra,124,LY,Libya,JU
+2972,Kufra District,124,LY,Libya,KF
+2968,Marj District,124,LY,Libya,MJ
+2978,Misrata District,124,LY,Libya,MI
+2961,Murqub,124,LY,Libya,MB
+2967,Murzuq District,124,LY,Libya,MQ
+2976,Nalut District,124,LY,Libya,NL
+2962,Nuqat al Khams,124,LY,Libya,NQ
+2965,Sabha District,124,LY,Libya,SB
+2977,Sirte District,124,LY,Libya,SR
+2971,Tripoli District,124,LY,Libya,TB
+2973,Wadi al Hayaa District,124,LY,Libya,WD
+2975,Wadi al Shatii District,124,LY,Libya,WS
+2963,Zawiya District,124,LY,Libya,ZA
+458,Balzers,125,LI,Liechtenstein,1
+451,Eschen,125,LI,Liechtenstein,2
+457,Gamprin,125,LI,Liechtenstein,3
+455,Mauren,125,LI,Liechtenstein,4
+454,Planken,125,LI,Liechtenstein,5
+453,Ruggell,125,LI,Liechtenstein,6
+450,Schaan,125,LI,Liechtenstein,7
+449,Schellenberg,125,LI,Liechtenstein,8
+459,Triesen,125,LI,Liechtenstein,9
+456,Triesenberg,125,LI,Liechtenstein,10
+452,Vaduz,125,LI,Liechtenstein,11
+1561,Akmenė District Municipality,126,LT,Lithuania,1
+1605,Alytus City Municipality,126,LT,Lithuania,2
+1574,Alytus County,126,LT,Lithuania,AL
+1599,Alytus District Municipality,126,LT,Lithuania,3
+1603,Birštonas Municipality,126,LT,Lithuania,5
+1566,Biržai District Municipality,126,LT,Lithuania,6
+1579,Druskininkai municipality,126,LT,Lithuania,7
+1559,Elektrėnai municipality,126,LT,Lithuania,8
+1562,Ignalina District Municipality,126,LT,Lithuania,9
+1567,Jonava District Municipality,126,LT,Lithuania,10
+1581,Joniškis District Municipality,126,LT,Lithuania,11
+1555,Jurbarkas District Municipality,126,LT,Lithuania,12
+1583,Kaišiadorys District Municipality,126,LT,Lithuania,13
+1591,Kalvarija municipality,126,LT,Lithuania,14
+1580,Kaunas City Municipality,126,LT,Lithuania,15
+1556,Kaunas County,126,LT,Lithuania,KU
+1565,Kaunas District Municipality,126,LT,Lithuania,16
+1575,Kazlų Rūda municipality,126,LT,Lithuania,17
+1584,Kėdainiai District Municipality,126,LT,Lithuania,18
+1618,Kelmė District Municipality,126,LT,Lithuania,19
+1597,Klaipeda City Municipality,126,LT,Lithuania,20
+1600,Klaipėda County,126,LT,Lithuania,KL
+1604,Klaipėda District Municipality,126,LT,Lithuania,21
+1571,Kretinga District Municipality,126,LT,Lithuania,22
+1585,Kupiškis District Municipality,126,LT,Lithuania,23
+1611,Lazdijai District Municipality,126,LT,Lithuania,24
+1570,Marijampolė County,126,LT,Lithuania,MR
+1610,Marijampolė Municipality,126,LT,Lithuania,25
+1557,Mažeikiai District Municipality,126,LT,Lithuania,26
+1582,Molėtai District Municipality,126,LT,Lithuania,27
+1563,Neringa Municipality,126,LT,Lithuania,28
+1612,Pagėgiai municipality,126,LT,Lithuania,29
+1595,Pakruojis District Municipality,126,LT,Lithuania,30
+1588,Palanga City Municipality,126,LT,Lithuania,31
+1589,Panevėžys City Municipality,126,LT,Lithuania,32
+1558,Panevėžys County,126,LT,Lithuania,PN
+1614,Panevėžys District Municipality,126,LT,Lithuania,33
+1616,Pasvalys District Municipality,126,LT,Lithuania,34
+1553,Plungė District Municipality,126,LT,Lithuania,35
+1578,Prienai District Municipality,126,LT,Lithuania,36
+1568,Radviliškis District Municipality,126,LT,Lithuania,37
+1587,Raseiniai District Municipality,126,LT,Lithuania,38
+1590,Rietavas municipality,126,LT,Lithuania,39
+1615,Rokiškis District Municipality,126,LT,Lithuania,40
+1576,Šakiai District Municipality,126,LT,Lithuania,41
+1577,Šalčininkai District Municipality,126,LT,Lithuania,42
+1609,Šiauliai City Municipality,126,LT,Lithuania,43
+1586,Šiauliai County,126,LT,Lithuania,SA
+1554,Šiauliai District Municipality,126,LT,Lithuania,44
+1613,Šilalė District Municipality,126,LT,Lithuania,45
+1607,Šilutė District Municipality,126,LT,Lithuania,46
+1594,Širvintos District Municipality,126,LT,Lithuania,47
+1617,Skuodas District Municipality,126,LT,Lithuania,48
+1560,Švenčionys District Municipality,126,LT,Lithuania,49
+1573,Tauragė County,126,LT,Lithuania,TA
+1572,Tauragė District Municipality,126,LT,Lithuania,50
+1569,Telšiai County,126,LT,Lithuania,TE
+1608,Telšiai District Municipality,126,LT,Lithuania,51
+1593,Trakai District Municipality,126,LT,Lithuania,52
+1596,Ukmergė District Municipality,126,LT,Lithuania,53
+1621,Utena County,126,LT,Lithuania,UT
+1598,Utena District Municipality,126,LT,Lithuania,54
+1602,Varėna District Municipality,126,LT,Lithuania,55
+1620,Vilkaviškis District Municipality,126,LT,Lithuania,56
+1606,Vilnius City Municipality,126,LT,Lithuania,57
+1601,Vilnius County,126,LT,Lithuania,VL
+1592,Vilnius District Municipality,126,LT,Lithuania,58
+1564,Visaginas Municipality,126,LT,Lithuania,59
+1619,Zarasai District Municipality,126,LT,Lithuania,60
+1518,Canton of Capellen,127,LU,Luxembourg,CA
+1521,Canton of Clervaux,127,LU,Luxembourg,CL
+1513,Canton of Diekirch,127,LU,Luxembourg,DI
+1515,Canton of Echternach,127,LU,Luxembourg,EC
+1517,Canton of Esch-sur-Alzette,127,LU,Luxembourg,ES
+1525,Canton of Grevenmacher,127,LU,Luxembourg,GR
+1527,Canton of Luxembourg,127,LU,Luxembourg,LU
+1522,Canton of Mersch,127,LU,Luxembourg,ME
+1516,Canton of Redange,127,LU,Luxembourg,RD
+1519,Canton of Remich,127,LU,Luxembourg,RM
+1523,Canton of Vianden,127,LU,Luxembourg,VD
+1526,Canton of Wiltz,127,LU,Luxembourg,WI
+1524,Diekirch District,127,LU,Luxembourg,D
+1520,Grevenmacher District,127,LU,Luxembourg,G
+1514,Luxembourg District,127,LU,Luxembourg,L
+2951,Antananarivo Province,130,MG,Madagascar,T
+2950,Antsiranana Province,130,MG,Madagascar,D
+2948,Fianarantsoa Province,130,MG,Madagascar,F
+2953,Mahajanga Province,130,MG,Madagascar,M
+2952,Toamasina Province,130,MG,Madagascar,A
+2949,Toliara Province,130,MG,Madagascar,U
+3096,Balaka District,131,MW,Malawi,BA
+3102,Blantyre District,131,MW,Malawi,BL
+3092,Central Region,131,MW,Malawi,C
+3107,Chikwawa District,131,MW,Malawi,CK
+3109,Chiradzulu District,131,MW,Malawi,CR
+3087,Chitipa district,131,MW,Malawi,CT
+3097,Dedza District,131,MW,Malawi,DE
+3090,Dowa District,131,MW,Malawi,DO
+3091,Karonga District,131,MW,Malawi,KR
+3094,Kasungu District,131,MW,Malawi,KS
+3093,Likoma District,131,MW,Malawi,LK
+3101,Lilongwe District,131,MW,Malawi,LI
+3082,Machinga District,131,MW,Malawi,MH
+3110,Mangochi District,131,MW,Malawi,MG
+3099,Mchinji District,131,MW,Malawi,MC
+3103,Mulanje District,131,MW,Malawi,MU
+3084,Mwanza District,131,MW,Malawi,MW
+3104,Mzimba District,131,MW,Malawi,MZ
+3095,Nkhata Bay District,131,MW,Malawi,NB
+3100,Nkhotakota District,131,MW,Malawi,NK
+3105,Northern Region,131,MW,Malawi,N
+3085,Nsanje District,131,MW,Malawi,NS
+3088,Ntcheu District,131,MW,Malawi,NU
+3111,Ntchisi District,131,MW,Malawi,NI
+3108,Phalombe District,131,MW,Malawi,PH
+3089,Rumphi District,131,MW,Malawi,RU
+3086,Salima District,131,MW,Malawi,SA
+3106,Southern Region,131,MW,Malawi,S
+3098,Thyolo District,131,MW,Malawi,TH
+3083,Zomba District,131,MW,Malawi,ZO
+1950,Johor,132,MY,Malaysia,1
+1947,Kedah,132,MY,Malaysia,2
+1946,Kelantan,132,MY,Malaysia,3
+1949,Kuala Lumpur,132,MY,Malaysia,14
+1935,Labuan,132,MY,Malaysia,15
+1941,Malacca,132,MY,Malaysia,4
+1948,Negeri Sembilan,132,MY,Malaysia,5
+1940,Pahang,132,MY,Malaysia,6
+1939,Penang,132,MY,Malaysia,7
+1943,Perak,132,MY,Malaysia,8
+1938,Perlis,132,MY,Malaysia,9
+1945,Putrajaya,132,MY,Malaysia,16
+1936,Sabah,132,MY,Malaysia,12
+1937,Sarawak,132,MY,Malaysia,13
+1944,Selangor,132,MY,Malaysia,10
+1942,Terengganu,132,MY,Malaysia,11
+2594,Addu Atoll,133,MV,Maldives,1
+2587,Alif Alif Atoll,133,MV,Maldives,2
+2600,Alif Dhaal Atoll,133,MV,Maldives,0
+2604,Central Province,133,MV,Maldives,CE
+2590,Dhaalu Atoll,133,MV,Maldives,17
+2599,Faafu Atoll,133,MV,Maldives,14
+2598,Gaafu Alif Atoll,133,MV,Maldives,27
+2603,Gaafu Dhaalu Atoll,133,MV,Maldives,28
+2595,Gnaviyani Atoll,133,MV,Maldives,29
+2586,Haa Alif Atoll,133,MV,Maldives,7
+2597,Haa Dhaalu Atoll,133,MV,Maldives,23
+2596,Kaafu Atoll,133,MV,Maldives,26
+2601,Laamu Atoll,133,MV,Maldives,5
+2607,Lhaviyani Atoll,133,MV,Maldives,3
+2609,Malé,133,MV,Maldives,MLE
+2608,Meemu Atoll,133,MV,Maldives,12
+2592,Noonu Atoll,133,MV,Maldives,25
+2589,North Central Province,133,MV,Maldives,NC
+2588,North Province,133,MV,Maldives,NO
+2602,Raa Atoll,133,MV,Maldives,13
+2585,Shaviyani Atoll,133,MV,Maldives,24
+2606,South Central Province,133,MV,Maldives,SC
+2605,South Province,133,MV,Maldives,SU
+2591,Thaa Atoll,133,MV,Maldives,8
+2593,Upper South Province,133,MV,Maldives,US
+2584,Vaavu Atoll,133,MV,Maldives,4
+253,Bamako,134,ML,Mali,BKO
+258,Gao Region,134,ML,Mali,7
+252,Kayes Region,134,ML,Mali,1
+257,Kidal Region,134,ML,Mali,8
+250,Koulikoro Region,134,ML,Mali,2
+251,Ménaka Region,134,ML,Mali,9
+255,Mopti Region,134,ML,Mali,5
+249,Ségou Region,134,ML,Mali,4
+254,Sikasso Region,134,ML,Mali,3
+256,Taoudénit Region,134,ML,Mali,10
+248,Tombouctou Region,134,ML,Mali,6
+110,Attard,135,MT,Malta,1
+108,Balzan,135,MT,Malta,2
+107,Birgu,135,MT,Malta,3
+97,Birkirkara,135,MT,Malta,4
+88,Birżebbuġa,135,MT,Malta,5
+138,Cospicua,135,MT,Malta,6
+117,Dingli,135,MT,Malta,7
+129,Fgura,135,MT,Malta,8
+84,Floriana,135,MT,Malta,9
+134,Fontana,135,MT,Malta,10
+130,Għajnsielem,135,MT,Malta,13
+92,Għarb,135,MT,Malta,14
+120,Għargħur,135,MT,Malta,15
+106,Għasri,135,MT,Malta,16
+124,Għaxaq,135,MT,Malta,17
+118,Gudja,135,MT,Malta,11
+113,Gżira,135,MT,Malta,12
+105,Ħamrun,135,MT,Malta,18
+93,Iklin,135,MT,Malta,19
+99,Kalkara,135,MT,Malta,21
+91,Kerċem,135,MT,Malta,22
+82,Kirkop,135,MT,Malta,23
+126,Lija,135,MT,Malta,24
+77,Luqa,135,MT,Malta,25
+128,Marsa,135,MT,Malta,26
+137,Marsaskala,135,MT,Malta,27
+78,Marsaxlokk,135,MT,Malta,28
+89,Mdina,135,MT,Malta,29
+102,Mellieħa,135,MT,Malta,30
+109,Mġarr,135,MT,Malta,31
+140,Mosta,135,MT,Malta,32
+74,Mqabba,135,MT,Malta,33
+96,Msida,135,MT,Malta,34
+131,Mtarfa,135,MT,Malta,35
+132,Munxar,135,MT,Malta,36
+133,Nadur,135,MT,Malta,37
+112,Naxxar,135,MT,Malta,38
+115,Paola,135,MT,Malta,39
+125,Pembroke,135,MT,Malta,40
+127,Pietà,135,MT,Malta,41
+79,Qala,135,MT,Malta,42
+119,Qormi,135,MT,Malta,43
+111,Qrendi,135,MT,Malta,44
+83,Rabat,135,MT,Malta,46
+75,San Ġwann,135,MT,Malta,49
+87,San Lawrenz,135,MT,Malta,50
+116,Sannat,135,MT,Malta,52
+94,Santa Luċija,135,MT,Malta,53
+90,Santa Venera,135,MT,Malta,54
+136,Senglea,135,MT,Malta,20
+98,Siġġiewi,135,MT,Malta,55
+104,Sliema,135,MT,Malta,56
+100,St. Julian's,135,MT,Malta,48
+139,St. Paul's Bay,135,MT,Malta,51
+86,Swieqi,135,MT,Malta,57
+122,Ta' Xbiex,135,MT,Malta,58
+103,Tarxien,135,MT,Malta,59
+95,Valletta,135,MT,Malta,60
+101,Victoria,135,MT,Malta,45
+114,Xagħra,135,MT,Malta,61
+121,Xewkija,135,MT,Malta,62
+81,Xgħajra,135,MT,Malta,63
+123,Żabbar,135,MT,Malta,64
+85,Żebbuġ Gozo,135,MT,Malta,65
+80,Żebbuġ Malta,135,MT,Malta,66
+135,Żejtun,135,MT,Malta,67
+76,Żurrieq,135,MT,Malta,68
+2574,Ralik Chain,137,MH,Marshall Islands,L
+2573,Ratak Chain,137,MH,Marshall Islands,T
+3344,Adrar,139,MR,Mauritania,7
+3349,Assaba,139,MR,Mauritania,3
+3339,Brakna,139,MR,Mauritania,5
+3346,Dakhlet Nouadhibou,139,MR,Mauritania,8
+3341,Gorgol,139,MR,Mauritania,4
+3350,Guidimaka,139,MR,Mauritania,10
+3338,Hodh Ech Chargui,139,MR,Mauritania,1
+3351,Hodh El Gharbi,139,MR,Mauritania,2
+3342,Inchiri,139,MR,Mauritania,12
+3343,Nouakchott-Nord,139,MR,Mauritania,14
+3352,Nouakchott-Ouest,139,MR,Mauritania,13
+3347,Nouakchott-Sud,139,MR,Mauritania,15
+3345,Tagant,139,MR,Mauritania,9
+3340,Tiris Zemmour,139,MR,Mauritania,11
+3348,Trarza,139,MR,Mauritania,6
+3248,Agalega Islands,140,MU,Mauritius,AG
+3259,Black River,140,MU,Mauritius,BL
+3254,Flacq,140,MU,Mauritius,FL
+3264,Grand Port,140,MU,Mauritius,GP
+3253,Moka,140,MU,Mauritius,MO
+3250,Pamplemousses,140,MU,Mauritius,PA
+3263,Plaines Wilhems,140,MU,Mauritius,PW
+3260,Port Louis,140,MU,Mauritius,PL
+3261,Rivière du Rempart,140,MU,Mauritius,RR
+3249,Rodrigues Island,140,MU,Mauritius,RO
+3251,Saint Brandon Islands,140,MU,Mauritius,CC
+3257,Savanne,140,MU,Mauritius,SA
+3456,Aguascalientes,142,MX,Mexico,AGU
+3457,Baja California,142,MX,Mexico,BCN
+3460,Baja California Sur,142,MX,Mexico,BCS
+3475,Campeche,142,MX,Mexico,CAM
+3451,Chiapas,142,MX,Mexico,CHP
+3447,Chihuahua,142,MX,Mexico,CHH
+3473,Ciudad de México,142,MX,Mexico,CMX
+3471,Coahuila de Zaragoza,142,MX,Mexico,COA
+3472,Colima,142,MX,Mexico,COL
+3453,Durango,142,MX,Mexico,DUR
+3450,Estado de México,142,MX,Mexico,MEX
+3469,Guanajuato,142,MX,Mexico,GUA
+3459,Guerrero,142,MX,Mexico,GRO
+3470,Hidalgo,142,MX,Mexico,HID
+4857,Jalisco,142,MX,Mexico,JAL
+3474,Michoacán de Ocampo,142,MX,Mexico,MIC
+3465,Morelos,142,MX,Mexico,MOR
+3477,Nayarit,142,MX,Mexico,NAY
+3452,Nuevo León,142,MX,Mexico,NLE
+3448,Oaxaca,142,MX,Mexico,OAX
+3476,Puebla,142,MX,Mexico,PUE
+3455,Querétaro,142,MX,Mexico,QUE
+3467,Quintana Roo,142,MX,Mexico,ROO
+3461,San Luis Potosí,142,MX,Mexico,SLP
+3449,Sinaloa,142,MX,Mexico,SIN
+3468,Sonora,142,MX,Mexico,SON
+3454,Tabasco,142,MX,Mexico,TAB
+3463,Tamaulipas,142,MX,Mexico,TAM
+3458,Tlaxcala,142,MX,Mexico,TLA
+3464,Veracruz de Ignacio de la Llave,142,MX,Mexico,VER
+3466,Yucatán,142,MX,Mexico,YUC
+3462,Zacatecas,142,MX,Mexico,ZAC
+2580,Chuuk State,143,FM,Micronesia,TRK
+2583,Kosrae State,143,FM,Micronesia,KSA
+2581,Pohnpei State,143,FM,Micronesia,PNI
+2582,Yap State,143,FM,Micronesia,YAP
+4368,Anenii Noi District,144,MD,Moldova,AN
+4393,Bălți Municipality,144,MD,Moldova,BA
+4379,Basarabeasca District,144,MD,Moldova,BS
+4362,Bender Municipality,144,MD,Moldova,BD
+4375,Briceni District,144,MD,Moldova,BR
+4391,Cahul District,144,MD,Moldova,CA
+4366,Călărași District,144,MD,Moldova,CL
+4380,Cantemir District,144,MD,Moldova,CT
+4365,Căușeni District,144,MD,Moldova,CS
+4373,Chișinău Municipality,144,MD,Moldova,CU
+4360,Cimișlia District,144,MD,Moldova,CM
+4390,Criuleni District,144,MD,Moldova,CR
+4384,Dondușeni District,144,MD,Moldova,DO
+4392,Drochia District,144,MD,Moldova,DR
+4383,Dubăsari District,144,MD,Moldova,DU
+4387,Edineț District,144,MD,Moldova,ED
+4381,Fălești District,144,MD,Moldova,FA
+4370,Florești District,144,MD,Moldova,FL
+4385,Gagauzia,144,MD,Moldova,GA
+4367,Glodeni District,144,MD,Moldova,GL
+4382,Hîncești District,144,MD,Moldova,HI
+4369,Ialoveni District,144,MD,Moldova,IA
+4363,Nisporeni District,144,MD,Moldova,NI
+4389,Ocnița District,144,MD,Moldova,OC
+4361,Orhei District,144,MD,Moldova,OR
+4394,Rezina District,144,MD,Moldova,RE
+4376,Rîșcani District,144,MD,Moldova,RI
+4364,Sîngerei District,144,MD,Moldova,SI
+4388,Șoldănești District,144,MD,Moldova,SD
+4374,Soroca District,144,MD,Moldova,SO
+4378,Ștefan Vodă District,144,MD,Moldova,SV
+4377,Strășeni District,144,MD,Moldova,ST
+4372,Taraclia District,144,MD,Moldova,TA
+4371,Telenești District,144,MD,Moldova,TE
+4395,Transnistria autonomous territorial unit,144,MD,Moldova,SN
+4386,Ungheni District,144,MD,Moldova,UN
+4917,La Colle,145,MC,Monaco,CL
+4918,La Condamine,145,MC,Monaco,CO
+4919,Moneghetti,145,MC,Monaco,MG
+1973,Arkhangai Province,146,MN,Mongolia,73
+1969,Bayan-Ölgii Province,146,MN,Mongolia,71
+1976,Bayankhongor Province,146,MN,Mongolia,69
+1961,Bulgan Province,146,MN,Mongolia,67
+1962,Darkhan-Uul Province,146,MN,Mongolia,37
+1963,Dornod Province,146,MN,Mongolia,61
+1981,Dornogovi Province,146,MN,Mongolia,63
+1970,Dundgovi Province,146,MN,Mongolia,59
+1972,Govi-Altai Province,146,MN,Mongolia,65
+1978,Govisümber Province,146,MN,Mongolia,64
+1974,Khentii Province,146,MN,Mongolia,39
+1964,Khovd Province,146,MN,Mongolia,43
+1975,Khövsgöl Province,146,MN,Mongolia,41
+1967,Ömnögovi Province,146,MN,Mongolia,53
+1966,Orkhon Province,146,MN,Mongolia,35
+1965,Övörkhangai Province,146,MN,Mongolia,55
+1980,Selenge Province,146,MN,Mongolia,49
+1977,Sükhbaatar Province,146,MN,Mongolia,51
+1968,Töv Province,146,MN,Mongolia,47
+1971,Uvs Province,146,MN,Mongolia,46
+1979,Zavkhan Province,146,MN,Mongolia,57
+23,Andrijevica Municipality,147,ME,Montenegro,1
+13,Bar Municipality,147,ME,Montenegro,2
+21,Berane Municipality,147,ME,Montenegro,3
+25,Bijelo Polje Municipality,147,ME,Montenegro,4
+30,Budva Municipality,147,ME,Montenegro,5
+14,Danilovgrad Municipality,147,ME,Montenegro,7
+24,Gusinje Municipality,147,ME,Montenegro,22
+31,Kolašin Municipality,147,ME,Montenegro,9
+26,Kotor Municipality,147,ME,Montenegro,10
+22,Mojkovac Municipality,147,ME,Montenegro,11
+17,Nikšić Municipality,147,ME,Montenegro,12
+28,Old Royal Capital Cetinje,147,ME,Montenegro,6
+12,Petnjica Municipality,147,ME,Montenegro,23
+19,Plav Municipality,147,ME,Montenegro,13
+20,Pljevlja Municipality,147,ME,Montenegro,14
+16,Plužine Municipality,147,ME,Montenegro,15
+27,Podgorica Municipality,147,ME,Montenegro,16
+15,Rožaje Municipality,147,ME,Montenegro,17
+18,Šavnik Municipality,147,ME,Montenegro,18
+29,Tivat Municipality,147,ME,Montenegro,19
+33,Ulcinj Municipality,147,ME,Montenegro,20
+32,Žabljak Municipality,147,ME,Montenegro,21
+4928,Agadir-Ida-Ou-Tanane,149,MA,Morocco,AGD
+3320,Al Haouz,149,MA,Morocco,HAO
+3267,Al Hoceïma,149,MA,Morocco,HOC
+3266,Aousserd (EH),149,MA,Morocco,AOU
+3297,Assa-Zag (EH-partial),149,MA,Morocco,ASZ
+3321,Azilal,149,MA,Morocco,AZI
+3272,Béni Mellal,149,MA,Morocco,BEM
+3278,Béni Mellal-Khénifra,149,MA,Morocco,5
+3304,Benslimane,149,MA,Morocco,BES
+3285,Berkane,149,MA,Morocco,BER
+4929,Berrechid,149,MA,Morocco,BRR
+3275,Boujdour (EH),149,MA,Morocco,BOD
+3270,Boulemane,149,MA,Morocco,BOM
+4930,Casablanca,149,MA,Morocco,CAS
+3303,Casablanca-Settat,149,MA,Morocco,6
+3310,Chefchaouen,149,MA,Morocco,CHE
+3274,Chichaoua,149,MA,Morocco,CHI
+3302,Chtouka-Ait Baha,149,MA,Morocco,CHT
+3306,Dakhla-Oued Ed-Dahab (EH),149,MA,Morocco,12
+3290,Drâa-Tafilalet,149,MA,Morocco,8
+4931,Driouch,149,MA,Morocco,DRI
+3291,El Hajeb,149,MA,Morocco,HAJ
+3280,El Jadida,149,MA,Morocco,JDI
+3309,El Kelâa des Sraghna,149,MA,Morocco,KES
+3299,Errachidia,149,MA,Morocco,ERR
+3292,Es-Semara (EH-partial),149,MA,Morocco,ESM
+3316,Essaouira,149,MA,Morocco,ESI
+3300,Fahs-Anjra,149,MA,Morocco,FAH
+4932,Fès,149,MA,Morocco,FES
+3313,Fès-Meknès,149,MA,Morocco,3
+3301,Figuig,149,MA,Morocco,FIG
+4933,Fquih Ben Salah,149,MA,Morocco,FQH
+3265,Guelmim,149,MA,Morocco,GUE
+3305,Guelmim-Oued Noun (EH-partial),149,MA,Morocco,10
+4934,Guercif,149,MA,Morocco,GUF
+3325,Ifrane,149,MA,Morocco,IFR
+3294,Inezgane-Ait Melloul,149,MA,Morocco,INE
+3307,Jerada,149,MA,Morocco,JRA
+3308,Kénitra,149,MA,Morocco,KEN
+3276,Khémisset,149,MA,Morocco,KHE
+3317,Khénifra,149,MA,Morocco,KHN
+3326,Khouribga,149,MA,Morocco,KHO
+3271,L'Oriental,149,MA,Morocco,2
+3293,Laâyoune (EH),149,MA,Morocco,LAA
+3298,Laâyoune-Sakia El Hamra (EH-partial),149,MA,Morocco,11
+3268,Larache,149,MA,Morocco,LAR
+4936,M’diq-Fnideq,149,MA,Morocco,MDF
+4935,Marrakech,149,MA,Morocco,MAR
+3288,Marrakesh-Safi,149,MA,Morocco,7
+3284,Médiouna,149,MA,Morocco,MED
+4937,Meknès,149,MA,Morocco,MEK
+4938,Midelt,149,MA,Morocco,MID
+4939,Mohammadia,149,MA,Morocco,MOH
+3315,Moulay Yacoub,149,MA,Morocco,MOU
+3281,Nador,149,MA,Morocco,NAD
+3287,Nouaceur,149,MA,Morocco,NOU
+3269,Ouarzazate,149,MA,Morocco,OUA
+3319,Oued Ed-Dahab (EH),149,MA,Morocco,OUD
+4941,Ouezzane,149,MA,Morocco,OUZ
+4940,Oujda-Angad,149,MA,Morocco,OUJ
+4942,Rabat,149,MA,Morocco,RAB
+4927,Rabat-Salé-Kénitra,149,MA,Morocco,4
+4943,Rehamna,149,MA,Morocco,REH
+3311,Safi,149,MA,Morocco,SAF
+4944,Salé,149,MA,Morocco,SAL
+3289,Sefrou,149,MA,Morocco,SEF
+3282,Settat,149,MA,Morocco,SET
+4945,Sidi Bennour,149,MA,Morocco,SIB
+4946,Sidi Ifni,149,MA,Morocco,SIF
+3279,Sidi Kacem,149,MA,Morocco,SIK
+4952,Sidi Slimane,149,MA,Morocco,SIL
+4947,Skhirate-Témara,149,MA,Morocco,SKH
+3295,Souss-Massa,149,MA,Morocco,9
+3286,Tan-Tan (EH-partial),149,MA,Morocco,TNT
+4950,Tanger-Assilah,149,MA,Morocco,TNG
+3324,Tanger-Tétouan-Al Hoceïma,149,MA,Morocco,1
+3323,Taounate,149,MA,Morocco,TAO
+3322,Taourirt,149,MA,Morocco,TAI
+4948,Tarfaya (EH-partial),149,MA,Morocco,TAF
+3314,Taroudannt,149,MA,Morocco,TAR
+3312,Tata,149,MA,Morocco,TAT
+3296,Taza,149,MA,Morocco,TAZ
+3318,Tétouan,149,MA,Morocco,TET
+4949,Tinghir,149,MA,Morocco,TIN
+3277,Tiznit,149,MA,Morocco,TIZ
+4951,Youssoufia,149,MA,Morocco,YUS
+3283,Zagora,149,MA,Morocco,ZAG
+3327,Cabo Delgado Province,150,MZ,Mozambique,P
+3329,Gaza Province,150,MZ,Mozambique,G
+3330,Inhambane Province,150,MZ,Mozambique,I
+3337,Manica Province,150,MZ,Mozambique,B
+3335,Maputo,150,MZ,Mozambique,MPM
+3332,Maputo Province,150,MZ,Mozambique,L
+3336,Nampula Province,150,MZ,Mozambique,N
+3333,Niassa Province,150,MZ,Mozambique,A
+3331,Sofala Province,150,MZ,Mozambique,S
+3334,Tete Province,150,MZ,Mozambique,T
+3328,Zambezia Province,150,MZ,Mozambique,Q
+2142,Ayeyarwady Region,151,MM,Myanmar,7
+2141,Bago,151,MM,Myanmar,2
+2137,Chin State,151,MM,Myanmar,14
+2143,Kachin State,151,MM,Myanmar,11
+2144,Kayah State,151,MM,Myanmar,12
+2133,Kayin State,151,MM,Myanmar,13
+2136,Magway Region,151,MM,Myanmar,3
+2134,Mandalay Region,151,MM,Myanmar,4
+2147,Mon State,151,MM,Myanmar,15
+2146,Naypyidaw Union Territory,151,MM,Myanmar,18
+2138,Rakhine State,151,MM,Myanmar,16
+2145,Sagaing Region,151,MM,Myanmar,1
+2139,Shan State,151,MM,Myanmar,17
+2140,Tanintharyi Region,151,MM,Myanmar,5
+2135,Yangon Region,151,MM,Myanmar,6
+43,Erongo Region,152,NA,Namibia,ER
+38,Hardap Region,152,NA,Namibia,HA
+45,Karas Region,152,NA,Namibia,KA
+36,Kavango East Region,152,NA,Namibia,KE
+35,Kavango West Region,152,NA,Namibia,KW
+44,Khomas Region,152,NA,Namibia,KH
+34,Kunene Region,152,NA,Namibia,KU
+40,Ohangwena Region,152,NA,Namibia,OW
+41,Omaheke Region,152,NA,Namibia,OH
+39,Omusati Region,152,NA,Namibia,OS
+37,Oshana Region,152,NA,Namibia,ON
+42,Oshikoto Region,152,NA,Namibia,OT
+46,Otjozondjupa Region,152,NA,Namibia,OD
+47,Zambezi Region,152,NA,Namibia,CA
+4656,Aiwo District,153,NR,Nauru,1
+4658,Anabar District,153,NR,Nauru,2
+4667,Anetan District,153,NR,Nauru,3
+4663,Anibare District,153,NR,Nauru,4
+4660,Baiti District,153,NR,Nauru,5
+4665,Boe District,153,NR,Nauru,6
+4662,Buada District,153,NR,Nauru,7
+4666,Denigomodu District,153,NR,Nauru,8
+4654,Ewa District,153,NR,Nauru,9
+4661,Ijuw District,153,NR,Nauru,10
+4657,Meneng District,153,NR,Nauru,11
+4659,Nibok District,153,NR,Nauru,12
+4655,Uaboe District,153,NR,Nauru,13
+4664,Yaren District,153,NR,Nauru,14
+2073,Bagmati,154,NP,Nepal,P3
+2069,Gandaki,154,NP,Nepal,P4
+2068,Karnali,154,NP,Nepal,P6
+2066,Koshi,154,NP,Nepal,P1
+2067,Lumbini,154,NP,Nepal,P5
+5240,Madhesh,154,NP,Nepal,P2
+5241,Sudurpashchim,154,NP,Nepal,P7
+2624,Bonaire,156,NL,Netherlands,BQ1
+2613,Drenthe,156,NL,Netherlands,DR
+2619,Flevoland,156,NL,Netherlands,FL
+2622,Friesland,156,NL,Netherlands,FR
+2611,Gelderland,156,NL,Netherlands,GE
+2617,Groningen,156,NL,Netherlands,GR
+2615,Limburg,156,NL,Netherlands,LI
+2623,North Brabant,156,NL,Netherlands,NB
+2612,North Holland,156,NL,Netherlands,NH
+2618,Overijssel,156,NL,Netherlands,OV
+2621,Saba,156,NL,Netherlands,BQ2
+2616,Sint Eustatius,156,NL,Netherlands,BQ3
+2614,South Holland,156,NL,Netherlands,ZH
+2610,Utrecht,156,NL,Netherlands,UT
+2620,Zeeland,156,NL,Netherlands,ZE
+5227,Loyalty Islands Province,157,NC,New Caledonia,3
+5226,North Province,157,NC,New Caledonia,2
+5225,South Province,157,NC,New Caledonia,1
+4072,Auckland Region,158,NZ,New Zealand,AUK
+4074,Bay of Plenty Region,158,NZ,New Zealand,BOP
+4066,Canterbury Region,158,NZ,New Zealand,CAN
+4067,Chatham Islands,158,NZ,New Zealand,CIT
+4068,Gisborne District,158,NZ,New Zealand,GIS
+4075,Hawke's Bay Region,158,NZ,New Zealand,HKB
+4060,Manawatu-Wanganui Region,158,NZ,New Zealand,MWT
+4063,Marlborough Region,158,NZ,New Zealand,MBH
+4070,Nelson Region,158,NZ,New Zealand,NSN
+4059,Northland Region,158,NZ,New Zealand,NTL
+4062,Otago Region,158,NZ,New Zealand,OTA
+4071,Southland Region,158,NZ,New Zealand,STL
+4069,Taranaki Region,158,NZ,New Zealand,TKI
+4073,Tasman District,158,NZ,New Zealand,TAS
+4061,Waikato Region,158,NZ,New Zealand,WKO
+4065,Wellington Region,158,NZ,New Zealand,WGN
+4064,West Coast Region,158,NZ,New Zealand,WTC
+946,Boaco,159,NI,Nicaragua,BO
+950,Carazo,159,NI,Nicaragua,CA
+954,Chinandega,159,NI,Nicaragua,CI
+940,Chontales,159,NI,Nicaragua,CO
+945,Estelí,159,NI,Nicaragua,ES
+943,Granada,159,NI,Nicaragua,GR
+955,Jinotega,159,NI,Nicaragua,JI
+944,León,159,NI,Nicaragua,LE
+948,Madriz,159,NI,Nicaragua,MD
+941,Managua,159,NI,Nicaragua,MN
+953,Masaya,159,NI,Nicaragua,MS
+947,Matagalpa,159,NI,Nicaragua,MT
+951,North Caribbean Coast,159,NI,Nicaragua,AN
+4964,Nueva Segovia,159,NI,Nicaragua,NS
+949,Río San Juan,159,NI,Nicaragua,SJ
+942,Rivas,159,NI,Nicaragua,RI
+952,South Caribbean Coast,159,NI,Nicaragua,AS
+71,Agadez Region,160,NE,Niger,1
+72,Diffa Region,160,NE,Niger,2
+68,Dosso Region,160,NE,Niger,3
+70,Maradi Region,160,NE,Niger,4
+73,Tahoua Region,160,NE,Niger,5
+67,Tillabéri Region,160,NE,Niger,6
+69,Zinder Region,160,NE,Niger,7
+303,Abia,161,NG,Nigeria,AB
+293,Abuja Federal Capital Territory,161,NG,Nigeria,FC
+320,Adamawa,161,NG,Nigeria,AD
+304,Akwa Ibom,161,NG,Nigeria,AK
+315,Anambra,161,NG,Nigeria,AN
+312,Bauchi,161,NG,Nigeria,BA
+305,Bayelsa,161,NG,Nigeria,BY
+291,Benue,161,NG,Nigeria,BE
+307,Borno,161,NG,Nigeria,BO
+314,Cross River,161,NG,Nigeria,CR
+316,Delta,161,NG,Nigeria,DE
+311,Ebonyi,161,NG,Nigeria,EB
+318,Edo,161,NG,Nigeria,ED
+309,Ekiti,161,NG,Nigeria,EK
+289,Enugu,161,NG,Nigeria,EN
+310,Gombe,161,NG,Nigeria,GO
+308,Imo,161,NG,Nigeria,IM
+288,Jigawa,161,NG,Nigeria,JI
+294,Kaduna,161,NG,Nigeria,KD
+300,Kano,161,NG,Nigeria,KN
+313,Katsina,161,NG,Nigeria,KT
+290,Kebbi,161,NG,Nigeria,KE
+298,Kogi,161,NG,Nigeria,KO
+295,Kwara,161,NG,Nigeria,KW
+306,Lagos,161,NG,Nigeria,LA
+301,Nasarawa,161,NG,Nigeria,NA
+317,Niger,161,NG,Nigeria,NI
+323,Ogun,161,NG,Nigeria,OG
+321,Ondo,161,NG,Nigeria,ON
+322,Osun,161,NG,Nigeria,OS
+296,Oyo,161,NG,Nigeria,OY
+302,Plateau,161,NG,Nigeria,PL
+4926,Rivers,161,NG,Nigeria,RI
+292,Sokoto,161,NG,Nigeria,SO
+319,Taraba,161,NG,Nigeria,TA
+297,Yobe,161,NG,Nigeria,YO
+299,Zamfara,161,NG,Nigeria,ZA
+3998,Chagang Province,115,KP,North Korea,4
+3999,Kangwon Province,115,KP,North Korea,7
+3995,North Hamgyong Province,115,KP,North Korea,9
+4004,North Hwanghae Province,115,KP,North Korea,6
+4002,North Pyongan Province,115,KP,North Korea,3
+4005,Pyongyang,115,KP,North Korea,1
+4001,Rason,115,KP,North Korea,13
+3996,Ryanggang Province,115,KP,North Korea,10
+4000,South Hamgyong Province,115,KP,North Korea,8
+4003,South Hwanghae Province,115,KP,North Korea,5
+3997,South Pyongan Province,115,KP,North Korea,2
+703,Aerodrom Municipality,129,MK,North Macedonia,1
+656,Aračinovo Municipality,129,MK,North Macedonia,2
+716,Berovo Municipality,129,MK,North Macedonia,3
+679,Bitola Municipality,129,MK,North Macedonia,4
+649,Bogdanci Municipality,129,MK,North Macedonia,5
+721,Bogovinje Municipality,129,MK,North Macedonia,6
+652,Bosilovo Municipality,129,MK,North Macedonia,7
+660,Brvenica Municipality,129,MK,North Macedonia,8
+694,Butel Municipality,129,MK,North Macedonia,9
+704,Čair Municipality,129,MK,North Macedonia,79
+676,Čaška Municipality,129,MK,North Macedonia,80
+702,Centar Municipality,129,MK,North Macedonia,77
+720,Centar Župa Municipality,129,MK,North Macedonia,78
+644,Češinovo-Obleševo Municipality,129,MK,North Macedonia,81
+715,Čučer-Sandevo Municipality,129,MK,North Macedonia,82
+645,Debarca Municipality,129,MK,North Macedonia,22
+695,Delčevo Municipality,129,MK,North Macedonia,23
+687,Demir Hisar Municipality,129,MK,North Macedonia,25
+655,Demir Kapija Municipality,129,MK,North Macedonia,24
+697,Dojran Municipality,129,MK,North Macedonia,26
+675,Dolneni Municipality,129,MK,North Macedonia,27
+657,Drugovo Municipality,129,MK,North Macedonia,28
+707,Gazi Baba Municipality,129,MK,North Macedonia,17
+648,Gevgelija Municipality,129,MK,North Macedonia,18
+722,Gjorče Petrov Municipality,129,MK,North Macedonia,29
+693,Gostivar Municipality,129,MK,North Macedonia,19
+708,Gradsko Municipality,129,MK,North Macedonia,20
+684,Greater Skopje,129,MK,North Macedonia,85
+690,Ilinden Municipality,129,MK,North Macedonia,34
+678,Jegunovce Municipality,129,MK,North Macedonia,35
+674,Karbinci,129,MK,North Macedonia,37
+681,Karpoš Municipality,129,MK,North Macedonia,38
+713,Kavadarci Municipality,129,MK,North Macedonia,36
+688,Kičevo Municipality,129,MK,North Macedonia,40
+686,Kisela Voda Municipality,129,MK,North Macedonia,39
+723,Kočani Municipality,129,MK,North Macedonia,42
+665,Konče Municipality,129,MK,North Macedonia,41
+641,Kratovo Municipality,129,MK,North Macedonia,43
+677,Kriva Palanka Municipality,129,MK,North Macedonia,44
+647,Krivogaštani Municipality,129,MK,North Macedonia,45
+714,Kruševo Municipality,129,MK,North Macedonia,46
+683,Kumanovo Municipality,129,MK,North Macedonia,47
+659,Lipkovo Municipality,129,MK,North Macedonia,48
+705,Lozovo Municipality,129,MK,North Macedonia,49
+701,Makedonska Kamenica Municipality,129,MK,North Macedonia,51
+692,Makedonski Brod Municipality,129,MK,North Macedonia,52
+669,Mavrovo and Rostuša Municipality,129,MK,North Macedonia,50
+653,Mogila Municipality,129,MK,North Macedonia,53
+664,Negotino Municipality,129,MK,North Macedonia,54
+696,Novaci Municipality,129,MK,North Macedonia,55
+718,Novo Selo Municipality,129,MK,North Macedonia,56
+699,Ohrid Municipality,129,MK,North Macedonia,58
+682,Oslomej Municipality,129,MK,North Macedonia,57
+685,Pehčevo Municipality,129,MK,North Macedonia,60
+698,Petrovec Municipality,129,MK,North Macedonia,59
+670,Plasnica Municipality,129,MK,North Macedonia,61
+666,Prilep Municipality,129,MK,North Macedonia,62
+646,Probištip Municipality,129,MK,North Macedonia,63
+709,Radoviš Municipality,129,MK,North Macedonia,64
+717,Rankovce Municipality,129,MK,North Macedonia,65
+712,Resen Municipality,129,MK,North Macedonia,66
+691,Rosoman Municipality,129,MK,North Macedonia,67
+667,Saraj Municipality,129,MK,North Macedonia,68
+719,Sopište Municipality,129,MK,North Macedonia,70
+643,Staro Nagoričane Municipality,129,MK,North Macedonia,71
+661,Štip Municipality,129,MK,North Macedonia,83
+700,Struga Municipality,129,MK,North Macedonia,72
+710,Strumica Municipality,129,MK,North Macedonia,73
+711,Studeničani Municipality,129,MK,North Macedonia,74
+680,Šuto Orizari Municipality,129,MK,North Macedonia,84
+640,Sveti Nikole Municipality,129,MK,North Macedonia,69
+654,Tearce Municipality,129,MK,North Macedonia,75
+663,Tetovo Municipality,129,MK,North Macedonia,76
+671,Valandovo Municipality,129,MK,North Macedonia,10
+658,Vasilevo Municipality,129,MK,North Macedonia,11
+651,Veles Municipality,129,MK,North Macedonia,13
+662,Vevčani Municipality,129,MK,North Macedonia,12
+672,Vinica Municipality,129,MK,North Macedonia,14
+650,Vraneštica Municipality,129,MK,North Macedonia,15
+689,Vrapčište Municipality,129,MK,North Macedonia,16
+642,Zajas Municipality,129,MK,North Macedonia,31
+706,Zelenikovo Municipality,129,MK,North Macedonia,32
+668,Želino Municipality,129,MK,North Macedonia,30
+673,Zrnovci Municipality,129,MK,North Macedonia,33
+1014,Agder,165,NO,Norway,42
+1009,Innlandet,165,NO,Norway,34
+1026,Jan Mayen,165,NO,Norway,22
+1020,Møre og Romsdal,165,NO,Norway,15
+1025,Nordland,165,NO,Norway,18
+1007,Oslo,165,NO,Norway,3
+1021,Rogaland,165,NO,Norway,11
+1013,Svalbard,165,NO,Norway,21
+1015,Troms og Finnmark,165,NO,Norway,54
+1006,Trøndelag,165,NO,Norway,50
+1024,Vestfold og Telemark,165,NO,Norway,38
+1018,Vestland,165,NO,Norway,46
+1011,Viken,165,NO,Norway,30
+3058,Ad Dakhiliyah,166,OM,Oman,DA
+3047,Ad Dhahirah,166,OM,Oman,ZA
+3048,Al Batinah North,166,OM,Oman,BS
+3050,Al Batinah Region,166,OM,Oman,BA
+3049,Al Batinah South,166,OM,Oman,BJ
+3059,Al Buraimi,166,OM,Oman,BU
+3056,Al Wusta,166,OM,Oman,WU
+3053,Ash Sharqiyah North,166,OM,Oman,SS
+3051,Ash Sharqiyah Region,166,OM,Oman,SH
+3054,Ash Sharqiyah South,166,OM,Oman,SJ
+3057,Dhofar,166,OM,Oman,ZU
+3052,Musandam,166,OM,Oman,MU
+3055,Muscat,166,OM,Oman,MA
+3172,Azad Kashmir,167,PK,Pakistan,JK
+3174,Balochistan,167,PK,Pakistan,BA
+3173,Federally Administered Tribal Areas,167,PK,Pakistan,TA
+3170,Gilgit-Baltistan,167,PK,Pakistan,GB
+3169,Islamabad Capital Territory,167,PK,Pakistan,IS
+3171,Khyber Pakhtunkhwa,167,PK,Pakistan,KP
+3176,Punjab,167,PK,Pakistan,PB
+3175,Sindh,167,PK,Pakistan,SD
+4540,Aimeliik,168,PW,Palau,2
+4528,Airai,168,PW,Palau,4
+4538,Angaur,168,PW,Palau,10
+4529,Hatohobei,168,PW,Palau,50
+4539,Kayangel,168,PW,Palau,100
+4532,Koror,168,PW,Palau,150
+4530,Melekeok,168,PW,Palau,212
+4537,Ngaraard,168,PW,Palau,214
+4533,Ngarchelong,168,PW,Palau,218
+4527,Ngardmau,168,PW,Palau,222
+4531,Ngatpang,168,PW,Palau,224
+4536,Ngchesar,168,PW,Palau,226
+4541,Ngeremlengui,168,PW,Palau,227
+4534,Ngiwal,168,PW,Palau,228
+4526,Peleliu,168,PW,Palau,350
+4535,Sonsorol,168,PW,Palau,370
+5118,Bethlehem,169,PS,Palestinian Territory Occupied,BTH
+5119,Deir El Balah,169,PS,Palestinian Territory Occupied,DEB
+5120,Gaza,169,PS,Palestinian Territory Occupied,GZA
+5121,Hebron,169,PS,Palestinian Territory Occupied,HBN
+5122,Jenin,169,PS,Palestinian Territory Occupied,JEN
+5123,Jericho and Al Aghwar,169,PS,Palestinian Territory Occupied,JRH
+5124,Jerusalem,169,PS,Palestinian Territory Occupied,JEM
+5125,Khan Yunis,169,PS,Palestinian Territory Occupied,KYS
+5126,Nablus,169,PS,Palestinian Territory Occupied,NBS
+5127,North Gaza,169,PS,Palestinian Territory Occupied,NGZ
+5128,Qalqilya,169,PS,Palestinian Territory Occupied,QQA
+5129,Rafah,169,PS,Palestinian Territory Occupied,RFH
+5130,Ramallah,169,PS,Palestinian Territory Occupied,RBH
+5131,Salfit,169,PS,Palestinian Territory Occupied,SLT
+5132,Tubas,169,PS,Palestinian Territory Occupied,TBS
+5133,Tulkarm,169,PS,Palestinian Territory Occupied,TKM
+1393,Bocas del Toro Province,170,PA,Panama,1
+1397,Chiriquí Province,170,PA,Panama,4
+1387,Coclé Province,170,PA,Panama,2
+1386,Colón Province,170,PA,Panama,3
+1385,Darién Province,170,PA,Panama,5
+1396,Emberá-Wounaan Comarca,170,PA,Panama,EM
+1388,Guna Yala,170,PA,Panama,KY
+1389,Herrera Province,170,PA,Panama,6
+1390,Los Santos Province,170,PA,Panama,7
+1391,Ngöbe-Buglé Comarca,170,PA,Panama,NB
+1394,Panamá Oeste Province,170,PA,Panama,10
+1395,Panamá Province,170,PA,Panama,8
+1392,Veraguas Province,170,PA,Panama,9
+4831,Bougainville,171,PG,Papua New Guinea,NSB
+4847,Central Province,171,PG,Papua New Guinea,CPM
+4846,Chimbu Province,171,PG,Papua New Guinea,CPK
+4834,East New Britain,171,PG,Papua New Guinea,EBR
+5228,East Sepik,171,PG,Papua New Guinea,ESW
+4845,Eastern Highlands Province,171,PG,Papua New Guinea,EHG
+4848,Enga Province,171,PG,Papua New Guinea,EPW
+4839,Gulf,171,PG,Papua New Guinea,GPK
+4833,Hela,171,PG,Papua New Guinea,HLA
+4832,Jiwaka Province,171,PG,Papua New Guinea,JWK
+4843,Madang Province,171,PG,Papua New Guinea,MPM
+4842,Manus Province,171,PG,Papua New Guinea,MRL
+4849,Milne Bay Province,171,PG,Papua New Guinea,MBA
+4835,Morobe Province,171,PG,Papua New Guinea,MPL
+4841,New Ireland Province,171,PG,Papua New Guinea,NIK
+4838,Oro Province,171,PG,Papua New Guinea,NPP
+4837,Port Moresby,171,PG,Papua New Guinea,NCD
+4836,Sandaun Province,171,PG,Papua New Guinea,SAN
+4844,Southern Highlands Province,171,PG,Papua New Guinea,SHM
+4830,West New Britain Province,171,PG,Papua New Guinea,WBK
+4840,Western Highlands Province,171,PG,Papua New Guinea,WHM
+4850,Western Province,171,PG,Papua New Guinea,WPD
+2785,Alto Paraguay Department,172,PY,Paraguay,16
+2784,Alto Paraná Department,172,PY,Paraguay,10
+2782,Amambay Department,172,PY,Paraguay,13
+5221,Asuncion,172,PY,Paraguay,ASU
+2780,Boquerón Department,172,PY,Paraguay,19
+2773,Caaguazú,172,PY,Paraguay,5
+2775,Caazapá,172,PY,Paraguay,6
+2771,Canindeyú,172,PY,Paraguay,14
+2777,Central Department,172,PY,Paraguay,11
+2779,Concepción Department,172,PY,Paraguay,1
+2783,Cordillera Department,172,PY,Paraguay,3
+2772,Guairá Department,172,PY,Paraguay,4
+2778,Itapúa,172,PY,Paraguay,7
+2786,Misiones Department,172,PY,Paraguay,8
+2781,Ñeembucú Department,172,PY,Paraguay,12
+2774,Paraguarí Department,172,PY,Paraguay,9
+2770,Presidente Hayes Department,172,PY,Paraguay,15
+2776,San Pedro Department,172,PY,Paraguay,2
+3685,Amazonas,173,PE,Peru,AMA
+3680,Áncash,173,PE,Peru,ANC
+3699,Apurímac,173,PE,Peru,APU
+3681,Arequipa,173,PE,Peru,ARE
+3692,Ayacucho,173,PE,Peru,AYA
+3688,Cajamarca,173,PE,Peru,CAJ
+3701,Callao,173,PE,Peru,CAL
+3691,Cusco,173,PE,Peru,CUS
+3679,Huancavelica,173,PE,Peru,HUV
+3687,Huanuco,173,PE,Peru,HUC
+3700,Ica,173,PE,Peru,ICA
+3693,Junín,173,PE,Peru,JUN
+3683,La Libertad,173,PE,Peru,LAL
+3702,Lambayeque,173,PE,Peru,LAM
+3695,Lima,173,PE,Peru,LIM
+4922,Loreto,173,PE,Peru,LOR
+3678,Madre de Dios,173,PE,Peru,MDD
+3698,Moquegua,173,PE,Peru,MOQ
+3686,Pasco,173,PE,Peru,PAS
+3697,Piura,173,PE,Peru,PIU
+3682,Puno,173,PE,Peru,PUN
+3694,San Martín,173,PE,Peru,SAM
+3696,Tacna,173,PE,Peru,TAC
+3689,Tumbes,173,PE,Peru,TUM
+3684,Ucayali,173,PE,Peru,UCA
+1324,Abra,174,PH,Philippines,ABR
+1323,Agusan del Norte,174,PH,Philippines,AGN
+1326,Agusan del Sur,174,PH,Philippines,AGS
+1331,Aklan,174,PH,Philippines,AKL
+1337,Albay,174,PH,Philippines,ALB
+1336,Antique,174,PH,Philippines,ANT
+1334,Apayao,174,PH,Philippines,APA
+1341,Aurora,174,PH,Philippines,AUR
+1316,Autonomous Region in Muslim Mindanao,174,PH,Philippines,14
+1346,Basilan,174,PH,Philippines,BAS
+1344,Bataan,174,PH,Philippines,BAN
+1352,Batanes,174,PH,Philippines,BTN
+1359,Batangas,174,PH,Philippines,BTG
+1363,Benguet,174,PH,Philippines,BEN
+1304,Bicol,174,PH,Philippines,5
+1274,Biliran,174,PH,Philippines,BIL
+1272,Bohol,174,PH,Philippines,BOH
+1270,Bukidnon,174,PH,Philippines,BUK
+1278,Bulacan,174,PH,Philippines,BUL
+1279,Cagayan,174,PH,Philippines,CAG
+1342,Cagayan Valley,174,PH,Philippines,2
+1294,Calabarzon,174,PH,Philippines,40
+1283,Camarines Norte,174,PH,Philippines,CAN
+1287,Camarines Sur,174,PH,Philippines,CAS
+1285,Camiguin,174,PH,Philippines,CAM
+1292,Capiz,174,PH,Philippines,CAP
+1314,Caraga,174,PH,Philippines,13
+1301,Catanduanes,174,PH,Philippines,CAT
+1307,Cavite,174,PH,Philippines,CAV
+1306,Cebu,174,PH,Philippines,CEB
+1345,Central Luzon,174,PH,Philippines,3
+1308,Central Visayas,174,PH,Philippines,7
+1311,Compostela Valley,174,PH,Philippines,COM
+1335,Cordillera Administrative,174,PH,Philippines,15
+1320,Cotabato,174,PH,Philippines,NCO
+1340,Davao,174,PH,Philippines,11
+1319,Davao del Norte,174,PH,Philippines,DAV
+1318,Davao del Sur,174,PH,Philippines,DAS
+1309,Davao Occidental,174,PH,Philippines,DVO
+1289,Davao Oriental,174,PH,Philippines,DAO
+1291,Dinagat Islands,174,PH,Philippines,DIN
+1290,Eastern Samar,174,PH,Philippines,EAS
+1322,Eastern Visayas,174,PH,Philippines,8
+1303,Guimaras,174,PH,Philippines,GUI
+1300,Ifugao,174,PH,Philippines,IFU
+1355,Ilocos,174,PH,Philippines,1
+1298,Ilocos Norte,174,PH,Philippines,ILN
+1321,Ilocos Sur,174,PH,Philippines,ILS
+1315,Iloilo,174,PH,Philippines,ILI
+1313,Isabela,174,PH,Philippines,ISA
+1312,Kalinga,174,PH,Philippines,KAL
+1317,La Union,174,PH,Philippines,LUN
+1328,Laguna,174,PH,Philippines,LAG
+1327,Lanao del Norte,174,PH,Philippines,LAN
+1333,Lanao del Sur,174,PH,Philippines,LAS
+1332,Leyte,174,PH,Philippines,LEY
+1330,Maguindanao,174,PH,Philippines,MAG
+1329,Marinduque,174,PH,Philippines,MAD
+1338,Masbate,174,PH,Philippines,MAS
+1347,Metro Manila,174,PH,Philippines,NCR
+1299,Mimaropa,174,PH,Philippines,41
+1343,Misamis Occidental,174,PH,Philippines,MSC
+1348,Misamis Oriental,174,PH,Philippines,MSR
+1353,Mountain Province,174,PH,Philippines,MOU
+1351,Negros Occidental,174,PH,Philippines,NEC
+1350,Negros Oriental,174,PH,Philippines,NER
+1339,Northern Mindanao,174,PH,Philippines,10
+1349,Northern Samar,174,PH,Philippines,NSA
+1360,Nueva Ecija,174,PH,Philippines,NUE
+1358,Nueva Vizcaya,174,PH,Philippines,NUV
+1356,Occidental Mindoro,174,PH,Philippines,MDC
+1354,Oriental Mindoro,174,PH,Philippines,MDR
+1361,Palawan,174,PH,Philippines,PLW
+1365,Pampanga,174,PH,Philippines,PAM
+1364,Pangasinan,174,PH,Philippines,PAN
+1275,Quezon,174,PH,Philippines,QUE
+1273,Quirino,174,PH,Philippines,QUI
+1271,Rizal,174,PH,Philippines,RIZ
+1269,Romblon,174,PH,Philippines,ROM
+1277,Sarangani,174,PH,Philippines,SAR
+1276,Siquijor,174,PH,Philippines,SIG
+1310,Soccsksargen,174,PH,Philippines,12
+1281,Sorsogon,174,PH,Philippines,SOR
+1280,South Cotabato,174,PH,Philippines,SCO
+1284,Southern Leyte,174,PH,Philippines,SLE
+1282,Sultan Kudarat,174,PH,Philippines,SUK
+1288,Sulu,174,PH,Philippines,SLU
+1286,Surigao del Norte,174,PH,Philippines,SUN
+1296,Surigao del Sur,174,PH,Philippines,SUR
+1295,Tarlac,174,PH,Philippines,TAR
+1293,Tawi-Tawi,174,PH,Philippines,TAW
+5115,Western Samar,174,PH,Philippines,WSA
+1305,Western Visayas,174,PH,Philippines,6
+1297,Zambales,174,PH,Philippines,ZMB
+1302,Zamboanga del Norte,174,PH,Philippines,ZAN
+1357,Zamboanga del Sur,174,PH,Philippines,ZAS
+1325,Zamboanga Peninsula,174,PH,Philippines,9
+1362,Zamboanga Sibugay,174,PH,Philippines,ZSI
+1634,Greater Poland,176,PL,Poland,30
+1630,Holy Cross,176,PL,Poland,26
+1625,Kuyavia-Pomerania,176,PL,Poland,4
+1635,Lesser Poland,176,PL,Poland,12
+1629,Lower Silesia,176,PL,Poland,2
+1638,Lublin,176,PL,Poland,6
+1631,Lubusz,176,PL,Poland,8
+1636,Łódź,176,PL,Poland,10
+1637,Mazovia,176,PL,Poland,14
+1632,Podlaskie,176,PL,Poland,20
+1624,Pomerania,176,PL,Poland,22
+1623,Silesia,176,PL,Poland,24
+1626,Subcarpathia,176,PL,Poland,18
+1622,Upper Silesia,176,PL,Poland,16
+1628,Warmia-Masuria,176,PL,Poland,28
+1633,West Pomerania,176,PL,Poland,32
+2233,Açores,177,PT,Portugal,20
+2235,Aveiro,177,PT,Portugal,1
+2230,Beja,177,PT,Portugal,2
+2244,Braga,177,PT,Portugal,3
+2229,Bragança,177,PT,Portugal,4
+2241,Castelo Branco,177,PT,Portugal,5
+2246,Coimbra,177,PT,Portugal,6
+2236,Évora,177,PT,Portugal,7
+2239,Faro,177,PT,Portugal,8
+4859,Guarda,177,PT,Portugal,9
+2240,Leiria,177,PT,Portugal,10
+2228,Lisbon,177,PT,Portugal,11
+2231,Madeira,177,PT,Portugal,30
+2232,Portalegre,177,PT,Portugal,12
+2243,Porto,177,PT,Portugal,13
+2238,Santarém,177,PT,Portugal,14
+2242,Setúbal,177,PT,Portugal,15
+2245,Viana do Castelo,177,PT,Portugal,16
+2234,Vila Real,177,PT,Portugal,17
+2237,Viseu,177,PT,Portugal,18
+5134,Adjuntas,178,PR,Puerto Rico,1
+5135,Aguada,178,PR,Puerto Rico,3
+5136,Aguadilla,178,PR,Puerto Rico,5
+5137,Aguas Buenas,178,PR,Puerto Rico,7
+5138,Aibonito,178,PR,Puerto Rico,9
+5139,Añasco,178,PR,Puerto Rico,11
+5140,Arecibo,178,PR,Puerto Rico,13
+5081,Arecibo,178,PR,Puerto Rico,AR
+5141,Arroyo,178,PR,Puerto Rico,15
+5142,Barceloneta,178,PR,Puerto Rico,17
+5143,Barranquitas,178,PR,Puerto Rico,19
+5076,Bayamon,178,PR,Puerto Rico,BY
+5144,Bayamón,178,PR,Puerto Rico,21
+5145,Cabo Rojo,178,PR,Puerto Rico,23
+5079,Caguas,178,PR,Puerto Rico,CG
+5146,Caguas,178,PR,Puerto Rico,25
+5147,Camuy,178,PR,Puerto Rico,27
+5148,Canóvanas,178,PR,Puerto Rico,29
+5077,Carolina,178,PR,Puerto Rico,CL
+5149,Carolina,178,PR,Puerto Rico,31
+5150,Cataño,178,PR,Puerto Rico,33
+5151,Cayey,178,PR,Puerto Rico,35
+5152,Ceiba,178,PR,Puerto Rico,37
+5153,Ciales,178,PR,Puerto Rico,39
+5154,Cidra,178,PR,Puerto Rico,41
+5155,Coamo,178,PR,Puerto Rico,43
+5156,Comerío,178,PR,Puerto Rico,45
+5157,Corozal,178,PR,Puerto Rico,47
+5158,Culebra,178,PR,Puerto Rico,49
+5159,Dorado,178,PR,Puerto Rico,51
+5160,Fajardo,178,PR,Puerto Rico,53
+5161,Florida,178,PR,Puerto Rico,54
+5162,Guánica,178,PR,Puerto Rico,55
+5163,Guayama,178,PR,Puerto Rico,57
+5164,Guayanilla,178,PR,Puerto Rico,59
+5080,Guaynabo,178,PR,Puerto Rico,GN
+5165,Guaynabo,178,PR,Puerto Rico,61
+5166,Gurabo,178,PR,Puerto Rico,63
+5167,Hatillo,178,PR,Puerto Rico,65
+5168,Hormigueros,178,PR,Puerto Rico,67
+5169,Humacao,178,PR,Puerto Rico,69
+5170,Isabela,178,PR,Puerto Rico,71
+5171,Jayuya,178,PR,Puerto Rico,73
+5172,Juana Díaz,178,PR,Puerto Rico,75
+5173,Juncos,178,PR,Puerto Rico,77
+5174,Lajas,178,PR,Puerto Rico,79
+5175,Lares,178,PR,Puerto Rico,81
+5176,Las Marías,178,PR,Puerto Rico,83
+5177,Las Piedras,178,PR,Puerto Rico,85
+5178,Loíza,178,PR,Puerto Rico,87
+5179,Luquillo,178,PR,Puerto Rico,89
+5180,Manatí,178,PR,Puerto Rico,91
+5181,Maricao,178,PR,Puerto Rico,93
+5182,Maunabo,178,PR,Puerto Rico,95
+5083,Mayagüez,178,PR,Puerto Rico,MG
+5183,Mayagüez,178,PR,Puerto Rico,97
+5184,Moca,178,PR,Puerto Rico,99
+5185,Morovis,178,PR,Puerto Rico,101
+5186,Naguabo,178,PR,Puerto Rico,103
+5187,Naranjito,178,PR,Puerto Rico,105
+5188,Orocovis,178,PR,Puerto Rico,107
+5189,Patillas,178,PR,Puerto Rico,109
+5190,Peñuelas,178,PR,Puerto Rico,111
+5078,Ponce,178,PR,Puerto Rico,PO
+5191,Ponce,178,PR,Puerto Rico,113
+5192,Quebradillas,178,PR,Puerto Rico,115
+5193,Rincón,178,PR,Puerto Rico,117
+5194,Río Grande,178,PR,Puerto Rico,119
+5195,Sabana Grande,178,PR,Puerto Rico,121
+5196,Salinas,178,PR,Puerto Rico,123
+5197,San Germán,178,PR,Puerto Rico,125
+5198,San Juan,178,PR,Puerto Rico,127
+5075,San Juan,178,PR,Puerto Rico,SJ
+5199,San Lorenzo,178,PR,Puerto Rico,129
+5200,San Sebastián,178,PR,Puerto Rico,131
+5201,Santa Isabel,178,PR,Puerto Rico,133
+5202,Toa Alta,178,PR,Puerto Rico,135
+5082,Toa Baja,178,PR,Puerto Rico,TB
+5203,Toa Baja,178,PR,Puerto Rico,137
+5084,Trujillo Alto,178,PR,Puerto Rico,TA
+5204,Trujillo Alto,178,PR,Puerto Rico,139
+5205,Utuado,178,PR,Puerto Rico,141
+5206,Vega Alta,178,PR,Puerto Rico,143
+5207,Vega Baja,178,PR,Puerto Rico,145
+5208,Vieques,178,PR,Puerto Rico,147
+5209,Villalba,178,PR,Puerto Rico,149
+5210,Yabucoa,178,PR,Puerto Rico,151
+5211,Yauco,178,PR,Puerto Rico,153
+3182,Al Daayen,179,QA,Qatar,ZA
+3183,Al Khor,179,QA,Qatar,KH
+3177,Al Rayyan Municipality,179,QA,Qatar,RA
+3179,Al Wakrah,179,QA,Qatar,WA
+3178,Al-Shahaniya,179,QA,Qatar,SH
+3181,Doha,179,QA,Qatar,DA
+3180,Madinat ash Shamal,179,QA,Qatar,MS
+3184,Umm Salal Municipality,179,QA,Qatar,US
+4724,Alba,181,RO,Romania,AB
+4739,Arad County,181,RO,Romania,AR
+4722,Arges,181,RO,Romania,AG
+4744,Bacău County,181,RO,Romania,BC
+4723,Bihor County,181,RO,Romania,BH
+4733,Bistrița-Năsăud County,181,RO,Romania,BN
+4740,Botoșani County,181,RO,Romania,BT
+4736,Braila,181,RO,Romania,BR
+4759,Brașov County,181,RO,Romania,BV
+4730,Bucharest,181,RO,Romania,B
+4756,Buzău County,181,RO,Romania,BZ
+4732,Călărași County,181,RO,Romania,CL
+4753,Caraș-Severin County,181,RO,Romania,CS
+4734,Cluj County,181,RO,Romania,CJ
+4737,Constanța County,181,RO,Romania,CT
+4754,Covasna County,181,RO,Romania,CV
+4745,Dâmbovița County,181,RO,Romania,DB
+4742,Dolj County,181,RO,Romania,DJ
+4747,Galați County,181,RO,Romania,GL
+4726,Giurgiu County,181,RO,Romania,GR
+4750,Gorj County,181,RO,Romania,GJ
+4749,Harghita County,181,RO,Romania,HR
+4721,Hunedoara County,181,RO,Romania,HD
+4743,Ialomița County,181,RO,Romania,IL
+4735,Iași County,181,RO,Romania,IS
+4725,Ilfov County,181,RO,Romania,IF
+4760,Maramureș County,181,RO,Romania,MM
+4751,Mehedinți County,181,RO,Romania,MH
+4915,Mureș County,181,RO,Romania,MS
+4731,Neamț County,181,RO,Romania,NT
+4738,Olt County,181,RO,Romania,OT
+4729,Prahova County,181,RO,Romania,PH
+4741,Sălaj County,181,RO,Romania,SJ
+4746,Satu Mare County,181,RO,Romania,SM
+4755,Sibiu County,181,RO,Romania,SB
+4720,Suceava County,181,RO,Romania,SV
+4728,Teleorman County,181,RO,Romania,TR
+4748,Timiș County,181,RO,Romania,TM
+4727,Tulcea County,181,RO,Romania,TL
+4757,Vâlcea County,181,RO,Romania,VL
+4752,Vaslui County,181,RO,Romania,VS
+4758,Vrancea County,181,RO,Romania,VN
+1911,Altai Krai,182,RU,Russia,ALT
+1876,Altai Republic,182,RU,Russia,AL
+1858,Amur Oblast,182,RU,Russia,AMU
+1849,Arkhangelsk,182,RU,Russia,ARK
+1866,Astrakhan Oblast,182,RU,Russia,AST
+1903,Belgorod Oblast,182,RU,Russia,BEL
+1867,Bryansk Oblast,182,RU,Russia,BRY
+1893,Chechen Republic,182,RU,Russia,CE
+1845,Chelyabinsk Oblast,182,RU,Russia,CHE
+1859,Chukotka Autonomous Okrug,182,RU,Russia,CHU
+1914,Chuvash Republic,182,RU,Russia,CU
+1880,Irkutsk,182,RU,Russia,IRK
+1864,Ivanovo Oblast,182,RU,Russia,IVA
+1835,Jewish Autonomous Oblast,182,RU,Russia,YEV
+1892,Kabardino-Balkar Republic,182,RU,Russia,KB
+1902,Kaliningrad,182,RU,Russia,KGD
+1844,Kaluga Oblast,182,RU,Russia,KLU
+1865,Kamchatka Krai,182,RU,Russia,KAM
+1869,Karachay-Cherkess Republic,182,RU,Russia,KC
+1897,Kemerovo Oblast,182,RU,Russia,KEM
+1873,Khabarovsk Krai,182,RU,Russia,KHA
+1838,Khanty-Mansi Autonomous Okrug,182,RU,Russia,KHM
+1890,Kirov Oblast,182,RU,Russia,KIR
+1899,Komi Republic,182,RU,Russia,KO
+1910,Kostroma Oblast,182,RU,Russia,KOS
+1891,Krasnodar Krai,182,RU,Russia,KDA
+1840,Krasnoyarsk Krai,182,RU,Russia,KYA
+1915,Kurgan Oblast,182,RU,Russia,KGN
+1855,Kursk Oblast,182,RU,Russia,KRS
+1896,Leningrad Oblast,182,RU,Russia,LEN
+1889,Lipetsk Oblast,182,RU,Russia,LIP
+1839,Magadan Oblast,182,RU,Russia,MAG
+1870,Mari El Republic,182,RU,Russia,ME
+1901,Moscow,182,RU,Russia,MOW
+1882,Moscow Oblast,182,RU,Russia,MOS
+1843,Murmansk Oblast,182,RU,Russia,MUR
+1836,Nenets Autonomous Okrug,182,RU,Russia,NEN
+1857,Nizhny Novgorod Oblast,182,RU,Russia,NIZ
+1834,Novgorod Oblast,182,RU,Russia,NGR
+1888,Novosibirsk,182,RU,Russia,NVS
+1846,Omsk Oblast,182,RU,Russia,OMS
+1886,Orenburg Oblast,182,RU,Russia,ORE
+1908,Oryol Oblast,182,RU,Russia,ORL
+1909,Penza Oblast,182,RU,Russia,PNZ
+1871,Perm Krai,182,RU,Russia,PER
+1833,Primorsky Krai,182,RU,Russia,PRI
+1863,Pskov Oblast,182,RU,Russia,PSK
+1852,Republic of Adygea,182,RU,Russia,AD
+1854,Republic of Bashkortostan,182,RU,Russia,BA
+1842,Republic of Buryatia,182,RU,Russia,BU
+1850,Republic of Dagestan,182,RU,Russia,DA
+1884,Republic of Ingushetia,182,RU,Russia,IN
+1883,Republic of Kalmykia,182,RU,Russia,KL
+1841,Republic of Karelia,182,RU,Russia,KR
+1877,Republic of Khakassia,182,RU,Russia,KK
+1898,Republic of Mordovia,182,RU,Russia,MO
+1853,Republic of North Ossetia-Alania,182,RU,Russia,SE
+1861,Republic of Tatarstan,182,RU,Russia,TA
+1837,Rostov Oblast,182,RU,Russia,ROS
+1905,Ryazan Oblast,182,RU,Russia,RYA
+1879,Saint Petersburg,182,RU,Russia,SPE
+1848,Sakha Republic,182,RU,Russia,SA
+1875,Sakhalin,182,RU,Russia,SAK
+1862,Samara Oblast,182,RU,Russia,SAM
+1887,Saratov Oblast,182,RU,Russia,SAR
+1885,Smolensk Oblast,182,RU,Russia,SMO
+1868,Stavropol Krai,182,RU,Russia,STA
+1894,Sverdlovsk,182,RU,Russia,SVE
+1878,Tambov Oblast,182,RU,Russia,TAM
+1872,Tomsk Oblast,182,RU,Russia,TOM
+1895,Tula Oblast,182,RU,Russia,TUL
+1900,Tuva Republic,182,RU,Russia,TY
+1860,Tver Oblast,182,RU,Russia,TVE
+1907,Tyumen Oblast,182,RU,Russia,TYU
+1913,Udmurt Republic,182,RU,Russia,UD
+1856,Ulyanovsk Oblast,182,RU,Russia,ULY
+1881,Vladimir Oblast,182,RU,Russia,VLA
+4916,Volgograd Oblast,182,RU,Russia,VGG
+1874,Vologda Oblast,182,RU,Russia,VLG
+1906,Voronezh Oblast,182,RU,Russia,VOR
+1847,Yamalo-Nenets Autonomous Okrug,182,RU,Russia,YAN
+1851,Yaroslavl Oblast,182,RU,Russia,YAR
+1904,Zabaykalsky Krai,182,RU,Russia,ZAB
+261,Eastern Province,183,RW,Rwanda,2
+262,Kigali district,183,RW,Rwanda,1
+263,Northern Province,183,RW,Rwanda,3
+259,Southern Province,183,RW,Rwanda,5
+260,Western Province,183,RW,Rwanda,4
+3833,Christ Church Nichola Town Parish,185,KN,Saint Kitts and Nevis,1
+3832,Nevis,185,KN,Saint Kitts and Nevis,N
+3836,Saint Anne Sandy Point Parish,185,KN,Saint Kitts and Nevis,2
+3837,Saint George Gingerland Parish,185,KN,Saint Kitts and Nevis,4
+3835,Saint James Windward Parish,185,KN,Saint Kitts and Nevis,5
+3845,Saint John Capisterre Parish,185,KN,Saint Kitts and Nevis,6
+3840,Saint John Figtree Parish,185,KN,Saint Kitts and Nevis,7
+3841,Saint Kitts,185,KN,Saint Kitts and Nevis,K
+3844,Saint Mary Cayon Parish,185,KN,Saint Kitts and Nevis,8
+3834,Saint Paul Capisterre Parish,185,KN,Saint Kitts and Nevis,9
+3838,Saint Paul Charlestown Parish,185,KN,Saint Kitts and Nevis,10
+3831,Saint Peter Basseterre Parish,185,KN,Saint Kitts and Nevis,11
+3839,Saint Thomas Lowland Parish,185,KN,Saint Kitts and Nevis,12
+3842,Saint Thomas Middle Island Parish,185,KN,Saint Kitts and Nevis,13
+3843,Trinity Palmetto Point Parish,185,KN,Saint Kitts and Nevis,15
+3757,Anse la Raye Quarter,186,LC,Saint Lucia,1
+3761,Canaries,186,LC,Saint Lucia,12
+3758,Castries Quarter,186,LC,Saint Lucia,2
+3760,Choiseul Quarter,186,LC,Saint Lucia,3
+3767,Dauphin Quarter,186,LC,Saint Lucia,4
+3756,Dennery Quarter,186,LC,Saint Lucia,5
+3766,Gros Islet Quarter,186,LC,Saint Lucia,6
+3759,Laborie Quarter,186,LC,Saint Lucia,7
+3762,Micoud Quarter,186,LC,Saint Lucia,8
+3765,Praslin Quarter,186,LC,Saint Lucia,9
+3764,Soufrière Quarter,186,LC,Saint Lucia,10
+3763,Vieux Fort Quarter,186,LC,Saint Lucia,11
+3389,Charlotte Parish,188,VC,Saint Vincent and the Grenadines,1
+3388,Grenadines Parish,188,VC,Saint Vincent and the Grenadines,6
+3386,Saint Andrew Parish,188,VC,Saint Vincent and the Grenadines,2
+3387,Saint David Parish,188,VC,Saint Vincent and the Grenadines,3
+3384,Saint George Parish,188,VC,Saint Vincent and the Grenadines,4
+3385,Saint Patrick Parish,188,VC,Saint Vincent and the Grenadines,5
+4763,A'ana,191,WS,Samoa,AA
+4761,Aiga-i-le-Tai,191,WS,Samoa,AL
+4765,Atua,191,WS,Samoa,AT
+4764,Fa'asaleleaga,191,WS,Samoa,FA
+4769,Gaga'emauga,191,WS,Samoa,GE
+4771,Gaga'ifomauga,191,WS,Samoa,GI
+4767,Palauli,191,WS,Samoa,PA
+4762,Satupa'itea,191,WS,Samoa,SA
+4770,Tuamasaga,191,WS,Samoa,TU
+4768,Va'a-o-Fonoti,191,WS,Samoa,VF
+4766,Vaisigano,191,WS,Samoa,VS
+59,Acquaviva,192,SM,San Marino,1
+61,Borgo Maggiore,192,SM,San Marino,6
+60,Chiesanuova,192,SM,San Marino,2
+64,Domagnano,192,SM,San Marino,3
+62,Faetano,192,SM,San Marino,4
+66,Fiorentino,192,SM,San Marino,5
+63,Montegiardino,192,SM,San Marino,8
+58,San Marino,192,SM,San Marino,7
+65,Serravalle,192,SM,San Marino,9
+270,Príncipe Province,193,ST,Sao Tome and Principe,P
+271,São Tomé Province,193,ST,Sao Tome and Principe,S
+2853,'Asir,194,SA,Saudi Arabia,14
+2859,Al Bahah,194,SA,Saudi Arabia,11
+2857,Al Jawf,194,SA,Saudi Arabia,12
+2851,Al Madinah,194,SA,Saudi Arabia,3
+2861,Al-Qassim,194,SA,Saudi Arabia,5
+2856,Eastern Province,194,SA,Saudi Arabia,4
+2855,Ha'il,194,SA,Saudi Arabia,6
+2858,Jizan,194,SA,Saudi Arabia,9
+2850,Makkah,194,SA,Saudi Arabia,2
+2860,Najran,194,SA,Saudi Arabia,10
+2854,Northern Borders,194,SA,Saudi Arabia,8
+2849,Riyadh,194,SA,Saudi Arabia,1
+2852,Tabuk,194,SA,Saudi Arabia,7
+473,Dakar,195,SN,Senegal,DK
+480,Diourbel Region,195,SN,Senegal,DB
+479,Fatick,195,SN,Senegal,FK
+475,Kaffrine,195,SN,Senegal,KA
+483,Kaolack,195,SN,Senegal,KL
+481,Kédougou,195,SN,Senegal,KE
+474,Kolda,195,SN,Senegal,KD
+485,Louga,195,SN,Senegal,LG
+476,Matam,195,SN,Senegal,MT
+477,Saint-Louis,195,SN,Senegal,SL
+482,Sédhiou,195,SN,Senegal,SE
+486,Tambacounda Region,195,SN,Senegal,TC
+484,Thiès Region,195,SN,Senegal,TH
+478,Ziguinchor,195,SN,Senegal,ZG
+3728,Belgrade,196,RS,Serbia,0
+3717,Bor District,196,RS,Serbia,14
+3732,Braničevo District,196,RS,Serbia,11
+3716,Central Banat District,196,RS,Serbia,2
+3715,Jablanica District,196,RS,Serbia,23
+3724,Kolubara District,196,RS,Serbia,9
+3719,Mačva District,196,RS,Serbia,8
+3727,Moravica District,196,RS,Serbia,17
+3722,Nišava District,196,RS,Serbia,20
+3714,North Bačka District,196,RS,Serbia,1
+3736,North Banat District,196,RS,Serbia,3
+3721,Pčinja District,196,RS,Serbia,24
+3712,Pirot District,196,RS,Serbia,22
+3741,Podunavlje District,196,RS,Serbia,10
+3737,Pomoravlje District,196,RS,Serbia,13
+3720,Rasina District,196,RS,Serbia,19
+3725,Raška District,196,RS,Serbia,18
+3711,South Bačka District,196,RS,Serbia,6
+3713,South Banat District,196,RS,Serbia,4
+3740,Srem District,196,RS,Serbia,7
+3734,Šumadija District,196,RS,Serbia,12
+3718,Toplica District,196,RS,Serbia,21
+3733,Vojvodina,196,RS,Serbia,VO
+3726,West Bačka District,196,RS,Serbia,5
+3731,Zaječar District,196,RS,Serbia,15
+3729,Zlatibor District,196,RS,Serbia,16
+513,Anse Boileau,197,SC,Seychelles,2
+502,Anse Royale,197,SC,Seychelles,5
+506,Anse-aux-Pins,197,SC,Seychelles,1
+508,Au Cap,197,SC,Seychelles,4
+497,Baie Lazare,197,SC,Seychelles,6
+514,Baie Sainte Anne,197,SC,Seychelles,7
+512,Beau Vallon,197,SC,Seychelles,8
+515,Bel Air,197,SC,Seychelles,9
+505,Bel Ombre,197,SC,Seychelles,10
+517,Cascade,197,SC,Seychelles,11
+503,Glacis,197,SC,Seychelles,12
+500,Grand'Anse Mahé,197,SC,Seychelles,13
+504,Grand'Anse Praslin,197,SC,Seychelles,14
+495,La Digue,197,SC,Seychelles,15
+516,La Rivière Anglaise,197,SC,Seychelles,16
+499,Les Mamelles,197,SC,Seychelles,24
+494,Mont Buxton,197,SC,Seychelles,17
+498,Mont Fleuri,197,SC,Seychelles,18
+511,Plaisance,197,SC,Seychelles,19
+510,Pointe La Rue,197,SC,Seychelles,20
+507,Port Glaud,197,SC,Seychelles,21
+501,Roche Caiman,197,SC,Seychelles,25
+496,Saint Louis,197,SC,Seychelles,22
+509,Takamaka,197,SC,Seychelles,23
+914,Eastern Province,198,SL,Sierra Leone,E
+911,Northern Province,198,SL,Sierra Leone,N
+912,Southern Province,198,SL,Sierra Leone,S
+913,Western Area,198,SL,Sierra Leone,W
+4651,Central Singapore,199,SG,Singapore,1
+4649,North East,199,SG,Singapore,2
+4653,North West,199,SG,Singapore,3
+4650,South East,199,SG,Singapore,4
+4652,South West,199,SG,Singapore,5
+4352,Banská Bystrica Region,200,SK,Slovakia,BC
+4356,Bratislava Region,200,SK,Slovakia,BL
+4353,Košice Region,200,SK,Slovakia,KI
+4357,Nitra Region,200,SK,Slovakia,NI
+4354,Prešov Region,200,SK,Slovakia,PV
+4358,Trenčín Region,200,SK,Slovakia,TC
+4355,Trnava Region,200,SK,Slovakia,TA
+4359,Žilina Region,200,SK,Slovakia,ZI
+4183,Ajdovščina Municipality,201,SI,Slovenia,1
+4326,Ankaran Municipality,201,SI,Slovenia,213
+4301,Beltinci Municipality,201,SI,Slovenia,2
+4166,Benedikt Municipality,201,SI,Slovenia,148
+4179,Bistrica ob Sotli Municipality,201,SI,Slovenia,149
+4202,Bled Municipality,201,SI,Slovenia,3
+4278,Bloke Municipality,201,SI,Slovenia,150
+4282,Bohinj Municipality,201,SI,Slovenia,4
+4200,Borovnica Municipality,201,SI,Slovenia,5
+4181,Bovec Municipality,201,SI,Slovenia,6
+4141,Braslovče Municipality,201,SI,Slovenia,151
+4240,Brda Municipality,201,SI,Slovenia,7
+4215,Brežice Municipality,201,SI,Slovenia,9
+4165,Brezovica Municipality,201,SI,Slovenia,8
+4147,Cankova Municipality,201,SI,Slovenia,152
+4310,Cerklje na Gorenjskem Municipality,201,SI,Slovenia,12
+4162,Cerknica Municipality,201,SI,Slovenia,13
+4178,Cerkno Municipality,201,SI,Slovenia,14
+4176,Cerkvenjak Municipality,201,SI,Slovenia,153
+4191,City Municipality of Celje,201,SI,Slovenia,11
+4236,City Municipality of Novo Mesto,201,SI,Slovenia,85
+4151,Črenšovci Municipality,201,SI,Slovenia,15
+4232,Črna na Koroškem Municipality,201,SI,Slovenia,16
+4291,Črnomelj Municipality,201,SI,Slovenia,17
+4304,Destrnik Municipality,201,SI,Slovenia,18
+4167,Divača Municipality,201,SI,Slovenia,19
+4295,Dobje Municipality,201,SI,Slovenia,154
+4216,Dobrepolje Municipality,201,SI,Slovenia,20
+4252,Dobrna Municipality,201,SI,Slovenia,155
+4308,Dobrova–Polhov Gradec Municipality,201,SI,Slovenia,21
+4189,Dobrovnik Municipality,201,SI,Slovenia,156
+4173,Dol pri Ljubljani Municipality,201,SI,Slovenia,22
+4281,Dolenjske Toplice Municipality,201,SI,Slovenia,157
+4159,Domžale Municipality,201,SI,Slovenia,23
+4290,Dornava Municipality,201,SI,Slovenia,24
+4345,Dravograd Municipality,201,SI,Slovenia,25
+4213,Duplek Municipality,201,SI,Slovenia,26
+4293,Gorenja Vas–Poljane Municipality,201,SI,Slovenia,27
+4210,Gorišnica Municipality,201,SI,Slovenia,28
+4284,Gorje Municipality,201,SI,Slovenia,207
+4343,Gornja Radgona Municipality,201,SI,Slovenia,29
+4339,Gornji Grad Municipality,201,SI,Slovenia,30
+4271,Gornji Petrovci Municipality,201,SI,Slovenia,31
+4217,Grad Municipality,201,SI,Slovenia,158
+4336,Grosuplje Municipality,201,SI,Slovenia,32
+4145,Hajdina Municipality,201,SI,Slovenia,159
+4175,Hoče–Slivnica Municipality,201,SI,Slovenia,160
+4327,Hodoš Municipality,201,SI,Slovenia,161
+4193,Horjul Municipality,201,SI,Slovenia,162
+4341,Hrastnik Municipality,201,SI,Slovenia,34
+4321,Hrpelje–Kozina Municipality,201,SI,Slovenia,35
+4152,Idrija Municipality,201,SI,Slovenia,36
+4286,Ig Municipality,201,SI,Slovenia,37
+4305,Ivančna Gorica Municipality,201,SI,Slovenia,39
+4322,Izola Municipality,201,SI,Slovenia,40
+4337,Jesenice Municipality,201,SI,Slovenia,41
+4203,Jezersko Municipality,201,SI,Slovenia,163
+4266,Juršinci Municipality,201,SI,Slovenia,42
+4180,Kamnik Municipality,201,SI,Slovenia,43
+4227,Kanal ob Soči Municipality,201,SI,Slovenia,44
+4150,Kidričevo Municipality,201,SI,Slovenia,45
+4243,Kobarid Municipality,201,SI,Slovenia,46
+4325,Kobilje Municipality,201,SI,Slovenia,47
+4335,Kočevje Municipality,201,SI,Slovenia,48
+4315,Komen Municipality,201,SI,Slovenia,49
+4283,Komenda Municipality,201,SI,Slovenia,164
+4319,Koper City Municipality,201,SI,Slovenia,50
+4254,Kostanjevica na Krki Municipality,201,SI,Slovenia,197
+4331,Kostel Municipality,201,SI,Slovenia,165
+4186,Kozje Municipality,201,SI,Slovenia,51
+4287,Kranj City Municipality,201,SI,Slovenia,52
+4340,Kranjska Gora Municipality,201,SI,Slovenia,53
+4238,Križevci Municipality,201,SI,Slovenia,166
+4197,Kungota,201,SI,Slovenia,55
+4211,Kuzma Municipality,201,SI,Slovenia,56
+4338,Laško Municipality,201,SI,Slovenia,57
+4142,Lenart Municipality,201,SI,Slovenia,58
+4225,Lendava Municipality,201,SI,Slovenia,59
+4347,Litija Municipality,201,SI,Slovenia,60
+4270,Ljubljana City Municipality,201,SI,Slovenia,61
+4294,Ljubno Municipality,201,SI,Slovenia,62
+4351,Ljutomer Municipality,201,SI,Slovenia,63
+4306,Log–Dragomer Municipality,201,SI,Slovenia,208
+4350,Logatec Municipality,201,SI,Slovenia,64
+4174,Loška Dolina Municipality,201,SI,Slovenia,65
+4158,Loški Potok Municipality,201,SI,Slovenia,66
+4156,Lovrenc na Pohorju Municipality,201,SI,Slovenia,167
+4219,Luče Municipality,201,SI,Slovenia,67
+4302,Lukovica Municipality,201,SI,Slovenia,68
+4157,Majšperk Municipality,201,SI,Slovenia,69
+4224,Makole Municipality,201,SI,Slovenia,198
+4242,Maribor City Municipality,201,SI,Slovenia,70
+4244,Markovci Municipality,201,SI,Slovenia,168
+4349,Medvode Municipality,201,SI,Slovenia,71
+4348,Mengeš Municipality,201,SI,Slovenia,72
+4323,Metlika Municipality,201,SI,Slovenia,73
+4265,Mežica Municipality,201,SI,Slovenia,74
+4223,Miklavž na Dravskem Polju Municipality,201,SI,Slovenia,169
+4220,Miren–Kostanjevica Municipality,201,SI,Slovenia,75
+4298,Mirna Municipality,201,SI,Slovenia,212
+4237,Mirna Peč Municipality,201,SI,Slovenia,170
+4212,Mislinja Municipality,201,SI,Slovenia,76
+4297,Mokronog–Trebelno Municipality,201,SI,Slovenia,199
+4168,Moravče Municipality,201,SI,Slovenia,77
+4218,Moravske Toplice Municipality,201,SI,Slovenia,78
+4190,Mozirje Municipality,201,SI,Slovenia,79
+4318,Municipality of Apače,201,SI,Slovenia,195
+4309,Municipality of Cirkulane,201,SI,Slovenia,196
+4344,Municipality of Ilirska Bistrica,201,SI,Slovenia,38
+4314,Municipality of Krško,201,SI,Slovenia,54
+4187,Municipality of Škofljica,201,SI,Slovenia,123
+4313,Murska Sobota City Municipality,201,SI,Slovenia,80
+4208,Muta Municipality,201,SI,Slovenia,81
+4177,Naklo Municipality,201,SI,Slovenia,82
+4329,Nazarje Municipality,201,SI,Slovenia,83
+4205,Nova Gorica City Municipality,201,SI,Slovenia,84
+4320,Odranci Municipality,201,SI,Slovenia,86
+4143,Oplotnica,201,SI,Slovenia,171
+4221,Ormož Municipality,201,SI,Slovenia,87
+4199,Osilnica Municipality,201,SI,Slovenia,88
+4172,Pesnica Municipality,201,SI,Slovenia,89
+4201,Piran Municipality,201,SI,Slovenia,90
+4184,Pivka Municipality,201,SI,Slovenia,91
+4146,Podčetrtek Municipality,201,SI,Slovenia,92
+4161,Podlehnik Municipality,201,SI,Slovenia,172
+4234,Podvelka Municipality,201,SI,Slovenia,93
+4239,Poljčane Municipality,201,SI,Slovenia,200
+4272,Polzela Municipality,201,SI,Slovenia,173
+4330,Postojna Municipality,201,SI,Slovenia,94
+4188,Prebold Municipality,201,SI,Slovenia,174
+4303,Preddvor Municipality,201,SI,Slovenia,95
+4274,Prevalje Municipality,201,SI,Slovenia,175
+4228,Ptuj City Municipality,201,SI,Slovenia,96
+4288,Puconci Municipality,201,SI,Slovenia,97
+4204,Rače–Fram Municipality,201,SI,Slovenia,98
+4195,Radeče Municipality,201,SI,Slovenia,99
+4292,Radenci Municipality,201,SI,Slovenia,100
+4275,Radlje ob Dravi Municipality,201,SI,Slovenia,101
+4231,Radovljica Municipality,201,SI,Slovenia,102
+4155,Ravne na Koroškem Municipality,201,SI,Slovenia,103
+4206,Razkrižje Municipality,201,SI,Slovenia,176
+4160,Rečica ob Savinji Municipality,201,SI,Slovenia,209
+4253,Renče–Vogrsko Municipality,201,SI,Slovenia,201
+4235,Ribnica Municipality,201,SI,Slovenia,104
+4207,Ribnica na Pohorju Municipality,201,SI,Slovenia,177
+4233,Rogaška Slatina Municipality,201,SI,Slovenia,106
+4264,Rogašovci Municipality,201,SI,Slovenia,105
+4209,Rogatec Municipality,201,SI,Slovenia,107
+4280,Ruše Municipality,201,SI,Slovenia,108
+4222,Šalovci Municipality,201,SI,Slovenia,33
+4230,Selnica ob Dravi Municipality,201,SI,Slovenia,178
+4346,Semič Municipality,201,SI,Slovenia,109
+4317,Šempeter–Vrtojba Municipality,201,SI,Slovenia,183
+4299,Šenčur Municipality,201,SI,Slovenia,117
+4324,Šentilj Municipality,201,SI,Slovenia,118
+4241,Šentjernej Municipality,201,SI,Slovenia,119
+4171,Šentjur Municipality,201,SI,Slovenia,120
+4311,Šentrupert Municipality,201,SI,Slovenia,211
+4268,Sevnica Municipality,201,SI,Slovenia,110
+4149,Sežana Municipality,201,SI,Slovenia,111
+4170,Škocjan Municipality,201,SI,Slovenia,121
+4316,Škofja Loka Municipality,201,SI,Slovenia,122
+4169,Slovenj Gradec City Municipality,201,SI,Slovenia,112
+4332,Slovenska Bistrica Municipality,201,SI,Slovenia,113
+4198,Slovenske Konjice Municipality,201,SI,Slovenia,114
+4285,Šmarje pri Jelšah Municipality,201,SI,Slovenia,124
+4289,Šmarješke Toplice Municipality,201,SI,Slovenia,206
+4296,Šmartno ob Paki Municipality,201,SI,Slovenia,125
+4279,Šmartno pri Litiji Municipality,201,SI,Slovenia,194
+4277,Sodražica Municipality,201,SI,Slovenia,179
+4261,Solčava Municipality,201,SI,Slovenia,180
+4248,Šoštanj Municipality,201,SI,Slovenia,126
+4263,Središče ob Dravi,201,SI,Slovenia,202
+4259,Starše Municipality,201,SI,Slovenia,115
+4185,Štore Municipality,201,SI,Slovenia,127
+4333,Straža Municipality,201,SI,Slovenia,203
+4164,Sveta Ana Municipality,201,SI,Slovenia,181
+4260,Sveta Trojica v Slovenskih Goricah Municipality,201,SI,Slovenia,204
+4229,Sveti Andraž v Slovenskih Goricah Municipality,201,SI,Slovenia,182
+4255,Sveti Jurij ob Ščavnici Municipality,201,SI,Slovenia,116
+4328,Sveti Jurij v Slovenskih Goricah Municipality,201,SI,Slovenia,210
+4273,Sveti Tomaž Municipality,201,SI,Slovenia,205
+4194,Tabor Municipality,201,SI,Slovenia,184
+4312,Tišina Municipality,201,SI,Slovenia,10
+4247,Tolmin Municipality,201,SI,Slovenia,128
+4246,Trbovlje Municipality,201,SI,Slovenia,129
+4214,Trebnje Municipality,201,SI,Slovenia,130
+4153,Trnovska Vas Municipality,201,SI,Slovenia,185
+4250,Tržič Municipality,201,SI,Slovenia,131
+4334,Trzin Municipality,201,SI,Slovenia,186
+4251,Turnišče Municipality,201,SI,Slovenia,132
+4267,Velika Polana Municipality,201,SI,Slovenia,187
+4144,Velike Lašče Municipality,201,SI,Slovenia,134
+4257,Veržej Municipality,201,SI,Slovenia,188
+4300,Videm Municipality,201,SI,Slovenia,135
+4196,Vipava Municipality,201,SI,Slovenia,136
+4148,Vitanje Municipality,201,SI,Slovenia,137
+4154,Vodice Municipality,201,SI,Slovenia,138
+4245,Vojnik Municipality,201,SI,Slovenia,139
+4163,Vransko Municipality,201,SI,Slovenia,189
+4262,Vrhnika Municipality,201,SI,Slovenia,140
+4226,Vuzenica Municipality,201,SI,Slovenia,141
+4269,Zagorje ob Savi Municipality,201,SI,Slovenia,142
+4258,Žalec Municipality,201,SI,Slovenia,190
+4182,Zavrč Municipality,201,SI,Slovenia,143
+4256,Železniki Municipality,201,SI,Slovenia,146
+4249,Žetale Municipality,201,SI,Slovenia,191
+4192,Žiri Municipality,201,SI,Slovenia,147
+4276,Žirovnica Municipality,201,SI,Slovenia,192
+4342,Zreče Municipality,201,SI,Slovenia,144
+4307,Žužemberk Municipality,201,SI,Slovenia,193
+4784,Central Province,202,SB,Solomon Islands,CE
+4781,Choiseul Province,202,SB,Solomon Islands,CH
+4785,Guadalcanal Province,202,SB,Solomon Islands,GU
+4778,Honiara,202,SB,Solomon Islands,CT
+4780,Isabel Province,202,SB,Solomon Islands,IS
+4782,Makira-Ulawa Province,202,SB,Solomon Islands,MK
+4783,Malaita Province,202,SB,Solomon Islands,ML
+4787,Rennell and Bellona Province,202,SB,Solomon Islands,RB
+4779,Temotu Province,202,SB,Solomon Islands,TE
+4786,Western Province,202,SB,Solomon Islands,WE
+925,Awdal Region,203,SO,Somalia,AW
+917,Bakool,203,SO,Somalia,BK
+927,Banaadir,203,SO,Somalia,BN
+930,Bari,203,SO,Somalia,BR
+926,Bay,203,SO,Somalia,BY
+918,Galguduud,203,SO,Somalia,GA
+928,Gedo,203,SO,Somalia,GE
+915,Hiran,203,SO,Somalia,HI
+924,Lower Juba,203,SO,Somalia,JH
+921,Lower Shebelle,203,SO,Somalia,SH
+922,Middle Juba,203,SO,Somalia,JD
+923,Middle Shebelle,203,SO,Somalia,SD
+916,Mudug,203,SO,Somalia,MU
+920,Nugal,203,SO,Somalia,NU
+919,Sanaag Region,203,SO,Somalia,SA
+929,Togdheer Region,203,SO,Somalia,TO
+938,Eastern Cape,204,ZA,South Africa,EC
+932,Free State,204,ZA,South Africa,FS
+936,Gauteng,204,ZA,South Africa,GP
+935,KwaZulu-Natal,204,ZA,South Africa,KZN
+933,Limpopo,204,ZA,South Africa,LP
+937,Mpumalanga,204,ZA,South Africa,MP
+934,North West,204,ZA,South Africa,NW
+931,Northern Cape,204,ZA,South Africa,NC
+939,Western Cape,204,ZA,South Africa,WC
+3860,Busan,116,KR,South Korea,26
+3846,Daegu,116,KR,South Korea,27
+3850,Daejeon,116,KR,South Korea,30
+3862,Gangwon Province,116,KR,South Korea,42
+3858,Gwangju,116,KR,South Korea,29
+3847,Gyeonggi Province,116,KR,South Korea,41
+3848,Incheon,116,KR,South Korea,28
+3853,Jeju,116,KR,South Korea,49
+3854,North Chungcheong Province,116,KR,South Korea,43
+3855,North Gyeongsang Province,116,KR,South Korea,47
+3851,North Jeolla Province,116,KR,South Korea,45
+3861,Sejong City,116,KR,South Korea,50
+3849,Seoul,116,KR,South Korea,11
+3859,South Chungcheong Province,116,KR,South Korea,44
+3857,South Gyeongsang Province,116,KR,South Korea,48
+3856,South Jeolla Province,116,KR,South Korea,46
+3852,Ulsan,116,KR,South Korea,31
+2092,Central Equatoria,206,SS,South Sudan,EC
+2093,Eastern Equatoria,206,SS,South Sudan,EE
+2094,Jonglei State,206,SS,South Sudan,JG
+2090,Lakes,206,SS,South Sudan,LK
+2088,Northern Bahr el Ghazal,206,SS,South Sudan,BN
+2085,Unity,206,SS,South Sudan,UY
+2086,Upper Nile,206,SS,South Sudan,NU
+2087,Warrap,206,SS,South Sudan,WR
+2091,Western Bahr el Ghazal,206,SS,South Sudan,BW
+2089,Western Equatoria,206,SS,South Sudan,EW
+5089,A Coruña,207,ES,Spain,C
+5109,Albacete,207,ES,Spain,AB
+5108,Alicante,207,ES,Spain,A
+5095,Almeria,207,ES,Spain,AL
+5093,Araba,207,ES,Spain,VI
+1160,Asturias,207,ES,Spain,O
+1189,Ávila,207,ES,Spain,AV
+5092,Badajoz,207,ES,Spain,BA
+5102,Barcelona,207,ES,Spain,B
+5094,Bizkaia,207,ES,Spain,BI
+1146,Burgos,207,ES,Spain,BU
+1190,Caceres,207,ES,Spain,CC
+5096,Cádiz,207,ES,Spain,CA
+5222,Canarias,207,ES,Spain,CN
+1170,Cantabria,207,ES,Spain,S
+5110,Castellón,207,ES,Spain,CS
+5223,Ceuta,207,ES,Spain,CE
+5105,Ciudad Real,207,ES,Spain,CR
+5097,Córdoba,207,ES,Spain,CO
+5106,Cuenca,207,ES,Spain,CU
+1191,Gipuzkoa,207,ES,Spain,SS
+5103,Girona,207,ES,Spain,GI
+5098,Granada,207,ES,Spain,GR
+5107,Guadalajara,207,ES,Spain,GU
+5099,Huelva,207,ES,Spain,H
+1177,Huesca,207,ES,Spain,HU
+1174,Islas Baleares,207,ES,Spain,PM
+5100,Jaén,207,ES,Spain,J
+1171,La Rioja,207,ES,Spain,LO
+1185,Las Palmas,207,ES,Spain,GC
+1200,León,207,ES,Spain,LE
+5104,Lleida,207,ES,Spain,L
+5090,Lugo,207,ES,Spain,LU
+1158,Madrid,207,ES,Spain,M
+5101,Málaga,207,ES,Spain,MA
+5224,Melilla,207,ES,Spain,ML
+1176,Murcia,207,ES,Spain,MU
+1204,Navarra,207,ES,Spain,NA
+5091,Ourense,207,ES,Spain,OR
+1157,Palencia,207,ES,Spain,P
+1167,Pontevedra,207,ES,Spain,PO
+1147,Salamanca,207,ES,Spain,SA
+5112,Santa Cruz de Tenerife,207,ES,Spain,TF
+1192,Segovia,207,ES,Spain,SG
+1193,Sevilla,207,ES,Spain,SE
+1208,Soria,207,ES,Spain,SO
+1203,Tarragona,207,ES,Spain,T
+5111,Teruel,207,ES,Spain,TE
+1205,Toledo,207,ES,Spain,TO
+1175,Valencia,207,ES,Spain,V
+1183,Valladolid,207,ES,Spain,VA
+1161,Zamora,207,ES,Spain,ZA
+5113,Zaragoza,207,ES,Spain,Z
+2799,Ampara District,208,LK,Sri Lanka,52
+2816,Anuradhapura District,208,LK,Sri Lanka,71
+2790,Badulla District,208,LK,Sri Lanka,81
+2818,Batticaloa District,208,LK,Sri Lanka,51
+2798,Central Province,208,LK,Sri Lanka,2
+2815,Colombo District,208,LK,Sri Lanka,11
+2808,Eastern Province,208,LK,Sri Lanka,5
+2792,Galle District,208,LK,Sri Lanka,31
+2804,Gampaha District,208,LK,Sri Lanka,12
+2791,Hambantota District,208,LK,Sri Lanka,33
+2787,Jaffna District,208,LK,Sri Lanka,41
+2789,Kalutara District,208,LK,Sri Lanka,13
+2788,Kandy District,208,LK,Sri Lanka,21
+2797,Kegalle District,208,LK,Sri Lanka,92
+2793,Kilinochchi District,208,LK,Sri Lanka,42
+2805,Mannar District,208,LK,Sri Lanka,43
+2810,Matale District,208,LK,Sri Lanka,22
+2806,Matara District,208,LK,Sri Lanka,32
+2819,Monaragala District,208,LK,Sri Lanka,82
+2814,Mullaitivu District,208,LK,Sri Lanka,45
+2800,North Central Province,208,LK,Sri Lanka,7
+2817,North Western Province,208,LK,Sri Lanka,6
+2813,Northern Province,208,LK,Sri Lanka,4
+2794,Nuwara Eliya District,208,LK,Sri Lanka,23
+2812,Polonnaruwa District,208,LK,Sri Lanka,72
+2796,Puttalam District,208,LK,Sri Lanka,62
+2807,Ratnapura district,208,LK,Sri Lanka,91
+2803,Sabaragamuwa Province,208,LK,Sri Lanka,9
+2801,Southern Province,208,LK,Sri Lanka,3
+2795,Trincomalee District,208,LK,Sri Lanka,53
+2811,Uva Province,208,LK,Sri Lanka,8
+2809,Vavuniya District,208,LK,Sri Lanka,44
+2802,Western Province,208,LK,Sri Lanka,1
+885,Al Jazirah,209,SD,Sudan,GZ
+886,Al Qadarif,209,SD,Sudan,GD
+887,Blue Nile,209,SD,Sudan,NB
+896,Central Darfur,209,SD,Sudan,DC
+892,East Darfur,209,SD,Sudan,DE
+884,Kassala,209,SD,Sudan,KA
+881,Khartoum,209,SD,Sudan,KH
+890,North Darfur,209,SD,Sudan,DN
+893,North Kordofan,209,SD,Sudan,KN
+895,Northern,209,SD,Sudan,NO
+880,Red Sea,209,SD,Sudan,RS
+891,River Nile,209,SD,Sudan,NR
+882,Sennar,209,SD,Sudan,SI
+894,South Darfur,209,SD,Sudan,DS
+883,South Kordofan,209,SD,Sudan,KS
+888,West Darfur,209,SD,Sudan,DW
+889,West Kordofan,209,SD,Sudan,GK
+879,White Nile,209,SD,Sudan,NW
+2846,Brokopondo District,210,SR,Suriname,BR
+2839,Commewijne District,210,SR,Suriname,CM
+2842,Coronie District,210,SR,Suriname,CR
+2845,Marowijne District,210,SR,Suriname,MA
+2840,Nickerie District,210,SR,Suriname,NI
+2841,Para District,210,SR,Suriname,PR
+2843,Paramaribo District,210,SR,Suriname,PM
+2848,Saramacca District,210,SR,Suriname,SA
+2847,Sipaliwini District,210,SR,Suriname,SI
+2844,Wanica District,210,SR,Suriname,WA
+1537,Blekinge County,213,SE,Sweden,K
+1534,Dalarna County,213,SE,Sweden,W
+1533,Gävleborg County,213,SE,Sweden,X
+1546,Gotland County,213,SE,Sweden,I
+1548,Halland County,213,SE,Sweden,N
+5117,Jämtland County,213,SE,Sweden,0
+1550,Jönköping County,213,SE,Sweden,F
+1544,Kalmar County,213,SE,Sweden,H
+1542,Kronoberg County,213,SE,Sweden,G
+1538,Norrbotten County,213,SE,Sweden,BD
+1539,Örebro County,213,SE,Sweden,T
+1536,Östergötland County,213,SE,Sweden,E
+1541,Skåne County,213,SE,Sweden,M
+1540,Södermanland County,213,SE,Sweden,D
+1551,Stockholm County,213,SE,Sweden,AB
+1545,Uppsala County,213,SE,Sweden,C
+1535,Värmland County,213,SE,Sweden,S
+1543,Västerbotten County,213,SE,Sweden,AC
+1552,Västernorrland County,213,SE,Sweden,Y
+1549,Västmanland County,213,SE,Sweden,U
+1547,Västra Götaland County,213,SE,Sweden,O
+1639,Aargau,214,CH,Switzerland,AG
+1655,Appenzell Ausserrhoden,214,CH,Switzerland,AR
+1649,Appenzell Innerrhoden,214,CH,Switzerland,AI
+1641,Basel-Land,214,CH,Switzerland,BL
+4957,Basel-Stadt,214,CH,Switzerland,BS
+1645,Bern,214,CH,Switzerland,BE
+1640,Fribourg,214,CH,Switzerland,FR
+1647,Geneva,214,CH,Switzerland,GE
+1661,Glarus,214,CH,Switzerland,GL
+1660,Graubünden,214,CH,Switzerland,GR
+1658,Jura,214,CH,Switzerland,JU
+1663,Lucerne,214,CH,Switzerland,LU
+1659,Neuchâtel,214,CH,Switzerland,NE
+1652,Nidwalden,214,CH,Switzerland,NW
+1650,Obwalden,214,CH,Switzerland,OW
+1654,Schaffhausen,214,CH,Switzerland,SH
+1653,Schwyz,214,CH,Switzerland,SZ
+1662,Solothurn,214,CH,Switzerland,SO
+1644,St. Gallen,214,CH,Switzerland,SG
+1657,Thurgau,214,CH,Switzerland,TG
+1643,Ticino,214,CH,Switzerland,TI
+1642,Uri,214,CH,Switzerland,UR
+1648,Valais,214,CH,Switzerland,VS
+1651,Vaud,214,CH,Switzerland,VD
+1646,Zug,214,CH,Switzerland,ZG
+1656,Zürich,214,CH,Switzerland,ZH
+2941,Al-Hasakah,215,SY,Syria,HA
+2944,Al-Raqqah,215,SY,Syria,RA
+2946,Aleppo,215,SY,Syria,HL
+2936,As-Suwayda,215,SY,Syria,SU
+2939,Damascus,215,SY,Syria,DI
+2945,Daraa,215,SY,Syria,DR
+2937,Deir ez-Zor,215,SY,Syria,DY
+2934,Hama,215,SY,Syria,HM
+2942,Homs,215,SY,Syria,HI
+2940,Idlib,215,SY,Syria,ID
+2938,Latakia,215,SY,Syria,LA
+2943,Quneitra,215,SY,Syria,QU
+2935,Rif Dimashq,215,SY,Syria,RD
+2947,Tartus,215,SY,Syria,TA
+3404,Changhua,216,TW,Taiwan,CHA
+3408,Chiayi,216,TW,Taiwan,CYI
+3418,Chiayi,216,TW,Taiwan,CYQ
+3423,Hsinchu,216,TW,Taiwan,HSQ
+3417,Hsinchu,216,TW,Taiwan,HSZ
+3411,Hualien,216,TW,Taiwan,HUA
+3412,Kaohsiung,216,TW,Taiwan,KHH
+4965,Keelung,216,TW,Taiwan,KEE
+3415,Kinmen,216,TW,Taiwan,KIN
+3420,Lienchiang,216,TW,Taiwan,LIE
+3413,Miaoli,216,TW,Taiwan,MIA
+3407,Nantou,216,TW,Taiwan,NAN
+4966,New Taipei,216,TW,Taiwan,NWT
+3403,Penghu,216,TW,Taiwan,PEN
+3405,Pingtung,216,TW,Taiwan,PIF
+3406,Taichung,216,TW,Taiwan,TXG
+3421,Tainan,216,TW,Taiwan,TNN
+3422,Taipei,216,TW,Taiwan,TPE
+3410,Taitung,216,TW,Taiwan,TTT
+3419,Taoyuan,216,TW,Taiwan,TAO
+3402,Yilan,216,TW,Taiwan,ILA
+3416,Yunlin,216,TW,Taiwan,YUN
+3397,districts of Republican Subordination,217,TJ,Tajikistan,RA
+3399,Gorno-Badakhshan Autonomous Province,217,TJ,Tajikistan,GB
+3398,Khatlon Province,217,TJ,Tajikistan,KT
+3400,Sughd Province,217,TJ,Tajikistan,SU
+1491,Arusha,218,TZ,Tanzania,1
+1490,Dar es Salaam,218,TZ,Tanzania,2
+1466,Dodoma,218,TZ,Tanzania,3
+1481,Geita,218,TZ,Tanzania,27
+1489,Iringa,218,TZ,Tanzania,4
+1465,Kagera,218,TZ,Tanzania,5
+1482,Katavi,218,TZ,Tanzania,28
+1478,Kigoma,218,TZ,Tanzania,8
+1467,Kilimanjaro,218,TZ,Tanzania,9
+1483,Lindi,218,TZ,Tanzania,12
+1484,Manyara,218,TZ,Tanzania,26
+1468,Mara,218,TZ,Tanzania,13
+4955,Mbeya,218,TZ,Tanzania,14
+1470,Morogoro,218,TZ,Tanzania,16
+1476,Mtwara,218,TZ,Tanzania,17
+1479,Mwanza,218,TZ,Tanzania,18
+1480,Njombe,218,TZ,Tanzania,29
+1488,Pemba North,218,TZ,Tanzania,6
+1472,Pemba South,218,TZ,Tanzania,10
+1485,Pwani,218,TZ,Tanzania,19
+1477,Rukwa,218,TZ,Tanzania,20
+1486,Ruvuma,218,TZ,Tanzania,21
+1463,Shinyanga,218,TZ,Tanzania,22
+1464,Simiyu,218,TZ,Tanzania,30
+1474,Singida,218,TZ,Tanzania,23
+4956,Songwe,218,TZ,Tanzania,31
+1469,Tabora,218,TZ,Tanzania,24
+1487,Tanga,218,TZ,Tanzania,25
+1473,Zanzibar North,218,TZ,Tanzania,7
+1471,Zanzibar South,218,TZ,Tanzania,11
+1475,Zanzibar West,218,TZ,Tanzania,15
+3523,Amnat Charoen,219,TH,Thailand,37
+3519,Ang Thong,219,TH,Thailand,15
+3554,Bangkok,219,TH,Thailand,10
+3533,Bueng Kan,219,TH,Thailand,38
+3534,Buri Ram,219,TH,Thailand,31
+3552,Chachoengsao,219,TH,Thailand,24
+3522,Chai Nat,219,TH,Thailand,18
+4954,Chaiyaphum,219,TH,Thailand,36
+3486,Chanthaburi,219,TH,Thailand,22
+3491,Chiang Mai,219,TH,Thailand,50
+3498,Chiang Rai,219,TH,Thailand,57
+3513,Chon Buri,219,TH,Thailand,20
+3526,Chumphon,219,TH,Thailand,86
+3550,Kalasin,219,TH,Thailand,46
+3516,Kamphaeng Phet,219,TH,Thailand,62
+3511,Kanchanaburi,219,TH,Thailand,71
+3485,Khon Kaen,219,TH,Thailand,40
+3478,Krabi,219,TH,Thailand,81
+3544,Lampang,219,TH,Thailand,52
+3483,Lamphun,219,TH,Thailand,51
+3509,Loei,219,TH,Thailand,42
+3543,Lop Buri,219,TH,Thailand,16
+3505,Mae Hong Son,219,TH,Thailand,58
+3517,Maha Sarakham,219,TH,Thailand,44
+3546,Mukdahan,219,TH,Thailand,49
+3535,Nakhon Nayok,219,TH,Thailand,26
+3503,Nakhon Pathom,219,TH,Thailand,73
+3548,Nakhon Phanom,219,TH,Thailand,48
+3497,Nakhon Ratchasima,219,TH,Thailand,30
+3492,Nakhon Sawan,219,TH,Thailand,60
+3520,Nakhon Si Thammarat,219,TH,Thailand,80
+3530,Nan,219,TH,Thailand,55
+3553,Narathiwat,219,TH,Thailand,96
+3480,Nong Bua Lam Phu,219,TH,Thailand,39
+3484,Nong Khai,219,TH,Thailand,43
+3495,Nonthaburi,219,TH,Thailand,12
+3500,Pathum Thani,219,TH,Thailand,13
+3540,Pattani,219,TH,Thailand,94
+3507,Pattaya,219,TH,Thailand,S
+3549,Phangnga,219,TH,Thailand,82
+3488,Phatthalung,219,TH,Thailand,93
+3538,Phayao,219,TH,Thailand,56
+3515,Phetchabun,219,TH,Thailand,67
+3532,Phetchaburi,219,TH,Thailand,76
+3514,Phichit,219,TH,Thailand,66
+3506,Phitsanulok,219,TH,Thailand,65
+3494,Phra Nakhon Si Ayutthaya,219,TH,Thailand,14
+3528,Phrae,219,TH,Thailand,54
+3536,Phuket,219,TH,Thailand,83
+3542,Prachin Buri,219,TH,Thailand,25
+3508,Prachuap Khiri Khan,219,TH,Thailand,77
+3479,Ranong,219,TH,Thailand,85
+3499,Ratchaburi,219,TH,Thailand,70
+3518,Rayong,219,TH,Thailand,21
+3510,Roi Et,219,TH,Thailand,45
+3529,Sa Kaeo,219,TH,Thailand,27
+3501,Sakon Nakhon,219,TH,Thailand,47
+3481,Samut Prakan,219,TH,Thailand,11
+3504,Samut Sakhon,219,TH,Thailand,74
+3502,Samut Songkhram,219,TH,Thailand,75
+3487,Saraburi,219,TH,Thailand,19
+3537,Satun,219,TH,Thailand,91
+3547,Si Sa Ket,219,TH,Thailand,33
+3490,Sing Buri,219,TH,Thailand,17
+3539,Songkhla,219,TH,Thailand,90
+3545,Sukhothai,219,TH,Thailand,64
+3524,Suphan Buri,219,TH,Thailand,72
+3482,Surat Thani,219,TH,Thailand,84
+3531,Surin,219,TH,Thailand,32
+3525,Tak,219,TH,Thailand,63
+3541,Trang,219,TH,Thailand,92
+3496,Trat,219,TH,Thailand,23
+3512,Ubon Ratchathani,219,TH,Thailand,34
+3527,Udon Thani,219,TH,Thailand,41
+3551,Uthai Thani,219,TH,Thailand,61
+3489,Uttaradit,219,TH,Thailand,53
+3493,Yala,219,TH,Thailand,95
+3521,Yasothon,219,TH,Thailand,35
+3601,Acklins,17,BS,The Bahamas,AK
+3628,Acklins and Crooked Islands,17,BS,The Bahamas,AC
+3593,Berry Islands,17,BS,The Bahamas,BY
+3629,Bimini,17,BS,The Bahamas,BI
+3605,Black Point,17,BS,The Bahamas,BP
+3611,Cat Island,17,BS,The Bahamas,CI
+3603,Central Abaco,17,BS,The Bahamas,CO
+3631,Central Andros,17,BS,The Bahamas,CS
+3596,Central Eleuthera,17,BS,The Bahamas,CE
+3621,Crooked Island,17,BS,The Bahamas,CK
+3614,East Grand Bahama,17,BS,The Bahamas,EG
+3612,Exuma,17,BS,The Bahamas,EX
+3626,Freeport,17,BS,The Bahamas,FP
+3619,Fresh Creek,17,BS,The Bahamas,FC
+3597,Governor's Harbour,17,BS,The Bahamas,GH
+3632,Grand Cay,17,BS,The Bahamas,GC
+3595,Green Turtle Cay,17,BS,The Bahamas,GT
+3613,Harbour Island,17,BS,The Bahamas,HI
+3598,High Rock,17,BS,The Bahamas,HR
+3624,Hope Town,17,BS,The Bahamas,HT
+3609,Inagua,17,BS,The Bahamas,IN
+3618,Kemps Bay,17,BS,The Bahamas,KB
+3610,Long Island,17,BS,The Bahamas,LI
+3625,Mangrove Cay,17,BS,The Bahamas,MC
+3604,Marsh Harbour,17,BS,The Bahamas,MH
+3633,Mayaguana District,17,BS,The Bahamas,MG
+4881,New Providence,17,BS,The Bahamas,NP
+3594,Nichollstown and Berry Islands,17,BS,The Bahamas,NB
+3616,North Abaco,17,BS,The Bahamas,NO
+3617,North Andros,17,BS,The Bahamas,NS
+3602,North Eleuthera,17,BS,The Bahamas,NE
+3615,Ragged Island,17,BS,The Bahamas,RI
+3623,Rock Sound,17,BS,The Bahamas,RS
+3600,Rum Cay District,17,BS,The Bahamas,RC
+3620,San Salvador and Rum Cay,17,BS,The Bahamas,SR
+3627,San Salvador Island,17,BS,The Bahamas,SS
+3606,Sandy Point,17,BS,The Bahamas,SP
+3608,South Abaco,17,BS,The Bahamas,SO
+3622,South Andros,17,BS,The Bahamas,SA
+3607,South Eleuthera,17,BS,The Bahamas,SE
+3630,Spanish Wells,17,BS,The Bahamas,SW
+3599,West Grand Bahama,17,BS,The Bahamas,WG
+2666,Banjul,80,GM,The Gambia ,B
+2669,Central River Division,80,GM,The Gambia ,M
+2670,Lower River Division,80,GM,The Gambia ,L
+2671,North Bank Division,80,GM,The Gambia ,N
+2668,Upper River Division,80,GM,The Gambia ,U
+2667,West Coast Division,80,GM,The Gambia ,W
+4520,Aileu municipality,63,TL,Timor-Leste,AL
+4518,Ainaro Municipality,63,TL,Timor-Leste,AN
+4521,Baucau Municipality,63,TL,Timor-Leste,BA
+4525,Bobonaro Municipality,63,TL,Timor-Leste,BO
+4522,Cova Lima Municipality,63,TL,Timor-Leste,CO
+4524,Dili municipality,63,TL,Timor-Leste,DI
+4516,Ermera District,63,TL,Timor-Leste,ER
+4523,Lautém Municipality,63,TL,Timor-Leste,LA
+4515,Liquiçá Municipality,63,TL,Timor-Leste,LI
+4517,Manatuto District,63,TL,Timor-Leste,MT
+4519,Manufahi Municipality,63,TL,Timor-Leste,MF
+4514,Viqueque Municipality,63,TL,Timor-Leste,VI
+2575,Centrale Region,220,TG,Togo,C
+2579,Kara Region,220,TG,Togo,K
+2576,Maritime,220,TG,Togo,M
+2577,Plateaux Region,220,TG,Togo,P
+2578,Savanes Region,220,TG,Togo,S
+3913,Haʻapai,222,TO,Tonga,2
+3915,ʻEua,222,TO,Tonga,1
+3914,Niuas,222,TO,Tonga,3
+3912,Tongatapu,222,TO,Tonga,4
+3911,Vavaʻu,222,TO,Tonga,5
+3362,Arima,223,TT,Trinidad and Tobago,ARI
+3366,Chaguanas,223,TT,Trinidad and Tobago,CHA
+3354,Couva-Tabaquite-Talparo Regional Corporation,223,TT,Trinidad and Tobago,CTT
+3367,Diego Martin Regional Corporation,223,TT,Trinidad and Tobago,DMN
+3355,Eastern Tobago,223,TT,Trinidad and Tobago,ETO
+3365,Penal-Debe Regional Corporation,223,TT,Trinidad and Tobago,PED
+3360,Point Fortin,223,TT,Trinidad and Tobago,PTF
+3363,Port of Spain,223,TT,Trinidad and Tobago,POS
+3368,Princes Town Regional Corporation,223,TT,Trinidad and Tobago,PRT
+3356,Rio Claro-Mayaro Regional Corporation,223,TT,Trinidad and Tobago,MRC
+3359,San Fernando,223,TT,Trinidad and Tobago,SFO
+3357,San Juan-Laventille Regional Corporation,223,TT,Trinidad and Tobago,SJL
+3361,Sangre Grande Regional Corporation,223,TT,Trinidad and Tobago,SGE
+3364,Siparia Regional Corporation,223,TT,Trinidad and Tobago,SIP
+3358,Tunapuna-Piarco Regional Corporation,223,TT,Trinidad and Tobago,TUP
+3353,Western Tobago,223,TT,Trinidad and Tobago,WTO
+2550,Ariana,224,TN,Tunisia,12
+2572,Béja,224,TN,Tunisia,31
+2566,Ben Arous,224,TN,Tunisia,13
+2551,Bizerte,224,TN,Tunisia,23
+2558,Gabès,224,TN,Tunisia,81
+2556,Gafsa,224,TN,Tunisia,71
+2552,Jendouba,224,TN,Tunisia,32
+2564,Kairouan,224,TN,Tunisia,41
+2570,Kasserine,224,TN,Tunisia,42
+2562,Kebili,224,TN,Tunisia,73
+2561,Kef,224,TN,Tunisia,33
+2568,Mahdia,224,TN,Tunisia,53
+2555,Manouba,224,TN,Tunisia,14
+2560,Medenine,224,TN,Tunisia,82
+2553,Monastir,224,TN,Tunisia,52
+5116,Nabeul,224,TN,Tunisia,21
+2557,Sfax,224,TN,Tunisia,61
+2567,Sidi Bouzid,224,TN,Tunisia,43
+2563,Siliana,224,TN,Tunisia,34
+2571,Sousse,224,TN,Tunisia,51
+2559,Tataouine,224,TN,Tunisia,83
+2569,Tozeur,224,TN,Tunisia,72
+2554,Tunis,224,TN,Tunisia,11
+2565,Zaghouan,224,TN,Tunisia,22
+2212,Adana,225,TR,Turkey,1
+2155,Adıyaman,225,TR,Turkey,2
+2179,Afyonkarahisar,225,TR,Turkey,3
+2193,Ağrı,225,TR,Turkey,4
+2210,Aksaray,225,TR,Turkey,68
+2161,Amasya,225,TR,Turkey,5
+2217,Ankara,225,TR,Turkey,6
+2169,Antalya,225,TR,Turkey,7
+2185,Ardahan,225,TR,Turkey,75
+2191,Artvin,225,TR,Turkey,8
+2187,Aydın,225,TR,Turkey,9
+2175,Balıkesir,225,TR,Turkey,10
+2148,Bartın,225,TR,Turkey,74
+2194,Batman,225,TR,Turkey,72
+2177,Bayburt,225,TR,Turkey,69
+2221,Bilecik,225,TR,Turkey,11
+2153,Bingöl,225,TR,Turkey,12
+2215,Bitlis,225,TR,Turkey,13
+2172,Bolu,225,TR,Turkey,14
+2209,Burdur,225,TR,Turkey,15
+2163,Bursa,225,TR,Turkey,16
+2216,Çanakkale,225,TR,Turkey,17
+2168,Çankırı,225,TR,Turkey,18
+2173,Çorum,225,TR,Turkey,19
+2157,Denizli,225,TR,Turkey,20
+2226,Diyarbakır,225,TR,Turkey,21
+2202,Düzce,225,TR,Turkey,81
+2151,Edirne,225,TR,Turkey,22
+2159,Elazığ,225,TR,Turkey,23
+2160,Erzincan,225,TR,Turkey,24
+2165,Erzurum,225,TR,Turkey,25
+2164,Eskişehir,225,TR,Turkey,26
+2203,Gaziantep,225,TR,Turkey,27
+2186,Giresun,225,TR,Turkey,28
+2204,Gümüşhane,225,TR,Turkey,29
+2190,Hakkâri,225,TR,Turkey,30
+2211,Hatay,225,TR,Turkey,31
+2166,Iğdır,225,TR,Turkey,76
+2222,Isparta,225,TR,Turkey,32
+2170,İstanbul,225,TR,Turkey,34
+2205,İzmir,225,TR,Turkey,35
+2227,Kahramanmaraş,225,TR,Turkey,46
+2223,Karabük,225,TR,Turkey,78
+2184,Karaman,225,TR,Turkey,70
+2208,Kars,225,TR,Turkey,36
+2197,Kastamonu,225,TR,Turkey,37
+2200,Kayseri,225,TR,Turkey,38
+2154,Kilis,225,TR,Turkey,79
+2178,Kırıkkale,225,TR,Turkey,71
+2176,Kırklareli,225,TR,Turkey,39
+2180,Kırşehir,225,TR,Turkey,40
+2195,Kocaeli,225,TR,Turkey,41
+2171,Konya,225,TR,Turkey,42
+2149,Kütahya,225,TR,Turkey,43
+2158,Malatya,225,TR,Turkey,44
+2198,Manisa,225,TR,Turkey,45
+2224,Mardin,225,TR,Turkey,47
+2156,Mersin,225,TR,Turkey,33
+2182,Muğla,225,TR,Turkey,48
+2162,Muş,225,TR,Turkey,49
+2196,Nevşehir,225,TR,Turkey,50
+2189,Niğde,225,TR,Turkey,51
+2174,Ordu,225,TR,Turkey,52
+2214,Osmaniye,225,TR,Turkey,80
+2219,Rize,225,TR,Turkey,53
+2150,Sakarya,225,TR,Turkey,54
+2220,Samsun,225,TR,Turkey,55
+2183,Şanlıurfa,225,TR,Turkey,63
+2207,Siirt,225,TR,Turkey,56
+4854,Sinop,225,TR,Turkey,57
+2181,Sivas,225,TR,Turkey,58
+2225,Şırnak,225,TR,Turkey,73
+2167,Tekirdağ,225,TR,Turkey,59
+2199,Tokat,225,TR,Turkey,60
+2206,Trabzon,225,TR,Turkey,61
+2192,Tunceli,225,TR,Turkey,62
+2201,Uşak,225,TR,Turkey,64
+2152,Van,225,TR,Turkey,65
+2218,Yalova,225,TR,Turkey,77
+2188,Yozgat,225,TR,Turkey,66
+2213,Zonguldak,225,TR,Turkey,67
+3374,Ahal Region,226,TM,Turkmenistan,A
+3371,Ashgabat,226,TM,Turkmenistan,S
+3372,Balkan Region,226,TM,Turkmenistan,B
+3373,Daşoguz Region,226,TM,Turkmenistan,D
+3370,Lebap Region,226,TM,Turkmenistan,L
+3369,Mary Region,226,TM,Turkmenistan,M
+3951,Funafuti,228,TV,Tuvalu,FUN
+3947,Nanumanga,228,TV,Tuvalu,NMG
+3949,Nanumea,228,TV,Tuvalu,NMA
+3946,Niutao Island Council,228,TV,Tuvalu,NIT
+3948,Nui,228,TV,Tuvalu,NUI
+3952,Nukufetau,228,TV,Tuvalu,NKF
+3953,Nukulaelae,228,TV,Tuvalu,NKL
+3950,Vaitupu,228,TV,Tuvalu,VAI
+329,Abim District,229,UG,Uganda,314
+361,Adjumani District,229,UG,Uganda,301
+392,Agago District,229,UG,Uganda,322
+344,Alebtong District,229,UG,Uganda,323
+416,Amolatar District,229,UG,Uganda,315
+353,Amudat District,229,UG,Uganda,324
+352,Amuria District,229,UG,Uganda,216
+335,Amuru District,229,UG,Uganda,316
+328,Apac District,229,UG,Uganda,302
+447,Arua District,229,UG,Uganda,303
+441,Budaka District,229,UG,Uganda,217
+349,Bududa District,229,UG,Uganda,218
+387,Bugiri District,229,UG,Uganda,201
+391,Buhweju District,229,UG,Uganda,420
+377,Buikwe District,229,UG,Uganda,117
+343,Bukedea District,229,UG,Uganda,219
+375,Bukomansimbi District,229,UG,Uganda,118
+385,Bukwo District,229,UG,Uganda,220
+428,Bulambuli District,229,UG,Uganda,225
+389,Buliisa District,229,UG,Uganda,416
+419,Bundibugyo District,229,UG,Uganda,401
+381,Bunyangabu District,229,UG,Uganda,430
+386,Bushenyi District,229,UG,Uganda,402
+431,Busia District,229,UG,Uganda,202
+365,Butaleja District,229,UG,Uganda,221
+384,Butambala District,229,UG,Uganda,119
+388,Butebo District,229,UG,Uganda,233
+414,Buvuma District,229,UG,Uganda,120
+380,Buyende District,229,UG,Uganda,226
+396,Central Region,229,UG,Uganda,C
+341,Dokolo District,229,UG,Uganda,317
+372,Eastern Region,229,UG,Uganda,E
+366,Gomba District,229,UG,Uganda,121
+413,Gulu District,229,UG,Uganda,304
+339,Ibanda District,229,UG,Uganda,417
+340,Iganga District,229,UG,Uganda,203
+383,Isingiro District,229,UG,Uganda,418
+367,Jinja District,229,UG,Uganda,204
+434,Kaabong District,229,UG,Uganda,318
+426,Kabale District,229,UG,Uganda,404
+326,Kabarole District,229,UG,Uganda,405
+336,Kaberamaido District,229,UG,Uganda,213
+403,Kagadi District,229,UG,Uganda,427
+399,Kakumiro District,229,UG,Uganda,428
+405,Kalangala District,229,UG,Uganda,101
+398,Kaliro District,229,UG,Uganda,222
+394,Kalungu District,229,UG,Uganda,122
+382,Kampala District,229,UG,Uganda,102
+334,Kamuli District,229,UG,Uganda,205
+360,Kamwenge District,229,UG,Uganda,413
+373,Kanungu District,229,UG,Uganda,414
+432,Kapchorwa District,229,UG,Uganda,206
+440,Kasese District,229,UG,Uganda,406
+420,Katakwi District,229,UG,Uganda,207
+368,Kayunga District,229,UG,Uganda,112
+436,Kibaale District,229,UG,Uganda,407
+347,Kiboga District,229,UG,Uganda,103
+338,Kibuku District,229,UG,Uganda,227
+355,Kiruhura District,229,UG,Uganda,419
+346,Kiryandongo District,229,UG,Uganda,421
+409,Kisoro District,229,UG,Uganda,408
+348,Kitgum District,229,UG,Uganda,305
+345,Koboko District,229,UG,Uganda,319
+401,Kole District,229,UG,Uganda,325
+443,Kotido District,229,UG,Uganda,306
+425,Kumi District,229,UG,Uganda,208
+369,Kween District,229,UG,Uganda,228
+325,Kyankwanzi District,229,UG,Uganda,123
+437,Kyegegwa District,229,UG,Uganda,422
+402,Kyenjojo District,229,UG,Uganda,415
+448,Kyotera District,229,UG,Uganda,125
+411,Lamwo District,229,UG,Uganda,326
+342,Lira District,229,UG,Uganda,307
+445,Luuka District,229,UG,Uganda,229
+433,Luwero District,229,UG,Uganda,104
+417,Lwengo District,229,UG,Uganda,124
+376,Lyantonde District,229,UG,Uganda,114
+438,Manafwa District,229,UG,Uganda,223
+421,Maracha District,229,UG,Uganda,320
+356,Masaka District,229,UG,Uganda,105
+354,Masindi District,229,UG,Uganda,409
+418,Mayuge District,229,UG,Uganda,214
+350,Mbale District,229,UG,Uganda,209
+415,Mbarara District,229,UG,Uganda,410
+435,Mitooma District,229,UG,Uganda,423
+364,Mityana District,229,UG,Uganda,115
+395,Moroto District,229,UG,Uganda,308
+363,Moyo District,229,UG,Uganda,309
+327,Mpigi District,229,UG,Uganda,106
+371,Mubende District,229,UG,Uganda,107
+410,Mukono District,229,UG,Uganda,108
+393,Nakapiripirit District,229,UG,Uganda,311
+423,Nakaseke District,229,UG,Uganda,116
+406,Nakasongola District,229,UG,Uganda,109
+351,Namayingo District,229,UG,Uganda,230
+400,Namisindwa District,229,UG,Uganda,234
+337,Namutumba District,229,UG,Uganda,224
+430,Napak District,229,UG,Uganda,327
+446,Nebbi District,229,UG,Uganda,310
+424,Ngora District,229,UG,Uganda,231
+332,Northern Region,229,UG,Uganda,N
+422,Ntoroko District,229,UG,Uganda,424
+404,Ntungamo District,229,UG,Uganda,411
+378,Nwoya District,229,UG,Uganda,328
+374,Omoro District,229,UG,Uganda,331
+390,Otuke District,229,UG,Uganda,329
+397,Oyam District,229,UG,Uganda,321
+408,Pader District,229,UG,Uganda,312
+357,Pakwach District,229,UG,Uganda,332
+412,Pallisa District,229,UG,Uganda,210
+439,Rakai District,229,UG,Uganda,110
+358,Rubanda District,229,UG,Uganda,429
+442,Rubirizi District,229,UG,Uganda,425
+331,Rukiga District,229,UG,Uganda,431
+324,Rukungiri District,229,UG,Uganda,412
+427,Sembabule District,229,UG,Uganda,111
+333,Serere District,229,UG,Uganda,232
+407,Sheema District,229,UG,Uganda,426
+429,Sironko District,229,UG,Uganda,215
+444,Soroti District,229,UG,Uganda,211
+359,Tororo District,229,UG,Uganda,212
+362,Wakiso District,229,UG,Uganda,113
+370,Western Region,229,UG,Uganda,W
+330,Yumbe District,229,UG,Uganda,313
+379,Zombo District,229,UG,Uganda,330
+4689,Autonomous Republic of Crimea,230,UA,Ukraine,43
+4680,Cherkaska oblast,230,UA,Ukraine,71
+4692,Chernihivska oblast,230,UA,Ukraine,74
+4678,Chernivetska oblast,230,UA,Ukraine,77
+4675,Dnipropetrovska oblast,230,UA,Ukraine,12
+4691,Donetska oblast,230,UA,Ukraine,14
+4682,Ivano-Frankivska oblast,230,UA,Ukraine,26
+4686,Kharkivska oblast,230,UA,Ukraine,63
+4684,Khersonska oblast,230,UA,Ukraine,65
+4681,Khmelnytska oblast,230,UA,Ukraine,68
+4677,Kirovohradska oblast,230,UA,Ukraine,35
+4676,Kyiv,230,UA,Ukraine,30
+4671,Kyivska oblast,230,UA,Ukraine,32
+4673,Luhanska oblast,230,UA,Ukraine,9
+4672,Lvivska oblast,230,UA,Ukraine,46
+4679,Mykolaivska oblast,230,UA,Ukraine,48
+4688,Odeska oblast,230,UA,Ukraine,51
+5071,Poltavska oblast,230,UA,Ukraine,53
+4683,Rivnenska oblast,230,UA,Ukraine,56
+1912,Sevastopol,230,UA,Ukraine,40
+4685,Sumska oblast,230,UA,Ukraine,59
+4674,Ternopilska oblast,230,UA,Ukraine,61
+4669,Vinnytska oblast,230,UA,Ukraine,5
+4690,Volynska oblast,230,UA,Ukraine,7
+4670,Zakarpatska Oblast,230,UA,Ukraine,21
+4687,Zaporizka oblast,230,UA,Ukraine,23
+4668,Zhytomyrska oblast,230,UA,Ukraine,18
+3396,Abu Dhabi Emirate,231,AE,United Arab Emirates,AZ
+3395,Ajman Emirate,231,AE,United Arab Emirates,AJ
+3391,Dubai,231,AE,United Arab Emirates,DU
+3393,Fujairah,231,AE,United Arab Emirates,FU
+3394,Ras al-Khaimah,231,AE,United Arab Emirates,RK
+3390,Sharjah Emirate,231,AE,United Arab Emirates,SH
+3392,Umm al-Quwain,231,AE,United Arab Emirates,UQ
+2463,Aberdeen,232,GB,United Kingdom,ABE
+2401,Aberdeenshire,232,GB,United Kingdom,ABD
+2387,Angus,232,GB,United Kingdom,ANS
+2533,Antrim,232,GB,United Kingdom,ANT
+2412,Antrim and Newtownabbey,232,GB,United Kingdom,ANN
+2498,Ards,232,GB,United Kingdom,ARD
+2523,Ards and North Down,232,GB,United Kingdom,AND
+2392,Argyll and Bute,232,GB,United Kingdom,AGB
+2331,Armagh City and District Council,232,GB,United Kingdom,ARM
+2324,"Armagh, Banbridge and Craigavon",232,GB,United Kingdom,ABC
+2378,Ascension Island,232,GB,United Kingdom,SH-AC
+2363,Ballymena Borough,232,GB,United Kingdom,BLA
+2361,Ballymoney,232,GB,United Kingdom,BLY
+2315,Banbridge,232,GB,United Kingdom,BNB
+2499,Barnsley,232,GB,United Kingdom,BNS
+2339,Bath and North East Somerset,232,GB,United Kingdom,BAS
+2507,Bedford,232,GB,United Kingdom,BDF
+2311,Belfast district,232,GB,United Kingdom,BFS
+2425,Birmingham,232,GB,United Kingdom,BIR
+2329,Blackburn with Darwen,232,GB,United Kingdom,BBD
+2451,Blackpool,232,GB,United Kingdom,BPL
+2530,Blaenau Gwent County Borough,232,GB,United Kingdom,BGW
+2504,Bolton,232,GB,United Kingdom,BOL
+2342,Bournemouth,232,GB,United Kingdom,BMH
+2470,Bracknell Forest,232,GB,United Kingdom,BRC
+2529,Bradford,232,GB,United Kingdom,BRD
+2452,Bridgend County Borough,232,GB,United Kingdom,BGE
+2395,Brighton and Hove,232,GB,United Kingdom,BNH
+2405,Buckinghamshire,232,GB,United Kingdom,BKM
+2459,Bury,232,GB,United Kingdom,BUR
+2298,Caerphilly County Borough,232,GB,United Kingdom,CAY
+2517,Calderdale,232,GB,United Kingdom,CLD
+2423,Cambridgeshire,232,GB,United Kingdom,CAM
+2484,Carmarthenshire,232,GB,United Kingdom,CMN
+2439,Carrickfergus Borough Council,232,GB,United Kingdom,CKF
+2525,Castlereagh,232,GB,United Kingdom,CSR
+2316,Causeway Coast and Glens,232,GB,United Kingdom,CCG
+2303,Central Bedfordshire,232,GB,United Kingdom,CBF
+2509,Ceredigion,232,GB,United Kingdom,CGN
+2444,Cheshire East,232,GB,United Kingdom,CHE
+2442,Cheshire West and Chester,232,GB,United Kingdom,CHW
+2528,City and County of Cardiff,232,GB,United Kingdom,CRF
+2433,City and County of Swansea,232,GB,United Kingdom,SWA
+2413,City of Bristol,232,GB,United Kingdom,BST
+2485,City of Derby,232,GB,United Kingdom,DER
+2475,City of Kingston upon Hull,232,GB,United Kingdom,KHL
+2318,City of Leicester,232,GB,United Kingdom,LCE
+2424,City of London,232,GB,United Kingdom,LND
+2359,City of Nottingham,232,GB,United Kingdom,NGM
+2297,City of Peterborough,232,GB,United Kingdom,PTE
+2514,City of Plymouth,232,GB,United Kingdom,PLY
+2305,City of Portsmouth,232,GB,United Kingdom,POR
+2294,City of Southampton,232,GB,United Kingdom,STH
+2506,City of Stoke-on-Trent,232,GB,United Kingdom,STE
+2372,City of Sunderland,232,GB,United Kingdom,SND
+2357,City of Westminster,232,GB,United Kingdom,WSM
+2489,City of Wolverhampton,232,GB,United Kingdom,WLV
+2426,City of York,232,GB,United Kingdom,YOR
+2450,Clackmannanshire,232,GB,United Kingdom,CLK
+2461,Coleraine Borough Council,232,GB,United Kingdom,CLR
+2352,Conwy County Borough,232,GB,United Kingdom,CWY
+2445,Cookstown District Council,232,GB,United Kingdom,CKT
+2312,Cornwall,232,GB,United Kingdom,CON
+2406,County Durham,232,GB,United Kingdom,DUR
+2438,Coventry,232,GB,United Kingdom,COV
+2449,Craigavon Borough Council,232,GB,United Kingdom,CGV
+2334,Cumbria,232,GB,United Kingdom,CMA
+2389,Darlington,232,GB,United Kingdom,DAL
+2497,Denbighshire,232,GB,United Kingdom,DEN
+2403,Derbyshire,232,GB,United Kingdom,DBY
+2446,Derry City and Strabane,232,GB,United Kingdom,DRS
+2417,Derry City Council,232,GB,United Kingdom,DRY
+2491,Devon,232,GB,United Kingdom,DEV
+2364,Doncaster,232,GB,United Kingdom,DNC
+2345,Dorset,232,GB,United Kingdom,DOR
+2304,Down District Council,232,GB,United Kingdom,DOW
+2457,Dudley,232,GB,United Kingdom,DUD
+2415,Dumfries and Galloway,232,GB,United Kingdom,DGY
+2511,Dundee,232,GB,United Kingdom,DND
+2508,Dungannon and South Tyrone Borough Council,232,GB,United Kingdom,DGN
+2374,East Ayrshire,232,GB,United Kingdom,EAY
+2454,East Dunbartonshire,232,GB,United Kingdom,EDU
+2462,East Lothian,232,GB,United Kingdom,ELN
+2333,East Renfrewshire,232,GB,United Kingdom,ERW
+2370,East Riding of Yorkshire,232,GB,United Kingdom,ERY
+2414,East Sussex,232,GB,United Kingdom,ESX
+2428,Edinburgh,232,GB,United Kingdom,EDH
+2336,England,232,GB,United Kingdom,ENG
+2410,Essex,232,GB,United Kingdom,ESS
+2344,Falkirk,232,GB,United Kingdom,FAL
+2366,Fermanagh and Omagh,232,GB,United Kingdom,FMO
+2531,Fermanagh District Council,232,GB,United Kingdom,FER
+2479,Fife,232,GB,United Kingdom,FIF
+2437,Flintshire,232,GB,United Kingdom,FLN
+2431,Gateshead,232,GB,United Kingdom,GAT
+2404,Glasgow,232,GB,United Kingdom,GLG
+2373,Gloucestershire,232,GB,United Kingdom,GLS
+2379,Gwynedd,232,GB,United Kingdom,GWN
+2466,Halton,232,GB,United Kingdom,HAL
+2435,Hampshire,232,GB,United Kingdom,HAM
+2309,Hartlepool,232,GB,United Kingdom,HPL
+2500,Herefordshire,232,GB,United Kingdom,HEF
+2369,Hertfordshire,232,GB,United Kingdom,HRT
+2383,Highland,232,GB,United Kingdom,HLD
+2388,Inverclyde,232,GB,United Kingdom,IVC
+2289,Isle of Wight,232,GB,United Kingdom,IOW
+2343,Isles of Scilly,232,GB,United Kingdom,IOS
+2464,Kent,232,GB,United Kingdom,KEN
+2371,Kirklees,232,GB,United Kingdom,KIR
+2330,Knowsley,232,GB,United Kingdom,KWL
+2495,Lancashire,232,GB,United Kingdom,LAN
+2515,Larne Borough Council,232,GB,United Kingdom,LRN
+2503,Leeds,232,GB,United Kingdom,LDS
+2516,Leicestershire,232,GB,United Kingdom,LEC
+2382,Limavady Borough Council,232,GB,United Kingdom,LMV
+2355,Lincolnshire,232,GB,United Kingdom,LIN
+2460,Lisburn and Castlereagh,232,GB,United Kingdom,LBC
+2494,Lisburn City Council,232,GB,United Kingdom,LSB
+2340,Liverpool,232,GB,United Kingdom,LIV
+2356,London Borough of Barking and Dagenham,232,GB,United Kingdom,BDG
+2520,London Borough of Barnet,232,GB,United Kingdom,BNE
+2307,London Borough of Bexley,232,GB,United Kingdom,BEX
+2291,London Borough of Brent,232,GB,United Kingdom,BEN
+2490,London Borough of Bromley,232,GB,United Kingdom,BRY
+2349,London Borough of Camden,232,GB,United Kingdom,CMD
+2512,London Borough of Croydon,232,GB,United Kingdom,CRY
+2532,London Borough of Ealing,232,GB,United Kingdom,EAL
+2476,London Borough of Enfield,232,GB,United Kingdom,ENF
+2411,London Borough of Hackney,232,GB,United Kingdom,HCK
+2448,London Borough of Hammersmith and Fulham,232,GB,United Kingdom,HMF
+2306,London Borough of Haringey,232,GB,United Kingdom,HRY
+2385,London Borough of Harrow,232,GB,United Kingdom,HRW
+2347,London Borough of Havering,232,GB,United Kingdom,HAV
+2376,London Borough of Hillingdon,232,GB,United Kingdom,HIL
+2380,London Borough of Hounslow,232,GB,United Kingdom,HNS
+2319,London Borough of Islington,232,GB,United Kingdom,ISL
+2396,London Borough of Lambeth,232,GB,United Kingdom,LBH
+2358,London Borough of Lewisham,232,GB,United Kingdom,LEW
+2483,London Borough of Merton,232,GB,United Kingdom,MRT
+2418,London Borough of Newham,232,GB,United Kingdom,NWM
+2397,London Borough of Redbridge,232,GB,United Kingdom,RDB
+2501,London Borough of Richmond upon Thames,232,GB,United Kingdom,RIC
+2432,London Borough of Southwark,232,GB,United Kingdom,SWK
+2313,London Borough of Sutton,232,GB,United Kingdom,STN
+2390,London Borough of Tower Hamlets,232,GB,United Kingdom,TWH
+2326,London Borough of Waltham Forest,232,GB,United Kingdom,WFT
+2434,London Borough of Wandsworth,232,GB,United Kingdom,WND
+2322,Magherafelt District Council,232,GB,United Kingdom,MFT
+2398,Manchester,232,GB,United Kingdom,MAN
+2381,Medway,232,GB,United Kingdom,MDW
+2328,Merthyr Tydfil County Borough,232,GB,United Kingdom,MTY
+2320,Metropolitan Borough of Wigan,232,GB,United Kingdom,WGN
+2429,Mid and East Antrim,232,GB,United Kingdom,MEA
+2399,Mid Ulster,232,GB,United Kingdom,MUL
+2332,Middlesbrough,232,GB,United Kingdom,MDB
+2519,Midlothian,232,GB,United Kingdom,MLN
+2416,Milton Keynes,232,GB,United Kingdom,MIK
+2402,Monmouthshire,232,GB,United Kingdom,MON
+2360,Moray,232,GB,United Kingdom,MRY
+2348,Moyle District Council,232,GB,United Kingdom,MYL
+2351,Neath Port Talbot County Borough,232,GB,United Kingdom,NTL
+2458,Newcastle upon Tyne,232,GB,United Kingdom,NET
+2524,Newport,232,GB,United Kingdom,NWP
+2350,Newry and Mourne District Council,232,GB,United Kingdom,NYM
+2534,"Newry, Mourne and Down",232,GB,United Kingdom,NMD
+2317,Newtownabbey Borough Council,232,GB,United Kingdom,NTA
+2473,Norfolk,232,GB,United Kingdom,NFK
+2535,North Ayrshire,232,GB,United Kingdom,NAY
+2513,North Down Borough Council,232,GB,United Kingdom,NDN
+2384,North East Lincolnshire,232,GB,United Kingdom,NEL
+2487,North Lanarkshire,232,GB,United Kingdom,NLK
+2453,North Lincolnshire,232,GB,United Kingdom,NLN
+2430,North Somerset,232,GB,United Kingdom,NSM
+2521,North Tyneside,232,GB,United Kingdom,NTY
+2522,North Yorkshire,232,GB,United Kingdom,NYK
+2480,Northamptonshire,232,GB,United Kingdom,NTH
+2337,Northern Ireland,232,GB,United Kingdom,NIR
+2365,Northumberland,232,GB,United Kingdom,NBL
+2456,Nottinghamshire,232,GB,United Kingdom,NTT
+2477,Oldham,232,GB,United Kingdom,OLD
+2314,Omagh District Council,232,GB,United Kingdom,OMH
+2474,Orkney Islands,232,GB,United Kingdom,ORK
+2353,Outer Hebrides,232,GB,United Kingdom,ELS
+2321,Oxfordshire,232,GB,United Kingdom,OXF
+2486,Pembrokeshire,232,GB,United Kingdom,PEM
+2325,Perth and Kinross,232,GB,United Kingdom,PKN
+2302,Poole,232,GB,United Kingdom,POL
+2441,Powys,232,GB,United Kingdom,POW
+2455,Reading,232,GB,United Kingdom,RDG
+2527,Redcar and Cleveland,232,GB,United Kingdom,RCC
+2443,Renfrewshire,232,GB,United Kingdom,RFW
+2301,Rhondda Cynon Taf,232,GB,United Kingdom,RCT
+2327,Rochdale,232,GB,United Kingdom,RCH
+2308,Rotherham,232,GB,United Kingdom,ROT
+2492,Royal Borough of Greenwich,232,GB,United Kingdom,GRE
+2368,Royal Borough of Kensington and Chelsea,232,GB,United Kingdom,KEC
+2481,Royal Borough of Kingston upon Thames,232,GB,United Kingdom,KTT
+2472,Rutland,232,GB,United Kingdom,RUT
+2502,Saint Helena,232,GB,United Kingdom,SH-HL
+2493,Salford,232,GB,United Kingdom,SLF
+2341,Sandwell,232,GB,United Kingdom,SAW
+2335,Scotland,232,GB,United Kingdom,SCT
+2346,Scottish Borders,232,GB,United Kingdom,SCB
+2518,Sefton,232,GB,United Kingdom,SFT
+2295,Sheffield,232,GB,United Kingdom,SHF
+2300,Shetland Islands,232,GB,United Kingdom,ZET
+2407,Shropshire,232,GB,United Kingdom,SHR
+2427,Slough,232,GB,United Kingdom,SLG
+2469,Solihull,232,GB,United Kingdom,SOL
+2386,Somerset,232,GB,United Kingdom,SOM
+2377,South Ayrshire,232,GB,United Kingdom,SAY
+2400,South Gloucestershire,232,GB,United Kingdom,SGC
+2362,South Lanarkshire,232,GB,United Kingdom,SLK
+2409,South Tyneside,232,GB,United Kingdom,STY
+2323,Southend-on-Sea,232,GB,United Kingdom,SOS
+2290,St Helens,232,GB,United Kingdom,SHN
+2447,Staffordshire,232,GB,United Kingdom,STS
+2488,Stirling,232,GB,United Kingdom,STG
+2394,Stockport,232,GB,United Kingdom,SKP
+2421,Stockton-on-Tees,232,GB,United Kingdom,STT
+2393,Strabane District Council,232,GB,United Kingdom,STB
+2467,Suffolk,232,GB,United Kingdom,SFK
+2526,Surrey,232,GB,United Kingdom,SRY
+2422,Swindon,232,GB,United Kingdom,SWD
+2367,Tameside,232,GB,United Kingdom,TAM
+2310,Telford and Wrekin,232,GB,United Kingdom,TFW
+2468,Thurrock,232,GB,United Kingdom,THR
+2478,Torbay,232,GB,United Kingdom,TOB
+2496,Torfaen,232,GB,United Kingdom,TOF
+2293,Trafford,232,GB,United Kingdom,TRF
+2375,United Kingdom,232,GB,United Kingdom,UKM
+2299,Vale of Glamorgan,232,GB,United Kingdom,VGL
+2465,Wakefield,232,GB,United Kingdom,WKF
+2338,Wales,232,GB,United Kingdom,WLS
+2292,Walsall,232,GB,United Kingdom,WLL
+2420,Warrington,232,GB,United Kingdom,WRT
+2505,Warwickshire,232,GB,United Kingdom,WAR
+2471,West Berkshire,232,GB,United Kingdom,WBK
+2440,West Dunbartonshire,232,GB,United Kingdom,WDU
+2354,West Lothian,232,GB,United Kingdom,WLN
+2296,West Sussex,232,GB,United Kingdom,WSX
+2391,Wiltshire,232,GB,United Kingdom,WIL
+2482,Windsor and Maidenhead,232,GB,United Kingdom,WNM
+2408,Wirral,232,GB,United Kingdom,WRL
+2419,Wokingham,232,GB,United Kingdom,WOK
+2510,Worcestershire,232,GB,United Kingdom,WOR
+2436,Wrexham County Borough,232,GB,United Kingdom,WRX
+1456,Alabama,233,US,United States,AL
+1400,Alaska,233,US,United States,AK
+1424,American Samoa,233,US,United States,AS
+1434,Arizona,233,US,United States,AZ
+1444,Arkansas,233,US,United States,AR
+1402,Baker Island,233,US,United States,UM-81
+1416,California,233,US,United States,CA
+1450,Colorado,233,US,United States,CO
+1435,Connecticut,233,US,United States,CT
+1399,Delaware,233,US,United States,DE
+1437,District of Columbia,233,US,United States,DC
+1436,Florida,233,US,United States,FL
+1455,Georgia,233,US,United States,GA
+1412,Guam,233,US,United States,GU
+1411,Hawaii,233,US,United States,HI
+1398,Howland Island,233,US,United States,UM-84
+1460,Idaho,233,US,United States,ID
+1425,Illinois,233,US,United States,IL
+1440,Indiana,233,US,United States,IN
+1459,Iowa,233,US,United States,IA
+1410,Jarvis Island,233,US,United States,UM-86
+1428,Johnston Atoll,233,US,United States,UM-67
+1406,Kansas,233,US,United States,KS
+1419,Kentucky,233,US,United States,KY
+1403,Kingman Reef,233,US,United States,UM-89
+1457,Louisiana,233,US,United States,LA
+1453,Maine,233,US,United States,ME
+1401,Maryland,233,US,United States,MD
+1433,Massachusetts,233,US,United States,MA
+1426,Michigan,233,US,United States,MI
+1438,Midway Atoll,233,US,United States,UM-71
+1420,Minnesota,233,US,United States,MN
+1430,Mississippi,233,US,United States,MS
+1451,Missouri,233,US,United States,MO
+1446,Montana,233,US,United States,MT
+1439,Navassa Island,233,US,United States,UM-76
+1408,Nebraska,233,US,United States,NE
+1458,Nevada,233,US,United States,NV
+1404,New Hampshire,233,US,United States,NH
+1417,New Jersey,233,US,United States,NJ
+1423,New Mexico,233,US,United States,NM
+1452,New York,233,US,United States,NY
+1447,North Carolina,233,US,United States,NC
+1418,North Dakota,233,US,United States,ND
+1431,Northern Mariana Islands,233,US,United States,MP
+4851,Ohio,233,US,United States,OH
+1421,Oklahoma,233,US,United States,OK
+1415,Oregon,233,US,United States,OR
+1448,Palmyra Atoll,233,US,United States,UM-95
+1422,Pennsylvania,233,US,United States,PA
+1449,Puerto Rico,233,US,United States,PR
+1461,Rhode Island,233,US,United States,RI
+1443,South Carolina,233,US,United States,SC
+1445,South Dakota,233,US,United States,SD
+1454,Tennessee,233,US,United States,TN
+1407,Texas,233,US,United States,TX
+1432,United States Minor Outlying Islands,233,US,United States,UM
+1413,United States Virgin Islands,233,US,United States,VI
+1414,Utah,233,US,United States,UT
+1409,Vermont,233,US,United States,VT
+1427,Virginia,233,US,United States,VA
+1405,Wake Island,233,US,United States,UM-79
+1462,Washington,233,US,United States,WA
+1429,West Virginia,233,US,United States,WV
+1441,Wisconsin,233,US,United States,WI
+1442,Wyoming,233,US,United States,WY
+5212,Baker Island,234,UM,United States Minor Outlying Islands,81
+5213,Howland Island,234,UM,United States Minor Outlying Islands,84
+5214,Jarvis Island,234,UM,United States Minor Outlying Islands,86
+5215,Johnston Atoll,234,UM,United States Minor Outlying Islands,67
+5216,Kingman Reef,234,UM,United States Minor Outlying Islands,89
+5217,Midway Islands,234,UM,United States Minor Outlying Islands,71
+5218,Navassa Island,234,UM,United States Minor Outlying Islands,76
+5219,Palmyra Atoll,234,UM,United States Minor Outlying Islands,95
+5220,Wake Island,234,UM,United States Minor Outlying Islands,79
+3205,Artigas,235,UY,Uruguay,AR
+3213,Canelones,235,UY,Uruguay,CA
+3211,Cerro Largo,235,UY,Uruguay,CL
+3208,Colonia,235,UY,Uruguay,CO
+3209,Durazno,235,UY,Uruguay,DU
+3203,Flores,235,UY,Uruguay,FS
+3217,Florida,235,UY,Uruguay,FD
+3215,Lavalleja,235,UY,Uruguay,LA
+3206,Maldonado,235,UY,Uruguay,MA
+3218,Montevideo,235,UY,Uruguay,MO
+3212,Paysandú,235,UY,Uruguay,PA
+3210,Río Negro,235,UY,Uruguay,RN
+3207,Rivera,235,UY,Uruguay,RV
+3216,Rocha,235,UY,Uruguay,RO
+3220,Salto,235,UY,Uruguay,SA
+3204,San José,235,UY,Uruguay,SJ
+3219,Soriano,235,UY,Uruguay,SO
+3221,Tacuarembó,235,UY,Uruguay,TA
+3214,Treinta y Tres,235,UY,Uruguay,TT
+2540,Andijan Region,236,UZ,Uzbekistan,AN
+2541,Bukhara Region,236,UZ,Uzbekistan,BU
+2538,Fergana Region,236,UZ,Uzbekistan,FA
+2545,Jizzakh Region,236,UZ,Uzbekistan,JI
+2548,Karakalpakstan,236,UZ,Uzbekistan,QR
+2537,Namangan Region,236,UZ,Uzbekistan,NG
+2542,Navoiy Region,236,UZ,Uzbekistan,NW
+2543,Qashqadaryo Region,236,UZ,Uzbekistan,QA
+2544,Samarqand Region,236,UZ,Uzbekistan,SA
+2547,Sirdaryo Region,236,UZ,Uzbekistan,SI
+2546,Surxondaryo Region,236,UZ,Uzbekistan,SU
+2536,Tashkent,236,UZ,Uzbekistan,TK
+2549,Tashkent Region,236,UZ,Uzbekistan,TO
+2539,Xorazm Region,236,UZ,Uzbekistan,XO
+4775,Malampa,237,VU,Vanuatu,MAP
+4773,Penama,237,VU,Vanuatu,PAM
+4776,Sanma,237,VU,Vanuatu,SAM
+4774,Shefa,237,VU,Vanuatu,SEE
+4777,Tafea,237,VU,Vanuatu,TAE
+4772,Torba,237,VU,Vanuatu,TOB
+2044,Amazonas,239,VE,Venezuela,Z
+2050,Anzoátegui,239,VE,Venezuela,B
+4856,Apure,239,VE,Venezuela,C
+2047,Aragua,239,VE,Venezuela,D
+2049,Barinas,239,VE,Venezuela,E
+2039,Bolívar,239,VE,Venezuela,F
+2040,Carabobo,239,VE,Venezuela,G
+2034,Cojedes,239,VE,Venezuela,H
+2051,Delta Amacuro,239,VE,Venezuela,Y
+4855,Distrito Capital,239,VE,Venezuela,A
+2035,Falcón,239,VE,Venezuela,I
+2046,Federal Dependencies of Venezuela,239,VE,Venezuela,W
+2045,Guárico,239,VE,Venezuela,J
+2055,La Guaira,239,VE,Venezuela,X
+2038,Lara,239,VE,Venezuela,K
+2053,Mérida,239,VE,Venezuela,L
+2037,Miranda,239,VE,Venezuela,M
+2054,Monagas,239,VE,Venezuela,N
+2052,Nueva Esparta,239,VE,Venezuela,O
+2036,Portuguesa,239,VE,Venezuela,P
+2056,Sucre,239,VE,Venezuela,R
+2048,Táchira,239,VE,Venezuela,S
+2043,Trujillo,239,VE,Venezuela,T
+2041,Yaracuy,239,VE,Venezuela,U
+2042,Zulia,239,VE,Venezuela,V
+3794,An Giang,240,VN,Vietnam,44
+3770,Bà Rịa-Vũng Tàu,240,VN,Vietnam,43
+3815,Bắc Giang,240,VN,Vietnam,54
+3822,Bắc Kạn,240,VN,Vietnam,53
+3804,Bạc Liêu,240,VN,Vietnam,55
+3791,Bắc Ninh,240,VN,Vietnam,56
+3796,Bến Tre,240,VN,Vietnam,50
+3785,Bình Dương,240,VN,Vietnam,57
+3830,Bình Định,240,VN,Vietnam,31
+3797,Bình Phước,240,VN,Vietnam,58
+3787,Bình Thuận,240,VN,Vietnam,40
+3778,Cà Mau,240,VN,Vietnam,59
+4925,Cần Thơ,240,VN,Vietnam,CT
+3782,Cao Bằng,240,VN,Vietnam,4
+3806,Đà Nẵng,240,VN,Vietnam,DN
+3829,Đắk Lắk,240,VN,Vietnam,33
+3823,Đắk Nông,240,VN,Vietnam,72
+3773,Điện Biên,240,VN,Vietnam,71
+3821,Đồng Nai,240,VN,Vietnam,39
+3769,Đồng Tháp,240,VN,Vietnam,45
+3813,Gia Lai,240,VN,Vietnam,30
+3779,Hà Giang,240,VN,Vietnam,3
+3802,Hà Nam,240,VN,Vietnam,63
+3810,Hà Nội,240,VN,Vietnam,HN
+3816,Hà Tĩnh,240,VN,Vietnam,23
+3827,Hải Dương,240,VN,Vietnam,61
+3783,Hải Phòng,240,VN,Vietnam,HP
+3777,Hậu Giang,240,VN,Vietnam,73
+3811,Hồ Chí Minh,240,VN,Vietnam,SG
+3799,Hòa Bình,240,VN,Vietnam,14
+3768,Hưng Yên,240,VN,Vietnam,66
+3793,Khánh Hòa,240,VN,Vietnam,34
+3800,Kiên Giang,240,VN,Vietnam,47
+3772,Kon Tum,240,VN,Vietnam,28
+3825,Lai Châu,240,VN,Vietnam,1
+3818,Lâm Đồng,240,VN,Vietnam,35
+3792,Lạng Sơn,240,VN,Vietnam,9
+3817,Lào Cai,240,VN,Vietnam,2
+3808,Long An,240,VN,Vietnam,41
+3789,Nam Định,240,VN,Vietnam,67
+3780,Nghệ An,240,VN,Vietnam,22
+3786,Ninh Bình,240,VN,Vietnam,18
+3788,Ninh Thuận,240,VN,Vietnam,36
+3801,Phú Thọ,240,VN,Vietnam,68
+3824,Phú Yên,240,VN,Vietnam,32
+3809,Quảng Bình,240,VN,Vietnam,24
+3776,Quảng Nam,240,VN,Vietnam,27
+3828,Quảng Ngãi,240,VN,Vietnam,29
+3814,Quảng Ninh,240,VN,Vietnam,13
+3803,Quảng Trị,240,VN,Vietnam,25
+3819,Sóc Trăng,240,VN,Vietnam,52
+3812,Sơn La,240,VN,Vietnam,5
+3826,Tây Ninh,240,VN,Vietnam,37
+3775,Thái Bình,240,VN,Vietnam,20
+3807,Thái Nguyên,240,VN,Vietnam,69
+3771,Thanh Hóa,240,VN,Vietnam,21
+3798,Thừa Thiên-Huế,240,VN,Vietnam,26
+3781,Tiền Giang,240,VN,Vietnam,46
+3805,Trà Vinh,240,VN,Vietnam,51
+3795,Tuyên Quang,240,VN,Vietnam,7
+3790,Vĩnh Long,240,VN,Vietnam,49
+3774,Vĩnh Phúc,240,VN,Vietnam,70
+3784,Yên Bái,240,VN,Vietnam,6
+5074,Saint Croix,242,VI,Virgin Islands (US),SC
+5073,Saint John,242,VI,Virgin Islands (US),SJ
+5072,Saint Thomas,242,VI,Virgin Islands (US),ST
+1242,'Adan,245,YE,Yemen,AD
+1250,'Amran,245,YE,Yemen,AM
+1237,Abyan,245,YE,Yemen,AB
+1240,Al Bayda',245,YE,Yemen,BA
+1241,Al Hudaydah,245,YE,Yemen,HU
+1243,Al Jawf,245,YE,Yemen,JA
+1251,Al Mahrah,245,YE,Yemen,MR
+1235,Al Mahwit,245,YE,Yemen,MW
+1232,Amanat Al Asimah,245,YE,Yemen,SA
+1246,Dhamar,245,YE,Yemen,DH
+1238,Hadhramaut,245,YE,Yemen,HD
+1244,Hajjah,245,YE,Yemen,HJ
+1233,Ibb,245,YE,Yemen,IB
+1245,Lahij,245,YE,Yemen,LA
+1234,Ma'rib,245,YE,Yemen,MA
+1248,Raymah,245,YE,Yemen,RA
+1249,Saada,245,YE,Yemen,SD
+1236,Sana'a,245,YE,Yemen,SN
+1247,Shabwah,245,YE,Yemen,SH
+1239,Socotra,245,YE,Yemen,SU
+1231,Ta'izz,245,YE,Yemen,TA
+1986,Central Province,246,ZM,Zambia,2
+1984,Copperbelt Province,246,ZM,Zambia,8
+1991,Eastern Province,246,ZM,Zambia,3
+1987,Luapula Province,246,ZM,Zambia,4
+1988,Lusaka Province,246,ZM,Zambia,9
+1989,Muchinga Province,246,ZM,Zambia,10
+1982,Northern Province,246,ZM,Zambia,5
+1985,Northwestern Province,246,ZM,Zambia,6
+1990,Southern Province,246,ZM,Zambia,7
+1983,Western Province,246,ZM,Zambia,1
+1956,Bulawayo Province,247,ZW,Zimbabwe,BU
+1958,Harare Province,247,ZW,Zimbabwe,HA
+1959,Manicaland,247,ZW,Zimbabwe,MA
+1955,Mashonaland Central Province,247,ZW,Zimbabwe,MC
+1951,Mashonaland East Province,247,ZW,Zimbabwe,ME
+1953,Mashonaland West Province,247,ZW,Zimbabwe,MW
+1960,Masvingo Province,247,ZW,Zimbabwe,MV
+1954,Matabeleland North Province,247,ZW,Zimbabwe,MN
+1952,Matabeleland South Province,247,ZW,Zimbabwe,MS
+1957,Midlands Province,247,ZW,Zimbabwe,MI
