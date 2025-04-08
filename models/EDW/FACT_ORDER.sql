@@ -22,6 +22,7 @@ bb."discprcnt" as Order_discount_percentage,
 bb."vatsum" as OrderTax,
 bb."expansum" as OrderExpenditure,
 bb. "docstatus" as OrderStatus,
+CASE when bb."discprcnt" = 100 then 'Y' Else 'N'END as ISPROMOITEM_ORDER,
 bb.Source, bb.Source_Region, cast(current_timestamp() as TIMESTAMP_NTZ) as Insert_Date, NULL as Update_Date, 'IO' as DML
 
 

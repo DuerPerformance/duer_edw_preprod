@@ -1,3 +1,7 @@
+
+
+
+
 select * EXCLUDE (currency_rate_2, channel), currency_rate_2, 'consolidated' as consolidation_type, ORDERDISCOUNT/(max_line_num+1) as ORDERDISCOUNT_2,
 
 --WHERE NOT (CHANNEL LIKE 'Other' AND LOCATION_NAME LIKE 'Pimlico%')
@@ -38,11 +42,12 @@ select * EXCLUDE (currency_rate_2, channel), currency_rate_2, 'consolidated' as 
         WHEN channel = 'Wholesale' AND WS LIKE '%WSEU%' THEN 'EU'
         
 
-    END AS country, LOC_NAME as LOCATION
+    END AS country, LOC_NAME as LOCATION,
 
+    --cte.BUDGET
 
-
-from {{ref('REP_SALES_MODEL_REPORT_PREV')}}
+from {{ref('REP_SALES_MODEL_REPORT_PREV')}} 
+--left join cte on a.DATE = cte.budget_date and a.LOC_NAME = cte.BUDGET_LOCATION
 
 union all
 select * EXCLUDE (currency_rate_2, channel), 1 as currency_rate_2, 'transaction' as consolidation_type, ORDERDISCOUNT/(max_line_num+1) as ORDERDISCOUNT_2,
@@ -85,11 +90,14 @@ select * EXCLUDE (currency_rate_2, channel), 1 as currency_rate_2, 'transaction'
         WHEN channel = 'Wholesale' AND WS LIKE '%WSEU%' THEN 'EU'
         
 
-    END AS country, LOC_NAME as LOCATION
+    END AS country, LOC_NAME as LOCATION,
+    --cte.budget
 
 
 
-from {{ref('REP_SALES_MODEL_REPORT_PREV')}}
+from {{ref('REP_SALES_MODEL_REPORT_PREV')}} 
+--left join cte on a.DATE = cte.budget_date and a.LOC_NAME = cte.BUDGET_LOCATION
+
 --WHERE NOT (CHANNEL LIKE 'Other' AND LOCATION_NAME LIKE 'Pimlico%')
 union all
 select * EXCLUDE (currency_rate_2, channel), currency_rate as currency_rate_2, 'subsidiary' as consolidation_type, ORDERDISCOUNT/(max_line_num+1) as ORDERDISCOUNT_2,
@@ -131,9 +139,12 @@ select * EXCLUDE (currency_rate_2, channel), currency_rate as currency_rate_2, '
         WHEN channel = 'Wholesale' AND WS LIKE '%WSEU%' THEN 'EU'
         
 
-    END AS country, LOC_NAME as LOCATION
+    END AS country, LOC_NAME as LOCATION,
+    --cte.budget
 
 
 
-from {{ref('REP_SALES_MODEL_REPORT_PREV')}}
+from {{ref('REP_SALES_MODEL_REPORT_PREV')}} 
+--left join cte on a.DATE = cte.budget_date and a.LOC_NAME= cte.BUDGET_LOCATION
+
 --WHERE NOT (CHANNEL LIKE 'Other' AND LOCATION_NAME LIKE 'Pimlico%')

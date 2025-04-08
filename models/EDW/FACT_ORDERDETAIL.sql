@@ -6,7 +6,7 @@ group by a.NAME, b.INDEX, b.PRICE, b.NAME, a.Source_region
 order by a.name,b.index 
 ),
 temp2 as (select
-ROW_NUMBER() over (partition by order_key,"linenum" order by 1) as rn,
+ROW_NUMBER() over (partition by order_key,a."linenum" order by 1) as rn,
 d.ORDER_KEY,
 a."linenum" as LINE_NUM,
 e.date_key_2 as order_date_key,
@@ -41,6 +41,12 @@ WHEN a."linestatus" = 'C' AND a."delivrdqty" > 0 AND a."delivrdqty" < a."quantit
 END line_status,
 
 cr."name" as Order_Line_Reason_Canceled,
+
+case when a."targettype" = 13 then b."docentry" when a."targettype" = 15 and dln1."targettype" = 13 then odln."docentry" end as invoice_docentry,
+case when a."targettype" = 13 then a."trgetentry" when a."targettype" = 15 and dln1."targettype" = 13 then dln1."trgetentry" end as invoice_targetentry,
+case when a."targettype" = 13 then a."linenum" when a."targettype" = 15 and dln1."targettype" = 13 then dln1."linenum" end as invoice_linenum,
+
+
 a.Source, a.Source_Region, cast(current_timestamp() as TIMESTAMP_NTZ) as Insert_Date, NULL as Update_Date, 'IO' as DML
 
 from {{ref('SAP_RDR1')}} a
@@ -53,6 +59,12 @@ left JOIN {{ref('DIM_PRODUCT')}} f on a."itemcode" = f.product_id
 left JOIN {{ref('DIM_ORDER')}} d on a."docentry" = d.docentry AND a.SOURCE_REGION = d.source_region
 left JOIN {{ref('DIM_WAREHOUSE')}} g on a."whscode" = g.warehouse_id and a.SOURCE_REGION = g.SOURCE_REGION
 left join {{ref('SAP_V33_CR')}} cr on a."u_v33_cr" = cr."code"
+
+
+
+left join {{ref('SAP_DLN1')}} dln1 on dln1."docentry" = odln."docentry" and b."docentry" = dln1."baseentry"
+and a."linenum" = dln1."baseline" and odln.SOURCE_REGION = dln1.Source_Region and a.source_region = b.source_region and b.source_region = odln.Source_Region
+
 
 )
 select * exclude rn from temp2 where rn = 1

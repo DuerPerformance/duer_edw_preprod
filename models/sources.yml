@@ -84,6 +84,10 @@ sources:
         identifier: DISHDUER_CA_OINV
       - name: US_OINV
         identifier: DISHDUER_USA_OINV
+      - name: CA_INV1
+        identifier: DISHDUER_CA_INV1
+      - name: US_INV1
+        identifier: DISHDUER_USA_INV1
       - name: CA_OJDT
         identifier: DISHDUER_CA_OJDT
       - name: US_OJDT
@@ -137,6 +141,30 @@ sources:
     schema: BUDGETS
     database: FIVETRAN_DB
     tables:
+
+      - name: BUDGET_CGY_2026
+        identifier: BUDGET_2026_RETAIL_CGY
+      - name: BUDGET_VAN_2026
+        identifier: BUDGET_2026_RETAIL_VAN
+      - name: BUDGET_SQ_1_2026
+        identifier: BUDGET_2026_RETAIL_SQ_1
+      - name: BUDGET_OTT_2026
+        identifier: BUDGET_2026_RETAIL_OTT
+      - name: BUDGET_TO_2026
+        identifier: BUDGET_2026_RETAIL_TO
+      - name: BUDGET_ED_2026
+        identifier: BUDGET_2026_RETAIL_EDM
+      - name: BUDGET_LA_2026
+        identifier: BUDGET_2026_RETAIL_LA
+      - name: BUDGET_DEN_2026
+        identifier: BUDGET_2026_RETAIL_DEN
+      - name: BUDGET_ECOMM_CA_2026
+        identifier: BUDGET_2026_ECOMM_CA
+      - name: BUDGET_ECOMM_US_2026
+        identifier: BUDGET_2026_ECOMM_US
+
+      - name: BUDGET_RC_07
+        identifier: BUDGET_2025_RETAIL_RC_07
       - name: BUDGET_CGY
         identifier: BUDGET_2025_RETAIL_CGY
       - name: BUDGET_VAN
@@ -148,7 +176,7 @@ sources:
       - name: BUDGET_TO
         identifier: BUDGET_2025_RETAIL_TO
       - name: BUDGET_ED
-        identifier: BUDGET_2025_RETAIL_ED
+        identifier: BUDGET_2025_RETAIL_EDM
       - name: BUDGET_LA
         identifier: BUDGET_2025_RETAIL_LA
       - name: BUDGET_DEN
